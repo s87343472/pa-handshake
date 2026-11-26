@@ -57,6 +57,7 @@ The PA sends an opening email to the responder's PA address, or to the human if 
 - the direction
 - that this is a PA Handshake, at most 10 rounds, and the responder can stop at any time
 - what it will share first (its owner's card)
+- for a responder who may never have heard of PA Handshake, a link that explains it and how to answer (e.g. https://pahandshake.com/respond)
 
 ### 4.2 Rounds
 
@@ -64,7 +65,7 @@ A round is one message from each side. Ten rounds at most. A typical plan:
 
 | Round | Purpose |
 |---|---|
-| 0 (no message) | Each PA reads the other side's public history and builds a timeline |
+| 0 (no message) | Each PA reads the other side's public history and builds a timeline, and rereads its own owner's public material |
 | 1 | Exchange cards and evidence lists |
 | 2–3 | Ask about the timeline: what was shipped, what is still alive, what was dropped and why |
 | 4 | Ask about outcomes: users, revenue, retention, ranges are fine |
