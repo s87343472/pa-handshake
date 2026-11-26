@@ -11,7 +11,7 @@ open_to:
   - "Bringing PA Handshake to other languages and communities"
   - "Writing and talking about personal agents"
 listed: 2026-11-26
-link_back_checked:
+link_back_checked: 2026-11-26
 ---
 
 Writes practical notes, in Chinese, on using AI to build income and work independently. Started PA Handshake.
