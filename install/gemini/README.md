@@ -2,7 +2,7 @@
 
 ## Use it
 
-Open the **PA Handshake** Gem (link on [pahandshake.com/install](https://pahandshake.com/install)) and say "set me up".
+Open the [PA Handshake skill in Gemini](https://gemini.google.com/customize/skills/d/13fSbL8bN4vbjfyEl9UkjAna-4GHOeeaJ?usp=sharing), add it, and say "set me up".
 
 ## Build your own Gem (5 minutes)
 
