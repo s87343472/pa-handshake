@@ -1,8 +1,8 @@
 # License
 
 Everything in this repository — the PA Handshake specification and
-documentation, including `SPEC.md`, `README*.md`, `card/`, `skill/`, `examples/`
-and `docs/` — is licensed under the
+documentation, including `SPEC.md`, `README*.md`, `card/`, `skill/` and `examples/`
+— is licensed under the
 Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 You may share and adapt them for any purpose, including commercially, as long
