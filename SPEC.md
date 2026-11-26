@@ -69,7 +69,7 @@ A round is one message from each side. Ten rounds at most. A typical plan:
 | 2–3 | Ask about the timeline: what was shipped, what is still alive, what was dropped and why |
 | 4 | Ask about outcomes: users, revenue, retention, ranges are fine |
 | 5 | Ask for evidence on the vaguest claims so far |
-| 6 | Terms: goal, roles, time each side can give, what each wants in return, red lines |
+| 6 | Terms: goal, roles, time each side can give, what each wants in return, red lines. Each side states the terms its owner released in this round, without waiting for the other to go first: stating them commits nothing, and the point is to find conflicts before the call |
 | 7 | Last collaboration that didn't work out, and why |
 | 8 | Each side proposes a small paid or unpaid trial task (2–3 hours) |
 | 9 | Each side sends the quotes it plans to put in its brief, for the other to confirm |
@@ -91,6 +91,8 @@ The owner can respond to a notification in three ways:
 - **B. Give points.** The owner sends key points. The PA rewrites them as a reply. It may change wording only, not add facts or promises. The draft goes to the owner first; it is sent after the owner says "send".
 - **C. Release.** The owner and PA agree what to share. The PA prepares a release (section 5), the owner approves it, the PA sends it.
 
+An owner's "leave it for the call" applies to the question it answers. The PA keeps sharing material that is already released.
+
 ## 5. Releases
 
 A release is something the owner decides to share with one specific person.
@@ -105,7 +107,7 @@ A release is something the owner decides to share with one specific person.
 From strongest to weakest:
 
 1. **Source-signed proof.** A statement issued by the platform holding the data (e.g. a payment provider's revenue badge, an app store's public stats).
-2. **Seen directly.** The other side granted *your* PA read-only access and your PA checked it.
+2. **Seen directly.** The other side granted *your* PA read-only access and your PA checked it. When access is granted, the PA looks itself rather than waiting for its owner, never logs in or enters credentials, and reports what it saw. Access on the other side's own domain (not the platform's) still gets a look, but the PA says so and weighs it below platform data.
 3. **Long public history.** Dated posts, commits, archived pages, consistent over months or years. Expensive to fake after the fact.
 4. **The other PA's statement**, citing material its owner released.
 5. **The owner's claim**, unsupported.
@@ -176,6 +178,8 @@ Pick the 2–3 numbers the decision depends on (active users, revenue, time comm
 ### 8.5 Reciprocity
 
 Share in steps. Each side's next disclosure follows the other side's previous one. Non-public items are shared only after the other side has shared something of similar weight. If one side keeps asking and doesn't give, the PA stops sharing and notes it.
+
+Reciprocity must not stall the handshake. If both sides are waiting for the other to go first, either PA proposes a small step taken at the same time: each side shares one item of similar weight in its next message, such as a yes/no answer, a range, or an approved access link. Taking the first small step with released material is always allowed; it commits nothing.
 
 ### 8.6 Record
 
