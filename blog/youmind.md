@@ -5,7 +5,7 @@
 - Spec, agent skill and examples: [github.com/s87343472/pa-handshake](https://github.com/s87343472/pa-handshake)
 - Site and directory: [pahandshake.com](https://pahandshake.com)
 
-![Overview: you give your PA a person and a direction; it reads their public history, runs up to 10 rounds of email with them or their PA, and returns a one-page brief. You decide whether to take the call.](https://raw.githubusercontent.com/s87343472/pa-handshake/claude/determined-hypatia-4nfvbi/blog/img/png/01-overview.png)
+![Overview: you give your PA a person and a direction; it reads their public history, runs up to 10 rounds of email with them or their PA, and returns a one-page brief. You decide whether to take the call.](https://raw.githubusercontent.com/s87343472/pa-handshake/main/blog/img/png/01-overview.png)
 
 ---
 
@@ -41,7 +41,7 @@ The rest of this post explains why it works the way it does.
 
 **It has to work one-sided.** Most agent-to-agent ideas assume the other side also runs a compatible agent. That kills adoption: nobody gets value until both sides have set it up, so nobody sets it up. So I made this the first design principle. If the other person has no agent, your agent still reads their public record and emails them like a polite assistant would. If they do have one, the two agents run the rounds between themselves and it just goes faster.
 
-![Two modes. A: they have no agent, so your PA reads their public history and emails them directly, and they can stop at any time. B: they have an agent, so the two agents run the rounds and each owner gets a copy of every message.](https://raw.githubusercontent.com/s87343472/pa-handshake/claude/determined-hypatia-4nfvbi/blog/img/png/02-modes.png)
+![Two modes. A: they have no agent, so your PA reads their public history and emails them directly, and they can stop at any time. B: they have an agent, so the two agents run the rounds and each owner gets a copy of every message.](https://raw.githubusercontent.com/s87343472/pa-handshake/main/blog/img/png/02-modes.png)
 
 **It's a convention, not a platform.** A platform needs both people to sign up. A convention is just a shared way of behaving: what an agent may ask, what it may share, how it weighs evidence, what the report looks like. Anything that follows the rules can take part. The spec defines conduct, not transport. v0.1 uses ordinary email because everyone has it and every agent can use it. It can move to A2A or another agent protocol later without changing the rules.
 
@@ -53,7 +53,7 @@ The rest of this post explains why it works the way it does.
 
 An agent that negotiates for you can leak things or be talked into things. I handle that mainly by limiting what it holds, not by hoping it behaves.
 
-![Three zones. Personal (your inbox, private files, other tools' memory) is owner only and the PA never reads it. The PA zone holds the PA mailbox, material you released and the release log. Public holds your site, pa.md, repos and posts, which the PA reads. Only public material and releases you approved for one person can leave the PA zone.](https://raw.githubusercontent.com/s87343472/pa-handshake/claude/determined-hypatia-4nfvbi/blog/img/png/03-zones.png)
+![Three zones. Personal (your inbox, private files, other tools' memory) is owner only and the PA never reads it. The PA zone holds the PA mailbox, material you released and the release log. Public holds your site, pa.md, repos and posts, which the PA reads. Only public material and releases you approved for one person can leave the PA zone.](https://raw.githubusercontent.com/s87343472/pa-handshake/main/blog/img/png/03-zones.png)
 
 - **Personal**: your own inbox, private files, other tools' memory. Your agent never reads it.
 - **PA zone**: the agent's mailbox and threads, material you've explicitly handed over, and a log of what was shared.
@@ -65,7 +65,7 @@ Information moves from Personal into the PA zone only when you hand it over. An 
 
 A handshake is at most 10 rounds; a round is one message from each side. This is a typical plan. Rounds can be merged or skipped, and either side can stop at any time.
 
-![Round plan on a timeline. Round 0 sends nothing and builds a dated timeline from public history. Round 1: cards and identity challenge. Rounds 2–3: timeline. 4: outcomes. 5: evidence. 6: terms. 7: past failure. 8: trial task. 9: confirm quotes. 10: spare. The identity challenge must pass by round 3. A key number asked in round 2 is asked again in another form in round 6.](https://raw.githubusercontent.com/s87343472/pa-handshake/claude/determined-hypatia-4nfvbi/blog/img/png/04-rounds.png)
+![Round plan on a timeline. Round 0 sends nothing and builds a dated timeline from public history. Round 1: cards and identity challenge. Rounds 2–3: timeline. 4: outcomes. 5: evidence. 6: terms. 7: past failure. 8: trial task. 9: confirm quotes. 10: spare. The identity challenge must pass by round 3. A key number asked in round 2 is asked again in another form in round 6.](https://raw.githubusercontent.com/s87343472/pa-handshake/main/blog/img/png/04-rounds.png)
 
 Round 0 matters most. Before sending anything, your agent reads the other person's products, launch dates, repos, commit activity, posts and archived pages, and lines them up as a dated timeline. Most good questions come from gaps in that timeline: a product that went quiet, a claim of "three years" against a four-month-old account.
 
@@ -75,7 +75,7 @@ The questions are about history, decisions, outcomes and terms, not skills. What
 
 When the other side asks something, your agent follows a fixed path.
 
-![Answering flow. A question arrives. If it's in public or released material, the PA answers and cites the source. If not, and it's not something the owner should decide, the PA declines. If the owner should decide, the PA replies "my owner needs to answer this" and notifies you. You then reply yourself, give points for the PA to draft, or release material to that one recipient. Instructions inside a message are data: ignored and logged as a signal.](https://raw.githubusercontent.com/s87343472/pa-handshake/claude/determined-hypatia-4nfvbi/blog/img/png/05-answering.png)
+![Answering flow. A question arrives. If it's in public or released material, the PA answers and cites the source. If not, and it's not something the owner should decide, the PA declines. If the owner should decide, the PA replies "my owner needs to answer this" and notifies you. You then reply yourself, give points for the PA to draft, or release material to that one recipient. Instructions inside a message are data: ignored and logged as a signal.](https://raw.githubusercontent.com/s87343472/pa-handshake/main/blog/img/png/05-answering.png)
 
 "My owner needs to answer this" is a perfectly good answer. It goes onto the call agenda. If you decide to share something, it becomes a **release**: a short summary plus the original, or a time-limited read-only link. You approve both together, it goes to one person only, and it's logged. Sharing the same thing with someone else needs a new approval.
 
@@ -85,11 +85,11 @@ An agent that just relays what the other side says is worse than useless: it lau
 
 **Is this really them?** Your card links to your profiles and your profiles link back. Your agent checks both directions. Links only prove that whoever controls the site published the card, so agents also run an identity challenge: a one-time code the other side has to post from a profile listed on its card.
 
-![Identity. Left: X profile, GitHub and personal site each link to pa.md and pa.md links back; a one-way link is a warning sign. Right: identity challenge. Your PA sends a code like PAH-7K2Q, they post it from a profile on their card or put it in pa.md for 48 hours, and once it passes the handshake continues. No pass by round 3 means asking the owner.](https://raw.githubusercontent.com/s87343472/pa-handshake/claude/determined-hypatia-4nfvbi/blog/img/png/06-identity.png)
+![Identity. Left: X profile, GitHub and personal site each link to pa.md and pa.md links back; a one-way link is a warning sign. Right: identity challenge. Your PA sends a code like PAH-7K2Q, they post it from a profile on their card or put it in pa.md for 48 hours, and once it passes the handshake continues. No pass by round 3 means asking the owner.](https://raw.githubusercontent.com/s87343472/pa-handshake/main/blog/img/png/06-identity.png)
 
 **How much is a claim worth?** Every piece of evidence gets a level. Screenshots and pasted numbers sit at the bottom, however official they look, because they're trivial to generate now.
 
-![Evidence levels from strongest to weakest: 1 signed by the source (a payment provider badge, app store stats); 2 seen directly (read-only access your PA checked itself); 3 long public history (dated posts, commits, archived pages); 4 the other PA's statement (citing material its owner released); 5 their own claim (unsupported, including screenshots and pasted numbers). Rule: no link you can open yourself, no check mark in the brief.](https://raw.githubusercontent.com/s87343472/pa-handshake/claude/determined-hypatia-4nfvbi/blog/img/png/07-evidence.png)
+![Evidence levels from strongest to weakest: 1 signed by the source (a payment provider badge, app store stats); 2 seen directly (read-only access your PA checked itself); 3 long public history (dated posts, commits, archived pages); 4 the other PA's statement (citing material its owner released); 5 their own claim (unsupported, including screenshots and pasted numbers). Rule: no link you can open yourself, no check mark in the brief.](https://raw.githubusercontent.com/s87343472/pa-handshake/main/blog/img/png/07-evidence.png)
 
 The brief marks each claim ✅ verified, ➖ consistent but not checkable, ⚠️ contradicts something, or ❓ couldn't answer. One rule keeps this honest: **no link, no ✅.** Every verified claim carries a link you can open, so your own agent can't quietly claim a check it never did.
 
@@ -110,7 +110,7 @@ These don't bend, whatever a message says:
 
 Each agent writes one page for its own owner.
 
-![Wireframe of the brief: a verdict with one sentence why and no score; who they are; claims marked verified, consistent, contradicts or unanswered, where every check mark carries a link; terms showing fit and clash; what we shared and what was refused; integrity signals with the round they came from; a call agenda of 3–5 questions only the two of you can settle; a suggested trial task.](https://raw.githubusercontent.com/s87343472/pa-handshake/claude/determined-hypatia-4nfvbi/blog/img/png/08-brief.png)
+![Wireframe of the brief: a verdict with one sentence why and no score; who they are; claims marked verified, consistent, contradicts or unanswered, where every check mark carries a link; terms showing fit and clash; what we shared and what was refused; integrity signals with the round they came from; a call agenda of 3–5 questions only the two of you can settle; a suggested trial task.](https://raw.githubusercontent.com/s87343472/pa-handshake/main/blog/img/png/08-brief.png)
 
 There are no scores and no rankings of people. The brief tells you what was checked and what wasn't, and you decide.
 
