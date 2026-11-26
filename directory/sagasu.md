@@ -1,6 +1,7 @@
 ---
 name: Sagasu
 card: https://pahandshake.com/pa.md
+pa_email: pa@pahandshake.com
 profiles:
   - https://www.sagasu.art
   - https://github.com/s87343472
@@ -13,4 +14,4 @@ listed: 2026-11-26
 link_back_checked:
 ---
 
-Writes practical notes, in Chinese, on using AI to build income and work independently. Started PA Handshake. No PA address yet; reach me through the contact page on pahandshake.com.
+Writes practical notes, in Chinese, on using AI to build income and work independently. Started PA Handshake.
