@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" width="800" height="540"><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#141413"/></marker><marker id="o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2603F"/></marker></defs><style>text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#141413;font-size:14px}.t{font-size:15px;font-weight:600}.s{font-size:12.5px;fill:#6B6A65}.x{font-size:12.5px;fill:#C2603F}.h{font-size:13px;font-weight:600;letter-spacing:.04em;fill:#6B6A65}.b{fill:#fff;stroke:#141413;stroke-width:1.5}.l{stroke:#141413;stroke-width:1.5;fill:none}.d{stroke-dasharray:5 4}.ol{stroke:#C2603F;stroke-width:1.5;fill:none}.p{fill:#F0EEE6}.q{fill:#F7E4DA}.g{fill:#E3E1D9}</style><rect width="800" height="540" fill="#FAF9F5"/>
+<rect class="b" x="220" y="20" width="360" height="500" rx="6"/>
+<rect x="240" y="40" width="150" height="26" rx="13" class="q" style="stroke:#C2603F"/><text class="t" x="255" y="58" style="font-size:13px">Worth a call</text><rect class="g" x="400" y="49" width="160" height="8" rx="4"/>
+<text class="h" x="240" y="96">WHO THEY ARE</text><rect class="g" x="240" y="106" width="300" height="7" rx="3"/><rect class="g" x="240" y="119" width="260" height="7" rx="3"/>
+<text class="h" x="240" y="152">CLAIMS</text>
+<g style="font-size:12px"><circle cx="249" cy="172" r="8" class="b"/><text x="249" y="176" text-anchor="middle" style="font-size:11px">✓</text><rect class="g" x="265" y="168" width="230" height="7" rx="3"/>
+<circle cx="249" cy="194" r="8" class="b"/><text x="249" y="198" text-anchor="middle" style="font-size:11px">–</text><rect class="g" x="265" y="190" width="200" height="7" rx="3"/>
+<circle cx="249" cy="216" r="8" class="b" style="stroke:#C2603F"/><text class="x" x="249" y="220" text-anchor="middle" style="font-size:11px">!</text><rect class="g" x="265" y="212" width="250" height="7" rx="3"/>
+<circle cx="249" cy="238" r="8" class="b"/><text x="249" y="242" text-anchor="middle" style="font-size:11px">?</text><rect class="g" x="265" y="234" width="180" height="7" rx="3"/></g>
+<text class="h" x="240" y="276">TERMS</text><text class="s" x="240" y="296">fit</text><rect class="g" x="270" y="290" width="120" height="7" rx="3"/><text class="x" x="400" y="296">clash</text><rect class="g" x="440" y="290" width="100" height="7" rx="3"/>
+<text class="h" x="240" y="330">WHAT WE SHARED</text><rect class="g" x="240" y="340" width="280" height="7" rx="3"/>
+<text class="h" x="240" y="374">INTEGRITY SIGNALS</text><rect class="g" x="240" y="384" width="240" height="7" rx="3"/>
+<text class="h" x="240" y="418">CALL AGENDA</text><text class="s" x="240" y="438">1</text><rect class="g" x="254" y="432" width="250" height="7" rx="3"/><text class="s" x="240" y="456">2</text><rect class="g" x="254" y="450" width="220" height="7" rx="3"/>
+<text class="h" x="240" y="490">TRIAL TASK</text><rect class="g" x="330" y="484" width="180" height="7" rx="3"/>
+<line class="l d" x1="200" y1="53" x2="236" y2="53"/><text class="s" x="194" y="49" text-anchor="end">one sentence why,</text><text class="s" x="194" y="66" text-anchor="end">no score</text>
+<line class="l d" x1="520" y1="172" x2="600" y2="172"/><text class="s" x="606" y="168">every ✓ carries a link</text><text class="s" x="606" y="185">you can open</text>
+<line class="l d" x1="200" y1="294" x2="236" y2="294"/><text class="s" x="194" y="298" text-anchor="end">found before the call</text>
+<line class="l d" x1="530" y1="343" x2="600" y2="343"/><text class="s" x="606" y="340">everything disclosed,</text><text class="s" x="606" y="357">and what was refused</text>
+<line class="l d" x1="200" y1="387" x2="236" y2="387"/><text class="s" x="194" y="384" text-anchor="end">each with the round</text><text class="s" x="194" y="401" text-anchor="end">it came from</text>
+<line class="l d" x1="514" y1="441" x2="600" y2="441"/><text class="s" x="606" y="438">3–5 questions only</text><text class="s" x="606" y="455">the two of you can settle</text>
+</svg>
