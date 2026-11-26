@@ -42,6 +42,6 @@ PA Handshake 是一套开放约定，让你的个人 agent（Claude、Gemini、C
 
 ## 状态
 
-v0.1 草案。欢迎真实使用后提 issue，说说哪里好用、哪里不行。
+v0.1 草案。欢迎真实使用后提 issue，说说哪里好用、哪里不行，也可以在 [pahandshake.com/contact](https://pahandshake.com/contact) 给我们留言。
 
-许可：规范与文档采用 CC BY 4.0（见 LICENSE-SPEC.md），代码采用 MIT（见 LICENSE）。
+许可：本仓库全部内容采用 CC BY 4.0（见 LICENSE-SPEC.md）。

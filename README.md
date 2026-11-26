@@ -42,6 +42,6 @@ Your PA can run a handshake with anyone. If the other person has no PA, it reads
 
 ## Status
 
-v0.1 draft. Feedback and real-world runs welcome — open an issue with what worked and what didn't.
+v0.1 draft. Feedback and real-world runs welcome: open an issue with what worked and what didn't, or write to us at [pahandshake.com/contact](https://pahandshake.com/contact).
 
-License: the spec and docs are [CC BY 4.0](LICENSE-SPEC.md); code is [MIT](LICENSE).
+License: everything in this repository is [CC BY 4.0](LICENSE-SPEC.md).
