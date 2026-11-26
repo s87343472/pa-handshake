@@ -5,8 +5,8 @@ PA Handshake works with the assistant you already use. Pick yours:
 | Assistant | How | Effort |
 |---|---|---|
 | [Claude](claude/README.md) | Upload the skill once; it's there in every chat | 2 minutes |
-| [ChatGPT](chatgpt/README.md) | Open the PA Handshake GPT, or build your own from the files here | 1 minute to open, 5 to build |
-| [Gemini](gemini/README.md) | Open the PA Handshake Gem, or build your own | 1 minute to open, 5 to build |
+| [ChatGPT](chatgpt/README.md) | Put the skill file and a short prompt in a Project | 2 minutes |
+| [Gemini](gemini/README.md) | Open the ready-made PA Handshake skill, or build your own Gem | 1 minute to open, 5 to build |
 | [DeepSeek](deepseek/README.md) | Paste a short prompt at the start of a chat and attach one file | 1 minute per chat |
 | Anything else | Give it [`skill/SKILL.md`](../skill/SKILL.md) as instructions, or use the prompt builders at [pahandshake.com/start](https://pahandshake.com/start) and [/respond](https://pahandshake.com/respond) | |
 
