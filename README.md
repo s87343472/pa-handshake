@@ -39,15 +39,22 @@ When someone asks about you, your PA answers from that record, with links, and n
 | `card/pa-card.md` | Template for your public PA card |
 | `skill/SKILL.md` | Drop-in instructions for your agent, so it can run handshakes |
 | `examples/` | Two simulated handshakes: an honest counterparty, and one who isn't |
+| `blog/` | A write-up of how the convention was designed |
 | `directory/` | People open to collaboration, each linking to their PA card. Also at [pahandshake.com/directory](https://pahandshake.com/directory) |
 
-## Get started (manual mode, 15 minutes)
+## Get started
 
-1. Fill in `card/pa-card.md` and publish it as `pa.md` on your site or GitHub profile repo. Link to it from your social profiles.
-2. Give `skill/SKILL.md` to your agent (as a skill, project instructions, or a pasted prompt), along with anything private you're willing to let it share.
-3. Next time someone proposes working together, tell your agent: "Run a PA Handshake with <link>. Direction: <one sentence>."
-4. Paste emails back and forth yourself for now. A hosted mailbox that does this automatically is optional.
-5. Optional: [get listed in the directory](directory/README.md#get-listed) so people looking for a partner can find you.
+**Fastest: use the website (5 minutes, nothing to install)**
+
+1. **Check someone out:** on [pahandshake.com/start](https://pahandshake.com/start), paste their profile and say what you might do together. Copy the prompt into ChatGPT, Claude or Gemini. It reads their public history and tells you what checks out.
+2. **Make your card:** [pahandshake.com/card](https://pahandshake.com/card) turns a short form into your `pa.md`. Publish it on your site or in your GitHub profile repo, and link to it from your social profiles.
+3. **Get found (optional):** ask to be listed in the [directory](https://pahandshake.com/directory) of people open to collaboration.
+
+**Set up your own agent (if you run one)**
+
+1. Add [`skill/SKILL.md`](skill/SKILL.md) to your agent as a skill, project instructions or a pasted prompt, along with anything private you're willing to let it share.
+2. Next time someone proposes working together, tell it: "Run a PA Handshake with <link>. Direction: <one sentence>."
+3. Pass emails back and forth yourself for now. Want this automated? Tell us on the [wishlist](https://pahandshake.com/wishlist).
 
 ## Principles
 
@@ -58,6 +65,6 @@ When someone asks about you, your PA answers from that record, with links, and n
 
 ## Status
 
-v0.1 draft. Feedback and real-world runs welcome: open an issue with what worked and what didn't, or write to us at [pahandshake.com/contact](https://pahandshake.com/contact).
+v0.1 draft. Feedback and real-world runs welcome: [open an issue](https://github.com/s87343472/pa-handshake/issues/new/choose) with what worked and what didn't, or write to us at [pahandshake.com/contact](https://pahandshake.com/contact). Want to change the spec? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 License: everything in this repository is [CC BY 4.0](LICENSE-SPEC.md).

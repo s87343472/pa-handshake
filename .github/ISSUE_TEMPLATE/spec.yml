@@ -1,0 +1,24 @@
+name: Spec question or proposal
+description: Something in SPEC.md or skill/SKILL.md is unclear, missing or wrong.
+title: "Spec: "
+labels: ["spec"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: File and section, e.g. SPEC.md section 8.2, or skill/SKILL.md "Hard rules".
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the problem?
+      description: What is unclear, missing or wrong? A concrete case helps most.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you change?
+      description: Optional. Wording, a new rule, or a new example.

@@ -1,0 +1,55 @@
+name: Report a real run
+description: You ran a handshake (or part of one) with a real person. Tell us what happened.
+title: "Run report: "
+labels: ["run report"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for trying it. Please leave out anything private about the other person: no names, emails or numbers they didn't make public.
+  - type: dropdown
+    id: how
+    attributes:
+      label: How did you run it?
+      options:
+        - The Try it page (prompt in ChatGPT, Claude, Gemini or similar)
+        - My own agent with skill/SKILL.md
+        - By hand, following the spec
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: assistant
+    attributes:
+      label: Which AI assistant or model?
+      placeholder: e.g. Claude, ChatGPT with search, Gemini
+  - type: dropdown
+    id: other-side
+    attributes:
+      label: Did the other side have a PA?
+      options:
+        - No, my AI emailed the person directly
+        - Yes, two agents talked
+        - We only did the first pass (no emails)
+    validations:
+      required: true
+  - type: textarea
+    id: worked
+    attributes:
+      label: What worked
+      description: What did the brief get right? Did it surface anything you wouldn't have noticed?
+    validations:
+      required: true
+  - type: textarea
+    id: broke
+    attributes:
+      label: What didn't work
+      description: Wrong facts, missed checks, confusing steps, emails that read badly, anything the AI did that the skill says it shouldn't.
+    validations:
+      required: true
+  - type: textarea
+    id: brief
+    attributes:
+      label: The brief, if you can share it
+      description: Optional. Remove private details first.
+      render: markdown
