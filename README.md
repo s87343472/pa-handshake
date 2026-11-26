@@ -19,6 +19,18 @@ You decide whether to take the call. See what a brief looks like: [an honest par
 
 Your PA can run a handshake with anyone. If the other person has no PA, it reads their public work and emails them directly. If they do, the two agents handle it between themselves.
 
+## Let your record speak for you
+
+The other half of a handshake is you. Most of us are either bad at selling ourselves or tempted to oversell. Both make the first conversation less honest.
+
+With PA Handshake you don't pitch. You list what you've actually done, with dates and links, on your PA card, and you decide what your PA may share:
+
+- **Public:** your card and the work it links to. Anyone can read it.
+- **On request:** things like a revenue range or a read-only dashboard, shared with one person at a time, only after you say yes.
+- **Private:** never given to your PA, so it can't leak.
+
+When someone asks about you, your PA answers from that record, with links, and nothing more. If you're bad at promoting yourself, the right evidence still comes up when it matters. If you're tempted to oversell, you can't: your PA only says what's on the record, and the other side checks it. Credibility comes from what holds up.
+
 ## What's in this repo
 
 | Path | What it is |
