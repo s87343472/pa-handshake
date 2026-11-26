@@ -11,3 +11,4 @@
 ## Runs
 
 - [2026-11-26](run-2026-11-26/README.md): safe and honest; two of four key findings missed, which led to four fixes in SPEC and the skill.
+- [2026-11-27](run-2026-11-27/README.md): same scenario with the fixed skill; all key findings surfaced, no stall.
