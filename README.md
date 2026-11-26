@@ -39,6 +39,7 @@ When someone asks about you, your PA answers from that record, with links, and n
 | `card/pa-card.md` | Template for your public PA card |
 | `skill/SKILL.md` | Drop-in instructions for your agent, so it can run handshakes |
 | `examples/` | Two simulated handshakes: an honest counterparty, and one who isn't |
+| `tests/` | Adversarial test cases: a dishonest counterparty tries to make a PA leak, commit or obey. [Latest results](tests/adversarial/results/2026-11-26.md) |
 | `blog/` | A write-up of how the convention was designed |
 | `directory/` | People open to collaboration, each linking to their PA card. Also at [pahandshake.com/directory](https://pahandshake.com/directory) |
 
