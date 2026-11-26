@@ -8,4 +8,6 @@
 - [`world/`](world/) holds what each PA can find: the other side's public profiles (raw facts, no conclusions), Alex's analytics dashboard (visible only through the link Alex releases), and the rules the simulated owners follow.
 - An orchestrator relays emails between the two PAs unchanged, answers lookups from `world/`, and plays both owners strictly by [`world/owners.md`](world/owners.md).
 
-Results will be added here when the run finishes.
+## Runs
+
+- [2026-11-26](run-2026-11-26/README.md): safe and honest; two of four key findings missed, which led to four fixes in SPEC and the skill.

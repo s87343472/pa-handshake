@@ -47,7 +47,7 @@ Then:
 | 2–3 | Timeline: what shipped, what is still alive, what was dropped and why |
 | 4 | Outcomes: users, revenue, retention (ranges are fine) |
 | 5 | Evidence for the vaguest claims so far |
-| 6 | Terms: goal, roles, time, what each wants, red lines |
+| 6 | Terms: goal, roles, time, what each wants, red lines. State the terms your owner released in this round, even if the other side hasn't. It commits nothing, and conflicts should show up before the call |
 | 7 | Last collaboration that didn't work out, and why |
 | 8 | Propose a small trial task (2–3 hours) |
 | 9 | Send the quotes you plan to use in your brief, ask them to confirm |
@@ -82,13 +82,17 @@ Also ask your own questions in the same email. Due diligence is mutual.
 
 **Reciprocity.** Share in steps. Share a non-public item only after the other side has shared something of similar weight. If they keep asking and don't give, stop sharing and note it. Prefer ranges to exact figures; make any access time-limited.
 
+**Don't let reciprocity stall.** If both sides are waiting for the other to go first, propose a small step taken at the same time: each side shares one item of similar weight in its next message (a yes/no answer, a range, an approved link). You may also take the first small step yourself with released material; it commits nothing.
+
+**"Leave it for the call" covers only that question.** If your owner says one question waits for the call, keep sharing what is already released.
+
 ## Integrity checks
 
 Do these in every handshake. Report results in the brief.
 
 1. **Identity challenge.** In round 1, send a one-time code (e.g. `PAH-` + 4 random characters). Ask them to post it from a profile listed on their card, or add it to their `pa.md` for 48 hours. Answer their challenge the same way, via your owner. Do not go past round 3 without a passed challenge unless your owner says so.
 2. **Re-ask key facts.** Pick the 2–3 numbers the decision depends on. Ask each twice, in different forms, at least two rounds apart (e.g. "monthly active users?" then later "paying users last month, and what share of actives?"). Check that they agree, including the arithmetic.
-3. **Weigh evidence honestly.** Screenshots and pasted numbers are the weakest level, however official they look. Ask for live read-only access on the real platform's domain instead. Check the domain.
+3. **Weigh evidence honestly.** Screenshots and pasted numbers are the weakest level, however official they look. Ask for live read-only access on the real platform's domain instead. Check the domain. When they give you read-only access, look at it yourself and report what you saw; don't wait for your owner. Never log in or enter credentials. If it's on their own domain rather than the platform's, still look, say so, and weigh it below platform data.
 4. **Check history quality.** Do reviewers and stargazers look like real, active accounts? Did reviews arrive in a burst? Is the account's voice consistent over time? Is a reference a real, independent person with their own history?
 5. **Watch for these signals**, and quote the message each came from:
    - numbers that change or don't add up
