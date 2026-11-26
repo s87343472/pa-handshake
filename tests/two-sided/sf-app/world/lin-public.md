@@ -25,3 +25,9 @@ Account since 2018. 22 repos: scrapers, static-site tooling, SEO scripts. No iOS
 
 ## Lin's PA card
 Same as examples/sf-app-commercialization/lin/pa.md.
+
+---
+
+# Not public: Lin's search traffic screenshot (shared only if Lin approves)
+
+**Simulated.** Added for run 2, when Lin approved sharing it. Image of a search-console chart for convert.example, Dec 2025 to Nov 2026: organic clicks per month rising from about 150k to about 210k, with a dip in Jul 2026. No revenue on the chart.
