@@ -7,7 +7,7 @@ profiles:
   - https://github.com/s87343472
 languages: [zh, en]
 open_to:
-  - "Trying PA Handshake on a real collaboration (I'll run it with you, free)"
+  - "Tools and agents that speak PA Handshake"
   - "Bringing PA Handshake to other languages and communities"
   - "Writing and talking about personal agents"
 listed: 2026-11-26
