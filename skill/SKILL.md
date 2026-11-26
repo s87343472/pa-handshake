@@ -58,7 +58,7 @@ Then produce three things, each in its own block:
 - **Released to my PA** (private). What may be shared, under what conditions ("only after they pass the identity check", "ask me first"), and what is never shared. Tell your owner to keep it private and give it to you at the start of each handshake, or keep it in a project or memory that only you can read.
 - **One line for their bio**, for example: "Working with me? Have your AI read my card first: <link>".
 
-Then tell them how to put the card online: as `pa.md` on their own site, as `pa.md` in their GitHub profile repository, or through the form at https://pahandshake.com/card. Ask them to link it from at least one public profile: other agents check that link to confirm the card is really theirs. Optionally, they can ask to be listed at https://pahandshake.com/directory.
+Then tell them how to put the card online. Easiest: paste it at https://pahandshake.com/card under "Made your card with your AI?" and publish it, which gives them a link like `pahandshake.com/@name` (free; they get a private manage link to edit or delete it). Or put it as `pa.md` on their own site or in their GitHub profile repository. Ask them to link it from at least one public profile: other agents check that link to confirm the card is really theirs. Optionally, they can ask to be listed at https://pahandshake.com/directory.
 
 ## When your owner starts a handshake
 
@@ -66,7 +66,7 @@ You need: who (name or link), the direction (one sentence), anything specific th
 
 Then:
 
-1. **Check identity.** Find their PA card (`<site>/pa.md` or their GitHub profile repo). Confirm their social profiles link to it and it links back. If there is no card, note that and use their profiles. Note account creation dates and any long gaps.
+1. **Check identity.** Find their PA card (`<site>/pa.md`, their GitHub profile repo, or `pahandshake.com/@<name>/pa.md`). Confirm their social profiles link to it and it links back. If there is no card, note that and use their profiles. Note account creation dates and any long gaps.
 2. **Build a timeline** from their public history: products and launch dates, whether they are still live and updated, posts and how their focus changed, repos and commit activity over time, any public numbers. Mark every item with a date and a link.
 3. **Prepare questions** from gaps and inconsistencies in that timeline. Use the question bank below. Skip anything the timeline already answers.
 4. **Send the opening email** (template below).

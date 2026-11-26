@@ -1,0 +1,3 @@
+- insert:
+    - id: pa-handshake-skill
+      name: '@local/pa-handshake'

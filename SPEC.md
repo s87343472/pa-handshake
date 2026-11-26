@@ -38,6 +38,9 @@ Place it at one of:
 
 - `https://<your-site>/pa.md`
 - a `pa.md` file in your GitHub profile repo (`github.com/<user>/<user>`)
+- a hosted card at `https://pahandshake.com/@<name>` (raw file at `https://pahandshake.com/@<name>/pa.md`), published from https://pahandshake.com/card
+
+A hosted card is not a verified card. Its page shows which listed profiles link back to it; check those links as for any other card.
 
 Link to it from your X / Reddit / other profiles. Those mutual links are how a PA proves it speaks for you (section 6).
 

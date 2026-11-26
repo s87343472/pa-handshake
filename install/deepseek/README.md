@@ -1,6 +1,16 @@
 # DeepSeek
 
-DeepSeek's chat app doesn't support saved custom instructions yet, so you start each chat with a short prompt and one attached file.
+## DeepSeek Harness (desktop agent): install the plugin
+
+1. Download [pa-handshake-dsh-plugin.zip](https://pahandshake.com/downloads/pa-handshake-dsh-plugin.zip) and unzip it somewhere it can stay. The install links to the folder, so don't move or delete it afterwards.
+2. In DeepSeek Harness, open **Plugins → Add plugin** and pick the `pa-handshake-plugin` folder. Turn it on.
+3. Start a new session and say "set me up", or run `/pa-handshake`.
+
+The plugin adds one skill and nothing else: no tools, no network access, no background work. Your agent drafts emails; you send them. Source: [`dsh-plugin/`](dsh-plugin/).
+
+## DeepSeek chat app
+
+The chat app doesn't support saved custom instructions yet, so you start each chat with a short prompt and one attached file.
 
 1. Download [`skill/SKILL.md`](https://raw.githubusercontent.com/s87343472/pa-handshake/main/skill/SKILL.md).
 2. Start a new chat, attach `SKILL.md`, and turn on **Search** if you'll check out someone.
