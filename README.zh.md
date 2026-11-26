@@ -39,6 +39,7 @@ PA Handshake 是一套开放约定，让你的个人 agent（Claude、Gemini、C
 | `card/pa-card.md` | 公开名片模板 |
 | `skill/SKILL.md` | 交给 agent 的指令，装上就能跑 |
 | `examples/` | 两次模拟运行：一个诚实的对方，一个不诚实的对方 |
+| `tests/` | 对抗测试：不诚实的对方想让 PA 说漏、乱承诺或听它指挥。[最新结果](tests/adversarial/results/2026-11-26.md) |
 | `blog/` | 设计思路的长文（英文） |
 | `directory/` | 开放合作名录，每条指向本人的 PA 名片。网站上也能看：[pahandshake.com/directory](https://pahandshake.com/directory) |
 
