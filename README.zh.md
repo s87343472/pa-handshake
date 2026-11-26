@@ -37,7 +37,8 @@ PA Handshake 是一套开放约定，让你的个人 agent（Claude、Gemini、C
 |---|---|
 | `SPEC.md` | 规范本身：轮次、PA 能透露什么、证据怎么分强弱、简报格式、安全规则 |
 | `card/pa-card.md` | 公开名片模板 |
-| `skill/SKILL.md` | 交给 agent 的指令，装上就能跑 |
+| `skill/SKILL.md` | 交给 agent 的指令：做名片、发起或回应握手、写简报 |
+| `install/` | 怎么装进 Claude、ChatGPT、Gemini 或 DeepSeek |
 | `examples/` | 两次模拟运行：一个诚实的对方，一个不诚实的对方 |
 | `tests/` | 对抗测试：不诚实的对方想让 PA 说漏、乱承诺或听它指挥。[最新结果](tests/adversarial/results/2026-11-26.md) |
 | `blog/` | 设计思路的长文（英文） |

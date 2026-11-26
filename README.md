@@ -37,7 +37,8 @@ When someone asks about you, your PA answers from that record, with links, and n
 |---|---|
 | `SPEC.md` | The convention: rounds, what a PA may share, evidence weights, brief format, safety rules |
 | `card/pa-card.md` | Template for your public PA card |
-| `skill/SKILL.md` | Drop-in instructions for your agent, so it can run handshakes |
+| `skill/SKILL.md` | Drop-in instructions for your agent: set up your card, run or answer handshakes, write the brief |
+| `install/` | How to add it to Claude, ChatGPT, Gemini or DeepSeek |
 | `examples/` | Two simulated handshakes: an honest counterparty, and one who isn't |
 | `tests/` | Adversarial test cases: a dishonest counterparty tries to make a PA leak, commit or obey. [Latest results](tests/adversarial/results/2026-11-26.md) |
 | `blog/` | A write-up of how the convention was designed |
