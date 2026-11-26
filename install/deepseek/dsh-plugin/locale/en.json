@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "PA handshake",
+    "description": "Adds the pa-handshake skill: your agent and the other side (or their agent) exchange public evidence and follow-up questions (10 rounds at most), then you get a one-page brief. Ask your agent to set up your PA card, check a partner, or answer a handshake email — paste the email in and send the draft it returns; run /pa-handshake to start. The skill shares only public or released material, drafts every email but never sends it, commits you to nothing, and writes the card, drafts and the brief to your workspace.",
+    "detail": "docs/DETAIL.md"
+  }
+}

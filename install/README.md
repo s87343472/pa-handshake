@@ -7,7 +7,7 @@ PA Handshake works with the assistant you already use. Pick yours:
 | [Claude](claude/README.md) | Upload the skill once; it's there in every chat | 2 minutes |
 | [ChatGPT](chatgpt/README.md) | Put the skill file and a short prompt in a Project | 2 minutes |
 | [Gemini](gemini/README.md) | Open the ready-made PA Handshake skill, or build your own Gem | 1 minute to open, 5 to build |
-| [DeepSeek](deepseek/README.md) | Paste a short prompt at the start of a chat and attach one file | 1 minute per chat |
+| [DeepSeek](deepseek/README.md) | Harness: install the plugin. Chat app: paste a short prompt and attach one file | 2 minutes once, or 1 minute per chat |
 | Anything else | Give it [`skill/SKILL.md`](../skill/SKILL.md) as instructions, or use the prompt builders at [pahandshake.com/start](https://pahandshake.com/start) and [/respond](https://pahandshake.com/respond) | |
 
 The first time, say "set me up". Your assistant asks a few questions and makes your card: the public page other people's AI reads first.

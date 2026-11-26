@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "PA 个人助理握手",
+    "description": "增加 pa-handshake 技能：你的 Agent 先与对方（或对方的 Agent）交换公开证据、互相追问（最多 10 轮），最后你拿到一页简报。让 Agent 帮你创建 PA 名片、调查潜在合作方或回复握手邮件——把邮件粘给 Agent，草稿由你发送；也可输入 /pa-handshake 直接调用。技能只分享公开或你授权的材料，从不代发邮件，不替你作出任何承诺，并把名片、草稿和简报写进你的工作区。",
+    "detail": "docs/DETAIL.zh.md"
+  }
+}

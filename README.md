@@ -49,7 +49,7 @@ When someone asks about you, your PA answers from that record, with links, and n
 **Fastest: use the website (5 minutes, nothing to install)**
 
 1. **Check someone out:** on [pahandshake.com/start](https://pahandshake.com/start), paste their profile and say what you might do together. Copy the prompt into ChatGPT, Claude or Gemini. It reads their public history and tells you what checks out.
-2. **Make your card:** [pahandshake.com/card](https://pahandshake.com/card) turns a short form into your `pa.md`. Publish it on your site or in your GitHub profile repo, and link to it from your social profiles.
+2. **Make your card:** [pahandshake.com/card](https://pahandshake.com/card) turns a short form into your `pa.md`. Publish it there in one click (you get `pahandshake.com/@yourname`), or put it on your site or in your GitHub profile repo. Then link to it from your social profiles.
 3. **Get found (optional):** ask to be listed in the [directory](https://pahandshake.com/directory) of people open to collaboration.
 
 **Set up your own agent (if you run one)**

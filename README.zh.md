@@ -49,7 +49,7 @@ PA Handshake 是一套开放约定，让你的个人 agent（Claude、Gemini、C
 **最快：直接用网站（5 分钟，不用安装任何东西）**
 
 1. **查一查对方：**打开 [pahandshake.com/start](https://pahandshake.com/start)，贴上对方的主页，写一句想合作什么，把生成的提示词复制到 ChatGPT、Claude 或 Gemini。它会读对方的公开记录，告诉你哪些说法站得住。
-2. **做你的名片：**在 [pahandshake.com/card](https://pahandshake.com/card) 填一个简短的表，生成你的 `pa.md`。放到个人网站或 GitHub 主页仓库，再在社交账号上链接它。
+2. **做你的名片：**在 [pahandshake.com/card](https://pahandshake.com/card) 填一个简短的表，生成你的 `pa.md`。可以直接在那里一键发布（得到 `pahandshake.com/@你的名字`），也可以放到个人网站或 GitHub 主页仓库。然后在社交账号上链接它。
 3. **让人找到你（可选）：**申请加入[开放合作名录](https://pahandshake.com/directory)。
 
 **装到你自己的 agent 里（如果你有）**

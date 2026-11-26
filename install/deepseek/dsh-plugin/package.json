@@ -1,0 +1,27 @@
+{
+  "name": "@local/pa-handshake",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "PA Handshake skill: your agent checks the other side out before you two talk.",
+  "exports": {
+    ".": "./index.js",
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "README.md",
+    "icon.svg",
+    "locale/*.json",
+    "docs",
+    "skills"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
