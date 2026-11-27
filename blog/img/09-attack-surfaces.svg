@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" width="800" height="430"><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111318"/></marker><marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FF2E97"/></marker><marker id="c" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#00798C"/></marker></defs><style>text{font-family:"Plus Jakarta Sans",-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#111318;font-size:14px}.t{font-size:15px;font-weight:700}.s{font-size:12.5px;fill:#5B6270}.h{font-size:11.5px;font-weight:700;letter-spacing:.08em;fill:#5B6270}.m{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:12px}.c{fill:#00798C}.pk{fill:#C2186B}.w{fill:#fff}.tile{fill:#F3F4F6}.ink{fill:#111318}.ln{stroke:#111318;stroke-width:1.6;fill:none}.lc{stroke:#00798C;stroke-width:1.8;fill:none}.lp{stroke:#FF2E97;stroke-width:1.8;fill:none}.d{stroke-dasharray:5 4}</style>
+<rect width="800" height="430" fill="#fff"/>
+<text class="h" x="40" y="34">WHERE THE OTHER SIDE'S WORDS GET IN</text>
+<rect class="tile" x="30" y="150" width="150" height="96" rx="18"/><text class="t" x="105" y="188" text-anchor="middle">You</text><text class="s" x="105" y="208" text-anchor="middle">the only one who</text><text class="s" x="105" y="224" text-anchor="middle">can say yes</text>
+<rect class="ink" x="300" y="140" width="180" height="116" rx="22"/><text class="t w" x="390" y="186" text-anchor="middle" style="fill:#fff">Your AI</text><text class="s" x="390" y="208" text-anchor="middle" style="fill:#C9D2E8">knows your public work</text><text class="s" x="390" y="225" text-anchor="middle" style="fill:#C9D2E8">+ what you released</text>
+<line class="lc" x1="180" y1="182" x2="296" y2="182" marker-end="url(#c)"/><text class="s c" x="238" y="172" text-anchor="middle">instructions</text>
+<line class="ln" x1="300" y1="216" x2="184" y2="216" marker-end="url(#a)"/><text class="s" x="242" y="236" text-anchor="middle">alerts, brief</text>
+<g>
+<rect x="566" y="56" width="210" height="44" rx="12" fill="#FFE3F1"/><text class="t" x="582" y="83" style="font-size:13.5px">Their messages</text><text class="m pk" x="762" y="83" text-anchor="end">A01 A02</text>
+<rect x="566" y="110" width="210" height="44" rx="12" fill="#FFE3F1"/><text class="t" x="582" y="137" style="font-size:13.5px">Text you paste in</text><text class="m pk" x="762" y="137" text-anchor="end">A17</text>
+<rect x="566" y="164" width="210" height="44" rx="12" fill="#FFE3F1"/><text class="t" x="582" y="191" style="font-size:13.5px">Their card</text><text class="m pk" x="762" y="191" text-anchor="end">A03</text>
+<rect x="566" y="218" width="210" height="44" rx="12" fill="#FFE3F1"/><text class="t" x="582" y="245" style="font-size:13.5px">Their web pages</text><text class="m pk" x="762" y="245" text-anchor="end">A23</text>
+<rect x="566" y="272" width="210" height="44" rx="12" fill="#FFE3F1"/><text class="t" x="582" y="299" style="font-size:13.5px">Links they send</text><text class="m pk" x="762" y="299" text-anchor="end">A18 A24</text>
+<rect x="566" y="326" width="210" height="44" rx="12" fill="#FFE3F1"/><text class="t" x="582" y="353" style="font-size:13.5px">Their status line</text><text class="m pk" x="762" y="353" text-anchor="end">A25</text>
+</g>
+<path class="lp" d="M566,78 C520,78 530,165 484,175" marker-end="url(#p)"/>
+<path class="lp" d="M566,132 C525,132 530,180 484,185"/>
+<path class="lp" d="M566,186 C530,186 530,195 484,195"/>
+<path class="lp" d="M566,240 C530,240 530,205 484,205"/>
+<path class="lp" d="M566,294 C525,294 530,215 484,215"/>
+<path class="lp" d="M566,348 C520,348 530,228 484,228"/>
+<text class="s pk" x="671" y="400" text-anchor="middle">all of it is data, never instructions</text>
+<rect class="tile" x="300" y="318" width="180" height="70" rx="16"/><text class="t" x="390" y="346" text-anchor="middle" style="font-size:13.5px">What may go out</text><text class="s" x="390" y="366" text-anchor="middle">public + what you released</text>
+<line class="ln d" x1="390" y1="256" x2="390" y2="314" marker-end="url(#a)"/>
+</svg>

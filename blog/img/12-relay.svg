@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420"><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111318"/></marker></defs><style>text{font-family:"Plus Jakarta Sans",-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#111318;font-size:14px}.t{font-size:15px;font-weight:700}.s{font-size:12.5px;fill:#5B6270}.h{font-size:11.5px;font-weight:700;letter-spacing:.08em;fill:#5B6270}.m{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:12px}.c{fill:#00798C}.pk{fill:#C2186B}.w{fill:#fff}.tile{fill:#F3F4F6}.ink{fill:#111318}.ln{stroke:#111318;stroke-width:1.6;fill:none}.lc{stroke:#00798C;stroke-width:1.8;fill:none}.lp{stroke:#FF2E97;stroke-width:1.8;fill:none}.d{stroke-dasharray:5 4}</style>
+<rect width="800" height="420" fill="#fff"/>
+<text class="h" x="30" y="34">MOST HANDSHAKES ARE RELAYED BY PEOPLE</text>
+<g>
+<rect class="ink" x="30" y="56" width="120" height="44" rx="14"/><text class="t" x="90" y="83" text-anchor="middle" style="fill:#fff;font-size:13.5px">Your AI</text>
+<rect class="tile" x="190" y="56" width="120" height="44" rx="14"/><text class="t" x="250" y="83" text-anchor="middle" style="font-size:13.5px">You</text>
+<rect x="350" y="56" width="140" height="44" rx="14" fill="#E0FBFF"/><text class="t" x="420" y="77" text-anchor="middle" style="font-size:13px">email, WhatsApp,</text><text class="t" x="420" y="93" text-anchor="middle" style="font-size:13px">WeChat, Slack…</text>
+<rect class="tile" x="530" y="56" width="110" height="44" rx="14"/><text class="t" x="585" y="83" text-anchor="middle" style="font-size:13.5px">Them</text>
+<rect x="670" y="56" width="110" height="44" rx="14" fill="#FF2E97"/><text class="t" x="725" y="83" text-anchor="middle" style="fill:#fff;font-size:13.5px">Their AI</text>
+<line class="ln" x1="150" y1="78" x2="186" y2="78" marker-end="url(#a)"/><line class="ln" x1="310" y1="78" x2="346" y2="78" marker-end="url(#a)"/><line class="ln" x1="490" y1="78" x2="526" y2="78" marker-end="url(#a)"/><line class="ln" x1="640" y1="78" x2="666" y2="78" marker-end="url(#a)"/>
+<text class="s" x="168" y="122" text-anchor="middle">drafts</text><text class="s" x="328" y="122" text-anchor="middle">copies</text><text class="s" x="508" y="122" text-anchor="middle">reads first</text><text class="s" x="653" y="122" text-anchor="middle">pastes</text>
+</g>
+<rect x="30" y="146" width="420" height="250" rx="20" fill="#F3F4F6"/>
+<rect x="48" y="162" width="384" height="218" rx="14" fill="#fff"/>
+<text class="m c" x="64" y="188" style="font-weight:700;font-size:10.8px">[PA Handshake] Mei ↔ Jordan · growth · round 3 of 10</text>
+<text class="m" x="64" y="208" style="fill:#5B6270">From Mei's AI (card: tanaka.example/pa.md)</text>
+<text x="64" y="236" style="font-size:13px">Hi Jordan, two quick questions before Friday,</text>
+<text x="64" y="253" style="font-size:13px">and one code to post. About a minute.</text>
+<text x="64" y="279" style="font-size:13px">1. Which of your apps are still live?</text>
+<text x="64" y="296" style="font-size:13px">2. Who else owns part of Habitly?</text>
+<text class="m" x="64" y="324" style="fill:#5B6270">— Handshake status —</text>
+<text class="m" x="64" y="341" style="fill:#5B6270">Shared so far: card; revenue range</text>
+<text class="m" x="64" y="358" style="fill:#5B6270">Waiting on: your code PAH-7K2Q</text>
+<g style="font-size:13px">
+<line class="ln d" x1="452" y1="184" x2="490" y2="184"/><text x="498" y="182" style="font-weight:700">Tag line</text><text class="s" x="498" y="199">so any AI knows what this is</text>
+<line class="ln d" x1="452" y1="244" x2="490" y2="244"/><text x="498" y="242" style="font-weight:700">A line for the person</text><text class="s" x="498" y="259">they read it on their phone first</text>
+<line class="ln d" x1="452" y1="288" x2="490" y2="288"/><text x="498" y="292" style="font-weight:700">Short, numbered</text><text class="s" x="498" y="309">about one screen</text>
+<line class="ln d" x1="452" y1="340" x2="490" y2="340"/><text x="498" y="338" style="font-weight:700">Status block</text><text class="s" x="498" y="355">pick up again in a new chat; only</text><text class="s" x="498" y="370">what the other side already has</text>
+</g>
+</svg>

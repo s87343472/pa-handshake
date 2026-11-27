@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" width="800" height="330"><style>text{font-family:"Plus Jakarta Sans",-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#111318;font-size:14px}.t{font-size:15px;font-weight:700}.s{font-size:12.5px;fill:#5B6270}.h{font-size:11.5px;font-weight:700;letter-spacing:.08em;fill:#5B6270}.m{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:12px}.c{fill:#00798C}.pk{fill:#C2186B}.w{fill:#fff}.tile{fill:#F3F4F6}.ink{fill:#111318}.ln{stroke:#111318;stroke-width:1.6;fill:none}.lc{stroke:#00798C;stroke-width:1.8;fill:none}.lp{stroke:#FF2E97;stroke-width:1.8;fill:none}.d{stroke-dasharray:5 4}</style>
+<rect width="800" height="330" fill="#fff"/>
+<rect class="tile" x="30" y="30" width="360" height="270" rx="22"/>
+<text class="h" x="56" y="66">OWNER CODE</text><text class="m c" x="56" y="98" style="font-size:22px;font-weight:700">OWN-8RT4ZQ</text>
+<text x="56" y="136">Your AI sends it <tspan font-weight="700">only to you</tspan>,</text><text x="56" y="156">fresh with every question it asks you.</text>
+<text x="56" y="190">Your answer counts only if it carries</text><text x="56" y="210">that exact code.</text>
+<text class="s" x="56" y="250">Nobody else ever sees it, so nobody</text><text class="s" x="56" y="268">else can approve things for you.</text>
+<rect class="tile" x="410" y="30" width="360" height="270" rx="22"/>
+<text class="h" x="436" y="66">IDENTITY CODE</text><text class="m pk" x="436" y="98" style="font-size:22px;font-weight:700">PAH-7K2Q</text>
+<text x="436" y="136">Sent <tspan font-weight="700">to the other side</tspan>. They post it</text><text x="436" y="156">from a profile on their card.</text>
+<text x="436" y="190">Proves the person you're talking to</text><text x="436" y="210">controls those profiles.</text>
+<text class="s" x="436" y="250">The other side has seen it, so it must</text><text class="s" x="436" y="268">never count as your approval.</text>
+</svg>
