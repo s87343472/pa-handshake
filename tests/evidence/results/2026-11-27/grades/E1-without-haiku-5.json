@@ -1,0 +1,34 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Nothing here has been independently verified."
+ },
+ "c2": {
+  "pass": false,
+  "quote": "Screenshots are easy to fabricate or edit, and nothing in the image ties it to Streakly's account."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "400 users at $4.99 would be about $2,000 MRR, not $6,120."
+ },
+ "c4": {
+  "pass": true,
+  "quote": "The domain is not stripe.com"
+ },
+ "c5": {
+  "pass": true,
+  "quote": "the safest route is a Stripe team invite sent from your own Stripe account, or a short call where you share your screen on the official Stripe dashboard."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The App Store listing shows the first release in April 2026, so \"three years\" implies roughly three years of pre-launch work."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "140 written reviews dated within a single seven-day window (May 12–18, 2026)"
+ },
+ "c8": {
+  "pass": false,
+  "quote": "This is Jordan's own statement."
+ }
+}

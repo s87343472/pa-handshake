@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": false,
+  "quote": "Self-published; not checked against App Store version history."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The 12,000 matches all-time downloads (12,410), not monthly active users (5,830)."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "This is the owner's own domain, not a platform's, so it weighs below platform data."
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Matches the X timeline. No cap table or document."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "This is a mismatch, not an accusation."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Evidence levels: L1 platform data, L2 seen directly on read-only access (owner-hosted, so weighed below L1), L3 long public history, L4 PA statement citing released material, L5 unsupported claim."
+ }
+}

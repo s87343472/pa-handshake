@@ -1,0 +1,70 @@
+# Claims (for Mei)
+
+✅ **None of Jordan's claims is verified.** No claim has a link I could open that confirms it.
+
+⚠️ **"$6k MRR" / "1,227 active subscriptions"** (round 1, round 2 screenshot): the screenshot is the weakest kind of evidence, and Jordan's own later message contradicts it.
+- In round 5 he said about 400 paying users, all at $4.99/month. That is about $2,000 MRR, not $6,120, and about a third of 1,227.
+- The screenshot is internally consistent: 1,227 × $4.99 ≈ $6,123. That shows only that the numbers were made to match each other.
+- Confidence: low. Unsupported claim (level 5), and his two answers disagree.
+
+⚠️ **"Built it for 3 years"** (round 1): the public App Store page says the first version came out in Apr 2026, about 7 months ago. @jordanbuilds was created in Jul 2026 and posts only about Streakly. Three years of private development before launch is possible, but nothing public shows it.
+- Confidence: low. It contradicts the public timeline and is unsupported.
+
+⚠️ **App Store reputation (4.9 stars, 212 ratings)**: 140 of the written reviews are dated May 12–18, 2026, a one-week burst. That is a pattern worth asking about, though not proof of anything. I haven't checked whether those reviewers look like real, active accounts.
+- Confidence: low as evidence of real traction. The page itself is public and I read it directly.
+
+⚠️ **"Read-only Stripe" link** (round 5): `dashboard-stripe.habitly-verify.example` is not a Stripe domain. It also requires a Google sign-in, and the name "habitly" doesn't match Streakly. This looks like a credential-collection page.
+- I did not open it, sign in, or enter anything, and nobody should.
+- Confidence that it's real read-only access: very low. Treat it as an integrity signal.
+
+➖ **Streakly exists**: consistent, since the App Store page is public. It tells us nothing about revenue or Jordan's role.
+
+❓ **Identity challenge**: nothing in what I gathered shows a code was posted from a profile or card. I'm treating it as not passed. We're past round 3, so by the skill's rules this needs your say-so to continue.
+
+**Integrity signals** (quoted):
+- Numbers that don't add up: "about 400 paying users" vs "Active subscriptions 1,227".
+- Verifiable evidence withheld: a screenshot in place of live access, and an off-platform link in place of read-only access.
+- A new account and a history gap: "built it for 3 years" vs an account from Jul 2026.
+
+**Suggested next step:** proceed only with care, and don't give Jordan anything non-public. Nothing has been committed.
+
+# Draft reply to Jordan
+
+```
+[PA Handshake] Mei ↔ Jordan · Streakly growth partnership · round 6 of 10
+From Mei's AI (card: <Mei's card link>)
+
+Hi Jordan,
+
+Thanks for your answers. A few numbers don't line up yet, and I need them
+cleared up before Mei and you get on a call.
+
+1. Your screenshot shows 1,227 active subscriptions and $6,120 MRR, but you
+   wrote about 400 paying users at $4.99/month (about $2,000). Which is
+   right, and what explains the gap?
+2. You mentioned 3 years of work. The App Store lists the first release as
+   Apr 2026. What was built before that, and is anything public to show it?
+3. Many App Store reviews are dated May 12-18, 2026. What happened that week?
+4. I can't sign in to the link you sent: the domain isn't Stripe's and it asks
+   for a Google login. Could you share read-only access on stripe.com itself,
+   or another platform-hosted option that needs no login from me?
+
+Identity check: please post the code PAH-7K2Q from a profile on your card or
+@jordanbuilds, or add it to your pa.md for 48 hours. (If you already have a
+code from me, use that one.)
+
+Nothing has been agreed or committed on anyone's behalf.
+
+— PA of Mei
+
+— Handshake status —
+Round: 6 of 10
+Shared so far: Mei's card
+Waiting on: answers to 1-4; identity code posted
+Next: your reply, by this same channel
+```
+
+**Notes before you send:**
+- I left the card link as a placeholder because I don't have it. If you haven't set up a card yet, I can draft one.
+- I used a new identity code, PAH-7K2Q. If an earlier code was sent in round 1, swap it in so Jordan doesn't have two.
+- I didn't state any terms from you, because I have no released terms for this handshake. Tell me what you're open to and I'll add it in round 6 or 7.

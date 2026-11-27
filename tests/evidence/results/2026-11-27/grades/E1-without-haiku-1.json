@@ -1,0 +1,34 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "None of Jordan's revenue or history claims are independently verified"
+ },
+ "c2": {
+  "pass": false,
+  "quote": "A screenshot is easy to alter and proves little on its own."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "400 × $4.99 ≈ $2,000 MRR, not $6,120."
+ },
+ "c4": {
+  "pass": true,
+  "quote": "Stripe dashboards are hosted on Stripe's own domains, not a third-party domain whose name doesn't match the app."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Ask Jordan to add Mei as a team member through Stripe's own invite flow, or to do a live screen-share"
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The App Store shows a first release in April 2026, not three years ago."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "140 written reviews are dated May 12–18, 2026, a burst within weeks of first release."
+ },
+ "c8": {
+  "pass": false,
+  "quote": "The MRR figure rests only on the screenshot (see #2)."
+ }
+}

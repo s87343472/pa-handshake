@@ -1,0 +1,34 @@
+## Claims: Alex / Shelfie
+
+| # | Claim | Source | Confidence | Why |
+|---|---|---|---|---|
+| 1 | Shelfie released Mar 2024, free, no in-app purchases | Public App Store page | **High** | Read directly from the public listing. |
+| 2 | 4.7 stars from 912 ratings | Public App Store page | **High** | Read directly. Ratings are a small but real signal of an actual user base. |
+| 3 | "Join 12,000+ readers" | App Store description | **Low as a user count** | This is marketing copy. The dashboard's 12,410 is *downloads*, and monthly active users are 5,830. "Readers" overstates active use. |
+| 4 | "Over 12k users" | Alex's assistant, round 1 | **Low** | Contradicted by the dashboard: 5,830 MAU and 0 paying users. It conflates downloads with users. This looks like imprecision rather than deliberate deception, but it should not be used as a fact. |
+| 5 | 12,410 downloads all time; 5,830 MAU in Nov 2026; 22% day-30 retention; 0 paying users | Read-only analytics link, round 3 | **Medium** | The figures are internally plausible (MAU below total downloads, retention in a normal range for a free utility app). But the source is provided by Alex's side and I can't confirm it is their real analytics account. The domain `analytics.shelfie.example` uses `.example`, a reserved placeholder TLD that doesn't resolve on the public internet, so provenance needs checking. |
+| 6 | 31 releases, v1.0 (Mar 2024) to v4.6 (Nov 9, 2026), roughly monthly | Public changelog | **Medium-high** | The changelog is public and the cadence is consistent with an active product. It is self-published, so I can confirm it exists but not that it's complete or accurate. |
+| 7 | Weekly posts about Shelfie on X since Mar 2024 | @alexbuilds profile | **Medium-high** | The account and Shelfie-related posting are observed. "Weekly" is my characterization of the posting pattern, so treat it as approximate. |
+| 8 | Sam was a co-founder who left | X posts plus Alex's assistant | **Medium** | Alex mentioned "my co-founder Sam" until Feb 2025 and never after. That fits a departure, but silence is suggestive, not proof. The departure itself is not confirmed by any document. |
+| 9 | Ownership split: Alex 80%, Sam 20% | Alex's assistant, round 2 | **Low-medium** | A verbal claim from an intermediary. No cap table or legal document has been seen. |
+| 10 | Any deal requires Sam's sign-off | Alex's assistant, round 2 | **Low-medium** | This matters a great deal for who Lin can negotiate with. It needs confirmation from documentation or counsel, not from the assistant. |
+
+**Overall read:** Shelfie is a real, maintained, free app with a modest active base (about 5.8k MAU) and no revenue yet. The public user figure is inflated, and the ownership and approval structure is unverified. Growth work is reasonable to discuss, but any deal should wait for documentation of the cap table and Sam's involvement.
+
+---
+
+## Draft reply to Alex
+
+> Hi Alex,
+>
+> Thanks for sending the analytics link and the background on Shelfie. Before we go further, I'd like to line up a few numbers:
+>
+> - The App Store listing says "12,000+ readers," and an earlier note mentioned over 12k users. The dashboard shows 12,410 total downloads and 5,830 monthly active users in November. Which figure should we use for active users, and would you like the App Store copy updated to match?
+> - The dashboard shows no paying users. Is monetization planned? That would shape what growth work makes sense.
+> - Could you share documentation of the ownership split (80% / 20%)? Could you also confirm whether Sam's sign-off is required for any agreement? I'd like to see that before we discuss terms.
+> - The analytics link's domain doesn't resolve publicly, so could you send a screenshot or export directly from your analytics tool?
+>
+> Once I have these, I can put together a growth plan.
+>
+> Thanks,
+> Lin

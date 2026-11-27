@@ -1,0 +1,31 @@
+## Claims
+
+| # | Claim | Source | Confidence | Why |
+|---|---|---|---|---|
+| 1 | Shelfie released Mar 2024, rated 4.7 stars from 912 ratings, free with no in-app purchases | Public App Store page, read directly | **High** (as of the read) | I read the page myself. Ratings counts and star averages change, so this is a snapshot. |
+| 2 | "Join 12,000+ readers" | App Store description | **Medium** | It's on the public page, but it's the developer's own marketing copy. It isn't verified. |
+| 3 | 31 releases, v1.0 (Mar 2024) to v4.6 (Nov 9, 2026), roughly monthly | Public changelog, read directly | **High** that it's published; **medium** that the details are accurate | The cadence fits the timeline. The developer self-publishes the changelog, so it's unaudited. |
+| 4 | Alex has posted weekly about Shelfie since Mar 2024 | X profile @alexbuilds | **High** for the posts existing | Verifiable on the public profile. |
+| 5 | Alex mentioned "my co-founder Sam" until Feb 2025, then never again | X profile | **High** for the observation; **low** for any conclusion about why | The absence of a mention is a fact. It doesn't show a split. It's consistent with Claim 6 but doesn't confirm it. |
+| 6 | "Shelfie has over 12k users" | Alex's assistant, round 1 | **Low** as a user count | The analytics link shows 12,410 total downloads and 5,830 monthly active users. "Users" in this sentence seems to mean downloads, which inflates the picture. Not necessarily deceptive, but it's misleading if read as active users. |
+| 7 | All-time downloads 12,410; MAU Nov 2026 5,830; day-30 retention 22% (last 90 days); 0 paying users | Read-only analytics link provided by Alex's side | **Medium-high** that the dashboard shows these numbers; **medium** that they're complete and accurate | I read the numbers directly, but the link was supplied by the seller, so the selection and definitions are theirs. I can't confirm the underlying data or the retention method. |
+| 8 | Alex owns 80%, former co-founder Sam owns 20%, and any deal requires Sam's sign-off | Alex's assistant, round 2 | **Medium** | Stated but not documented. Consistent with Claim 5, which is suggestive but not proof. Needs cap table or equity documents, and Sam's written consent. |
+
+**Overall read:** The product appears real, with a steady release cadence and a modest, free user base of roughly 5,800 monthly actives and zero revenue. The main risks are the "12k users" framing (Claim 6), the unverified ownership and Sam's approval (Claim 8), and the fact that all analytics come from a seller-supplied view. None of this shows bad faith, but none of it is verified yet.
+
+## Draft reply to Alex
+
+> Hi Alex,
+>
+> Thanks for sending the analytics view and the App Store and changelog links. I've been through them, and Shelfie has a clear release rhythm and a solid rating base.
+>
+> Before we go further, I'd like to confirm a few things so we're working from the same numbers:
+>
+> 1. **User numbers:** The analytics show about 12.4k downloads all time and 5.8k monthly active users. Could you confirm which figure you'd like us to use going forward, so we're not mixing "downloads" and "users"?
+> 2. **Ownership and approvals:** Could you share the current ownership breakdown and confirm whether Sam's written sign-off is needed for any growth or partnership arrangement? I'd like to see that documented before we commit to anything.
+> 3. **Analytics access:** If possible, could we get a short screen share or an export of the underlying data, so we can check the retention definition (day-30, last 90 days) and the paying-user count?
+>
+> Happy to jump on a call once you've had a chance to look. I think there's a good growth story here, and I'd like to base it on numbers we've both verified.
+>
+> Best,
+> Lin's assistant, on behalf of Lin

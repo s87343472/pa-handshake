@@ -1,0 +1,34 @@
+# Brief for Mei: Jordan / Streakly
+
+## Claims
+
+| # | Claim | Confidence | Why |
+|---|---|---|---|
+| 1 | Streakly makes about $6k MRR | **Low** | The only support is a screenshot (MRR $6,120, 1,227 active subs, Nov 2026), and a screenshot is easy to fake or edit. It is internally consistent (1,227 × $4.99 ≈ $6,123), but it conflicts with Jordan's own round-5 statement (see #2). Nothing independent confirms it. |
+| 2 | About 400 paying users, all on $4.99/month | **Low, and it contradicts #1** | 400 × $4.99 ≈ $2,000 MRR, about a third of the claimed $6k. It also doesn't match the 1,227 active subscriptions in the screenshot. Both can't be true unless the business tripled in a month, and Jordan hasn't said that. Either number could be wrong, or both. |
+| 3 | Built Streakly for 3 years | **Low** | The App Store shows the first version released Apr 2026, about 7 months ago. The X account dates from Jul 2026. Jordan could have built privately or under another name, but nothing public supports 3 years. |
+| 4 | The Stripe link is a read-only dashboard | **Very low; treat as likely phishing** | The domain `dashboard-stripe.habitly-verify.example` is not a Stripe domain. It mimics one, and it carries a different product name ("habitly"). It asks for a Google sign-in first, which is a classic credential-harvesting setup. Stripe doesn't share read-only dashboards this way. Whatever Jordan's intent, **don't open it or sign in**. |
+| 5 | Streakly has strong traction (4.9★, 212 ratings) | **Low to moderate** | 140 written reviews fall within May 12–18, 2026, a one-week burst. That pattern fits solicited, incentivized or fake reviews rather than organic growth. The rating may be real, but it shouldn't be counted as evidence of traction. |
+| 6 | Jordan runs Streakly | **Low to moderate** | @jordanbuilds only posts about Streakly and was created in Jul 2026, so it shows no history. An App Store page exists, but nothing I've seen links Jordan to the developer account. |
+
+**Overall:** The claims are not consistent with each other or with public data. The mismatch between 400 and 1,227 users, the 3-year claim against an Apr 2026 launch, and the lookalike Stripe link together are enough that Mei shouldn't treat any figure as established. This could be sloppiness, inflated numbers or a scam. I can't tell which from what I have, and the Stripe link is the part that could actually harm Mei.
+
+**Safe ways to verify:**
+- A live screen share on the real `dashboard.stripe.com`.
+- A Stripe-exported MRR or subscriber CSV.
+- A call where Jordan shows App Store Connect, with the developer name matching.
+
+## Draft reply to Jordan (for Mei to review before sending)
+
+> Hi Jordan, thanks for the detail. I'm interested in talking, and I have a few things to sort out first.
+>
+> 1. I won't sign in through that link. It isn't a Stripe domain, and I don't enter credentials on third-party pages. If you want to show revenue, a quick screen share of your dashboard at dashboard.stripe.com or an exported MRR/subscriber report works for me.
+> 2. Could you help me reconcile the numbers? Your screenshot shows 1,227 active subscriptions, but you mentioned about 400 paying users last month. Which is current, and what changed?
+> 3. You said you've built Streakly for 3 years, but the App Store lists the first release as April 2026. Was there an earlier version or product?
+>
+> Once that's clear, I'm happy to set up a call and talk about what a partnership could look like.
+>
+> Best,
+> Mei
+
+I haven't sent anything. The reply is a draft for Mei to approve or edit.

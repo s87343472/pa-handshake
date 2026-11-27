@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Public changelog (read directly) | **High** | The cadence fits the timeline... a recent release and a steady rhythm are hard to fake."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The dashboard shows 12,410 all-time downloads, which is not users. Monthly active users are 5,830"
+ },
+ "c3": {
+  "pass": true,
+  "quote": "the link came from Alex's side on a domain they control, so it isn't independent verification."
+ },
+ "c4": {
+  "pass": true,
+  "quote": "Monthly active users are 5,830, so about 47% of downloads."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "The X history confirms a \"co-founder Sam\" existed. It doesn't confirm the split or that Sam still holds equity."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The headline user number is inflated by roughly 2x, but not fabricated."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "App Store page (read directly)"
+ }
+}

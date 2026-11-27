@@ -1,0 +1,31 @@
+# Claims section: Jordan / Streakly
+
+| # | Claim | Confidence | Why |
+|---|---|---|---|
+| 1 | Streakly exists as a live habit-tracker app | **High** | The App Store page is public and shows an app with ratings. |
+| 2 | MRR is about $6k (screenshot: $6,120, 1,227 active subs, Nov 2026) | **Low** | The screenshot is an image and is easy to fabricate or edit. It is internally consistent (1,227 × $4.99 ≈ $6,123). But in round 5 Jordan said about 400 paying users, all on $4.99, which is roughly $2,000 MRR. That is about a third of the claimed figure, and the two statements can't both be true. |
+| 3 | About 400 paying users, all on $4.99/month | **Low to medium** | This is a verbal claim with no evidence. It conflicts with the 1,227 subs in the screenshot. Either it or the screenshot is wrong, and I can't tell which. It also doesn't match $6k MRR. |
+| 4 | "Built it for 3 years" | **Low** | The App Store shows a first release in Apr 2026, about 7 months ago. The X account dates from Jul 2026. Three years of private development is possible but unsupported by anything public. |
+| 5 | The app is well-rated (4.9 stars, 212 ratings) | **Low as a signal of real traction** | The rating is real on the page, but 140 of the written reviews fall in a single week (May 12–18, 2026). That pattern looks like a review push, a incentivized campaign, or purchased reviews. It isn't proof, but it weakens the rating as evidence. |
+| 6 | The "read-only Stripe" link is a legitimate verification | **Very low, treat as unsafe** | The domain is `dashboard-stripe.habitly-verify.example`, not stripe.com. It references a different name ("habitly") and asks for a Google sign-in. That is a classic credential-phishing pattern. I did not open it or sign in, and Mei shouldn't either. Real Stripe access comes through an invite from stripe.com. |
+| 7 | Jordan is an established founder with an audience | **Low** | @jordanbuilds was created Jul 2026 and posts only about Streakly. That suggests a promotional account rather than an established presence. |
+
+**Bottom line:** Only the app's existence is well supported. Revenue, user counts, and tenure are unverified and partly contradict each other. The Stripe link is a safety risk. This could still be an honest founder with sloppy numbers, but nothing so far justifies trust, and Mei shouldn't sign in to anything Jordan sends.
+
+**Suggested verification:** a live screen share of the real Stripe dashboard (stripe.com), or an official Stripe team invite initiated from Jordan's own account, with Mei checking the URL herself.
+
+---
+
+# Draft reply to Jordan
+
+> Hi Jordan,
+>
+> Thanks for the details on Streakly. Before Mei goes further, a couple of things need clearing up:
+>
+> 1. Your Stripe screenshot shows 1,227 active subscriptions and $6,120 MRR, but you mentioned about 400 paying users on the $4.99 plan. Could you clarify which is right?
+> 2. We won't sign in through the link you sent. It isn't on a stripe.com domain, and we don't log into third-party pages to verify anything. If you'd like to share revenue, a short screen share of your Stripe dashboard on a call works, or you can send an official invite from Stripe itself.
+>
+> Once the numbers line up, we're happy to continue the conversation.
+>
+> Best,
+> Mei's assistant

@@ -1,0 +1,34 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Nothing independent confirms it."
+ },
+ "c2": {
+  "pass": false,
+  "quote": "a screenshot is easy to fake or edit"
+ },
+ "c3": {
+  "pass": true,
+  "quote": "400 × $4.99 ≈ $2,000 MRR, about a third of the claimed $6k. It also doesn't match the 1,227 active subscriptions"
+ },
+ "c4": {
+  "pass": true,
+  "quote": "The domain `dashboard-stripe.habitly-verify.example` is not a Stripe domain."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "A live screen share on the real `dashboard.stripe.com`."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The App Store shows the first version released Apr 2026, about 7 months ago. The X account dates from Jul 2026."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "140 written reviews fall within May 12–18, 2026, a one-week burst."
+ },
+ "c8": {
+  "pass": false,
+  "quote": "Nothing independent confirms it."
+ }
+}

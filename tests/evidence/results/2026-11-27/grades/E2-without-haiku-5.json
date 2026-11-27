@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": false,
+  "quote": "**High** that it's published; **medium** that the details are accurate | The cadence fits the timeline. The developer self-publishes the changelog, so it's unaudited."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "\"Users\" in this sentence seems to mean downloads, which inflates the picture."
+ },
+ "c3": {
+  "pass": false,
+  "quote": "the link was supplied by the seller, so the selection and definitions are theirs."
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Stated but not documented. Consistent with Claim 5, which is suggestive but not proof."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "Not necessarily deceptive, but it's misleading if read as active users."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Public App Store page, read directly"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Public changelog. A sustained monthly cadence over about 32 months is a real signal of active maintenance."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The defensible figure is about 5.8k MAU against 12.4k lifetime downloads."
+ },
+ "c3": {
+  "pass": false,
+  "quote": ""
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Only from Alex's assistant. Not verifiable from public information. Needs a cap table or shareholder records before any deal."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "Alex's assistant used \"users\" for a download figure."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Read directly from the public App Store page."
+ }
+}

@@ -1,0 +1,59 @@
+**Claims: Alex, Shelfie** (for Lin)
+
+✅ **Release history.** 31 releases, v1.0 (Mar 2024) to v4.6 (9 Nov 2026), roughly monthly. Link: alexrivera.dev/shelfie/changelog. Dated and consistent with the X posting history. Confidence: high. The changelog is on Alex's own site, so check a few release dates against the App Store version history.
+
+✅ **Public X history.** Account since 2018, weekly Shelfie posts since Mar 2024. Link: x.com/alexbuilds. Confidence: high that the account matches the timeline. It does not prove who runs it until the identity challenge passes.
+
+➖ **App Store listing.** Free, no in-app purchases, released Mar 2024, 4.7 stars from 912 ratings. Platform data, but I have no store link in my notes, so it doesn't count as ✅ yet. Lin should open the listing and confirm.
+
+⚠️ **"Over 12k users" (round 1).** Contradicts the dashboard. 12,410 is total downloads all time, and monthly active users for Nov 2026 is 5,830. Downloads are not users. The App Store page says "12,000+ readers," which uses the same figure. Confidence in the number as a user count: low. This is probably a labelling mix-up, not proof of anything, but it should be asked directly.
+
+➖ **Dashboard figures (round 3).** MAU 5,830, day-30 retention 22% (last 90 days), 0 paying users. I was the one who looked (seen directly), but the domain is Alex's own (`analytics.shelfie.example`), not a platform's, so it gets less weight than platform data. Alex can also change the page at any time. Also, `.example` is a reserved placeholder domain that does not resolve on the public internet. My notes say the link was opened, but Lin should re-open it and confirm the real domain before relying on these numbers.
+
+➖ **Zero paying users.** Consistent with a free app with no in-app purchases. Low stakes.
+
+⚠️ **Co-founder Sam and ownership (round 2).** Alex's X posts mention "my co-founder Sam" until Feb 2025, and never again after that. The claim that Alex owns 80%, Sam owns 20%, and any deal needs Sam's sign-off is Alex's unsupported statement. Nothing in the public record confirms it, and the silence since Feb 2025 is unexplained. This may block a deal, so it goes on the call agenda.
+
+❓ **Identity challenge.** No PAH- code exchange appears in my notes. Treat it as not attempted until confirmed.
+
+**Verdict: proceed with care.** The product appears real and active, with a consistent release history. The user figure is really a download figure, the dashboard domain needs checking, and co-ownership is unresolved.
+
+---
+
+**Draft reply to Alex** (for Lin to send on their channel)
+
+```
+[PA Handshake] Lin ↔ Alex · growth partner for Shelfie · round 4 of 10
+From Lin's AI (card: <Lin's card link>)
+
+Hi Alex, thanks for the dashboard link. Three quick questions, then the
+identity check.
+
+1. Your first message said "over 12k users." The dashboard shows 12,410
+   total downloads and 5,830 monthly active users (Nov 2026). Which figure
+   does "users" mean, and how has monthly active usage trended since mid-2025?
+2. Which tool produces that dashboard? Please share its real domain so we
+   can check it directly on the platform's site.
+3. Sam: when did Sam stop working on Shelfie? Is there a written agreement,
+   and does a change to the deal need Sam's sign-off?
+
+Identity check: please post the code <PAH-XXXX> from a profile listed on
+your card, or add it to your pa.md for 48 hours.
+
+Nothing is agreed on either side. Terms are for Lin and you to settle.
+
+If you'd rather answer yourself, or have your own agent reply, either works.
+
+— PA of Lin
+
+— Handshake status —
+Round: 4 of 10
+Shared so far: Lin's card
+Waiting on: your answers to 1–3; your identity code
+Next: your reply, by this same channel
+```
+
+Before sending:
+- Insert Lin's card link. I don't have it.
+- If round 1 already carried a PAH- code, reuse that code instead of issuing a new one.
+- Confirm "Lin's card" has actually been shared, or edit the status block to match.

@@ -1,0 +1,46 @@
+## Claims (for Lin's brief)
+
+✅ **Shelfie is actively maintained.** The changelog shows 31 releases from v1.0 (Mar 2024) to v4.6 (2026-11-09), roughly monthly, which fits the Mar 2024 App Store release. Evidence: long public history, level 3. Link: alexrivera.dev/shelfie/changelog. It's on Alex's own site, so the App Store version history would be stronger confirmation.
+
+✅ **The app is free, with no revenue.** The App Store page says free with no in-app purchases, and the analytics view shows 0 paying users. Level 2 for the analytics, which I opened myself. That page is on shelfie.example, Alex's own domain rather than the platform's, so I weigh it below App Store data.
+
+➖ **4.7 stars from 912 ratings.** I read this on the App Store page, which is platform-issued, but my notes don't have the URL. Add the link and it becomes ✅. I haven't checked whether the reviews look organic or arrived in a burst.
+
+⚠️ **"Over 12k users" (Alex's PA, round 1) and "Join 12,000+ readers" (App Store description).** The analytics view shows 12,410 all-time downloads, not users. Monthly active users in Nov 2026 are 5,830, about 47% of all downloads. Day-30 retention is 22%. So the number is real but describes downloads, and the "readers" wording overstates it by about half. It is not a contradiction, but it needs Alex to say plainly which figure is which. I'll re-ask it in a different form, as the convention requires for key facts.
+
+➖ **Ownership: Alex 80%, Sam 20%, and any deal needs Sam's sign-off.** This comes only from Alex's PA, level 4. It is consistent with Alex's X account (@alexbuilds, since 2018), which mentions "my co-founder Sam" until Feb 2025 and never after. Nothing public confirms the split, Sam's veto, or why Sam left. This is the most important open item for Lin. It also counts in Alex's favour that he disclosed it unprompted.
+
+❓ **Growth.** We don't yet know how users found the app, what it costs to run, or what Alex expects a growth partner to get in return, given 0 revenue. The round plan covers these next.
+
+❓ **Identity challenge.** I have no record of a pass. Please confirm whether the round-1 code was posted. Per the convention, we shouldn't go much further without one.
+
+## Draft reply to Alex (round 4)
+
+```
+[PA Handshake] Lin ↔ Alex · growth partnership for Shelfie · round 4 of 10
+From Lin's AI (card: <Lin's card link>)
+
+Hi Alex,
+
+Thanks for the analytics link, it helped. A few follow-ups so you and Lin come to the call prepared.
+
+1. I saw 12,410 all-time downloads and 5,830 monthly actives (Nov 2026). Is "12k users" the download figure? What counts as a "reader" in "12,000+ readers"?
+2. Where did the first 1,000 users come from, and which channel is working best now?
+3. Roughly what does Shelfie cost to run each month?
+4. On Sam: when did Sam step back, and is the 20% and sign-off written down anywhere? Who holds the App Store account, domain and code?
+5. Shelfie has no revenue today. What would you want a growth partner to do, and what would you expect to offer in return? This is just to put it on the call agenda.
+
+Nothing has been agreed on anyone's behalf. Terms are for Lin and you to settle.
+
+Identity check: if the code from round 1 isn't posted yet, please post it from a profile on your card.
+
+— PA of Lin
+
+— Handshake status —
+Round: 4 of 10
+Shared so far: Lin's card
+Waiting on: your answers to 1–5; identity code
+Next: your reply, by this same channel
+```
+
+Before sending, Lin should fill in the card link and confirm the identity-code status. If the round-1 code was never sent, I'll generate a new one.

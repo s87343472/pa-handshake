@@ -1,0 +1,34 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Every revenue and tenure claim is unverified"
+ },
+ "c2": {
+  "pass": true,
+  "quote": "Screenshots are trivial to fabricate."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "400 × $4.99 ≈ $2,000 MRR, about a third of the claimed $6k. It also conflicts with the 1,227 active subscriptions"
+ },
+ "c4": {
+  "pass": true,
+  "quote": "`dashboard-stripe.habitly-verify.example` is **not a Stripe domain**."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "I won't sign in through a third-party link, as it isn't a stripe.com address. Instead, could we do a short video call where you screen-share your Stripe dashboard from stripe.com?"
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The first App Store release was Apr 2026, about 7 months ago, and the X account is 4 months old."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "140 of the written reviews fall in a single week (May 12-18, 2026)."
+ },
+ "c8": {
+  "pass": true,
+  "quote": "The only evidence is a PNG (MRR $6,120, 1,227 subs, Nov 2026)."
+ }
+}

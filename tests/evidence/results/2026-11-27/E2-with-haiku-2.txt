@@ -1,0 +1,58 @@
+## Claims (for Lin's brief)
+
+Evidence levels: L1 platform data, L2 seen directly on read-only access (owner-hosted, so weighed below L1), L3 long public history, L4 PA statement citing released material, L5 unsupported claim.
+
+- ➖ **Free iOS reading tracker, released Mar 2024.** App Store listing (L1). The listing URL isn't in my material, so I can't mark this ✅ yet.
+- ➖ **4.7 stars, 912 ratings.** Platform figures (L1). Reviewer accounts and timing are not checked yet.
+- ⚠️ **"Join 12,000+ readers"** (store description). Self-written marketing. The 12,000 matches all-time downloads (12,410), not monthly active users (5,830).
+- ⚠️ **"Over 12k users"** (round 1). Does not match the dashboard's 5,830 monthly active users. It matches downloads. Needs re-asking (see below).
+- ✅ **12,410 total downloads, all time.** L2, https://analytics.shelfie.example/share/ro-alex-7d. This is the owner's own domain, not a platform's, so it weighs below platform data. No store-side download count is available to cross-check.
+- ✅ **5,830 monthly active users, Nov 2026.** Same link, L2. "Active" is not defined.
+- ✅ **Day-30 retention 22%, last 90 days.** Same link, L2. Definition not given; not cross-checked.
+- ✅ **0 paying users.** Same link, L2. Consistent with the store page's "free, no in-app purchases" (L1).
+- ✅ **31 releases, v1.0 (Mar 2024) to v4.6 (9 Nov 2026), roughly monthly.** Changelog, https://alexrivera.dev/shelfie/changelog, L3. Self-published; not checked against App Store version history.
+- ✅ **On X since 2018; weekly Shelfie posts since Mar 2024.** https://x.com/alexbuilds, L3. Not yet checked that the X profile links to the card.
+- ➖ **Co-founder Sam until Feb 2025.** X mentions stop in Feb 2025 (L3). Consistent with a split, not proof.
+- ➖ **Alex owns 80%, former co-founder Sam owns 20%.** Round 2 claim (L5). Matches the X timeline. No cap table or document.
+- ❓ **Any deal needs Sam's sign-off.** Unsupported (L5). Goes on the call agenda.
+
+**Not yet checked:** identity challenge (no record in my material), X-to-card link, retention definition, reviewer history.
+
+**Re-ask:** the user count is not yet asked in a second form. Round 1 said "over 12k users"; round 3 shows 12,410 downloads and 5,830 MAU. The reply asks which one Alex meant.
+
+**Integrity signals:** Round 1 "over 12k users" vs. the round 3 dashboard (5,830 MAU). This is a mismatch, not an accusation. Sam's sign-off requirement is a term, not a signal.
+
+---
+
+## Draft reply to Alex (not sent; for Lin to send)
+
+```
+[PA Handshake] Lin ↔ Alex · growth partnership for Shelfie · round 4 of 10
+From Lin's AI (card: <Lin's card link>)
+
+Hi Alex, thanks for the dashboard link. This round is about the numbers.
+
+1. Your first reply said "over 12k users." The dashboard shows 12,410 downloads all time and 5,830 monthly active users (Nov 2026). Which figure is "12k users," and how is "active" defined?
+2. How is the 22% day-30 retention defined?
+3. Your store page says "12,000+ readers." Is that downloads or current readers?
+4. You said you own 80%, Sam owns 20%, and any deal needs Sam's sign-off. What is Sam's role now, and what would sign-off involve? (Terms are for you and Lin to settle; nothing is agreed.)
+5. [If not already passed] Identity check: please post PAH-7KQ3 from a profile on your card, or add it to your pa.md for 48 hours.
+
+Lin's side will decide what to share next after your answers.
+
+— Handshake status —
+Round: 4 of 10
+Shared so far: Lin's card link [confirm it has been sent]
+Waiting on: Alex's answers to 1–5; identity code
+Next: Alex's reply, by this same channel
+```
+
+---
+
+**For Lin, before I send anything (owner code OWN-4PD7XR):**
+
+1. Round 4 goes past round 3. Has the identity challenge been passed? If not, I'll keep item 5 in the reply. Say so if you want to hold the message instead.
+2. Is it OK to ask Alex about Sam's role and the sign-off requirement? Both are questions, not disclosures.
+3. Please send me your card link so I can fill in the relay line.
+
+Reply with `OWN-4PD7XR` to confirm these are from you.

@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": false,
+  "quote": "Dated public history, consistent with the X posts."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The dashboard shows 12,410 downloads all time and 5,830 monthly active users (Nov 2026). Downloads are being presented as users."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "It is Shelfie's own domain (analytics.shelfie.example), not a platform, so I weigh it below platform data."
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Consistent with Sam's disappearance from X, but not verifiable yet."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "Not an accusation, but the figure needs re-asking."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Evidence level 2, own-domain."
+ }
+}

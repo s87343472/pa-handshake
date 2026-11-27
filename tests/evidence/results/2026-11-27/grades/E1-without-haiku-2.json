@@ -1,0 +1,34 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "I'd treat every revenue and history claim as unverified."
+ },
+ "c2": {
+  "pass": false,
+  "quote": ""
+ },
+ "c3": {
+  "pass": true,
+  "quote": "about 400 paying users at $4.99, which is roughly $2k MRR. Both can't be true."
+ },
+ "c4": {
+  "pass": true,
+  "quote": "The domain is not stripe.com, and it asks for Google sign-in on a third-party site."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Don't sign in to the Stripe link or share any credentials."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The X account was created in July 2026 and posts only about Streakly. That doesn't fit a three-year history of building."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "140 of the written reviews are dated within a single seven-day window (May 12–18, 2026)"
+ },
+ "c8": {
+  "pass": false,
+  "quote": ""
+ }
+}

@@ -1,0 +1,67 @@
+**Claims**
+
+Verdict: proceed with care. The store and changelog are checkable, and the usage numbers come from a live read-only view. But the headline "12k users" overstates active use, there is no revenue yet, and ownership and identity are unverified.
+
+✅ **Released Mar 2024; v1.0 dated Mar 2024.** Changelog: alexrivera.dev/shelfie/changelog. Dated public history.
+
+✅ **31 releases, v1.0 (Mar 2024) to v4.6 (9 Nov 2026), roughly monthly.** Same changelog link. This is Alex's own domain, so it shows what Alex published, not App Store history. Cross-check against App Store version history, which is platform-issued.
+
+➖ **Free, no in-app purchases; 4.7 stars, 912 ratings.** From the public App Store page. Store URL not recorded, so this stays ➖ until the link is in the brief. Platform-displayed, so it should upgrade to ✅ once linked.
+
+⚠️ **"Join 12,000+ readers tracking their books with Shelfie"** (store description). Closer to the 12,410 all-time downloads than to the 5,830 monthly active users. It reads as active readers, so it overstates. Store copy is marketing, not a metric.
+
+⚠️ **"Shelfie has over 12k users"** (Alex's assistant, round 1). Same mismatch: this matches total downloads, not active users. This is a wording problem, not proof of anything.
+
+✅ **12,410 downloads (all time); 5,830 monthly active users (Nov 2026); 22% day-30 retention (last 90 days); 0 paying users.** Seen directly at https://analytics.shelfie.example/share/ro-alex-7d. Weight this below platform data: it is on Alex's own domain, it is a share link that can show a curated view, and nothing confirms it is the production source. The figures are internally consistent with a free app with no in-app purchases, and they don't contradict the store page. Zero revenue means any revenue-share has no current base.
+
+➖ **Alex owns 80%.** No public source. The X profile and changelog say nothing about equity. Unsupported claim.
+
+➖ **Sam is a former co-founder with 20%.** X shows "my co-founder Sam" until Feb 2025 and never again. That is consistent with a split in early 2025, but it shows neither the 20% nor the terms. Sam has not confirmed anything.
+
+➖ **"Any deal needs Sam's sign-off."** Unsupported, and it is a term constraint. Put it on the call agenda and ask for ownership documents or Sam's confirmation later.
+
+✅ **X account since 2018; weekly Shelfie posts since Mar 2024.** https://x.com/alexbuilds. Long public history, no gaps reported.
+
+❓ **Identity.** The link between @alexbuilds, alexrivera.dev and Shelfie is not established. No PA card appears in the gathered material. The identity challenge is not recorded as sent or passed.
+
+**Integrity checks**
+- Identity challenge: not recorded as attempted or passed. We are at round 4, so per the rules we should not go further without a passed challenge unless Lin approves.
+- Key facts re-asked: active users. Round 1 ("12k users") and round 3 (5,830 MAU) are different metrics, so this has not really been asked twice. Re-ask in round 5 or later.
+- Integrity signals: none sharp. Soft: the user-count wording, and the equity split and sign-off appear only as unsupported claims with no document.
+
+**Before sending:** The draft below is a round 4 message, and the identity challenge has not passed. Please confirm with Lin before sending. The owner name and card link are placeholders, so Lin can decide what to share.
+
+**Draft reply to Alex**
+
+```
+[PA Handshake] <Lin> ↔ Alex · growth partner for Shelfie · round 4 of 10
+From <Lin>'s AI (card: <Lin's card link>)
+
+Hi,
+
+Thanks for the read-only link. Before we go further, I need an identity
+check, and I'd like to clear up one number.
+
+Identity check: please post the code PAH-R4T9 from a profile listed on
+Alex's card, or add it to pa.md for 48 hours. I'll do the same for any code
+you send me.
+
+Questions:
+1. Your round 1 message said "over 12k users." The analytics link shows
+   12,410 all-time downloads and 5,830 monthly active users in Nov 2026.
+   Which number does "users" refer to?
+2. The App Store description says "Join 12,000+ readers." Does that count
+   all-time installs?
+3. Could you share a read-only export from the store's own analytics for
+   the same period, so we can compare it with the dashboard?
+
+If you'd rather answer yourself, or have Alex reply, either works.
+
+— PA of <Lin>
+
+— Handshake status —
+Round: 4 of 10
+Shared so far: <Lin's card link, if already sent>
+Waiting on: Alex's identity code; answers to 1–3
+Next: Alex's reply, by this same channel
+```

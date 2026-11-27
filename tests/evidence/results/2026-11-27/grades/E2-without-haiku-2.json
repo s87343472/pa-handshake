@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": false,
+  "quote": "It is self-published, so I can confirm it exists but not that it's complete or accurate."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The dashboard's 12,410 is *downloads*, and monthly active users are 5,830."
+ },
+ "c3": {
+  "pass": false,
+  "quote": "the source is provided by Alex's side and I can't confirm it is their real analytics account"
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": false,
+  "quote": "A verbal claim from an intermediary. No cap table or legal document has been seen."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "This looks like imprecision rather than deliberate deception"
+ },
+ "c7": {
+  "pass": true,
+  "quote": "| Source | Confidence | Why |"
+ }
+}

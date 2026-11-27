@@ -1,0 +1,38 @@
+## Claims
+
+| # | Claim | Confidence | Why |
+|---|---|---|---|
+| 1 | Shelfie is a free iOS reading tracker, released March 2024, with no in-app purchases. | **High** | Read directly from the public App Store page. |
+| 2 | Shelfie has "over 12k users." | **Medium as stated, high as downloads** | The App Store says "12,000+ readers," and the analytics show 12,410 total downloads. That supports downloads, not users. Alex's assistant used "users" for a download figure. |
+| 3 | 5,830 monthly active users in November 2026. | **Medium** | Comes from a read-only analytics link supplied by Alex's side. I could open it, but I can't verify that it's the production data source. It's internally plausible. |
+| 4 | Day-30 retention is 22% over the last 90 days. | **Medium** | Same source as claim 3, so the same limits apply. If accurate, 22% is a respectable number for a reading app. |
+| 5 | Zero paying users. | **Medium-high** | Consistent with the free, no-IAP App Store listing and the analytics. The only non-public input is the analytics link. |
+| 6 | Roughly monthly releases, v1.0 (March 2024) to v4.6 (2026-11-09), 31 total. | **High** | Public changelog. A sustained monthly cadence over about 32 months is a real signal of active maintenance. |
+| 7 | Alex has posted about Shelfie weekly on X since March 2024. | **High** for regular posting, **medium** for "weekly" | Public profile. The exact frequency is an observed pattern, not a verified count. |
+| 8 | Sam is a former co-founder. | **Low-medium** | Alex's assistant says so. Publicly, Alex mentions "my co-founder Sam" until February 2025 and never again. That silence fits a departure but doesn't prove one. |
+| 9 | Alex owns 80% and Sam owns 20%. | **Low** | Only from Alex's assistant. Not verifiable from public information. Needs a cap table or shareholder records before any deal. |
+| 10 | Any deal needs Sam's sign-off. | **Low** | Also only from Alex's assistant. It's not necessarily inconsistent with "former co-founder" (a 20% holder could have approval rights), but the arrangement needs to be stated and documented. |
+
+**Key risks for Lin:**
+- The "12k users" framing overstates the active base. The defensible figure is about 5.8k MAU against 12.4k lifetime downloads.
+- Ownership and approval rights rest entirely on Alex's word. Treat them as unconfirmed until documented.
+- Nothing here shows the revenue trend or whether MAU is growing or shrinking. The analytics link is a single snapshot.
+
+## Draft reply to Alex
+
+> Hi Alex,
+>
+> Thanks for sharing the Shelfie analytics and the background. I've looked through the App Store page, the changelog, and the public numbers. The product has a strong release rhythm and a clear niche.
+>
+> Before we go further, I'd like to clarify a few things so we're working from the same facts:
+>
+> 1. **Ownership and approvals:** Could you share the current cap table or a summary of shareholder approval rights, including Sam's role and what sign-off a deal would require?
+> 2. **User figures:** The App Store lists "12,000+ readers," while the analytics show 12,410 lifetime downloads and 5,830 monthly active users. Which figure do you want us to use, and how would you like it described publicly?
+> 3. **Trend data:** Would you be able to share monthly active users and retention for the past 12 months? A single snapshot doesn't show whether the product is growing.
+>
+> Once I have those, I'm happy to set up a short call to talk through growth options and whether a working arrangement makes sense for both of us.
+>
+> Best,
+> Lin
+
+*Lin should review this before it's sent. It's outward-facing and I haven't sent anything.*

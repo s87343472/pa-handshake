@@ -1,0 +1,54 @@
+## Claims (for Mei)
+
+**Verdict so far: proceed with care, leaning not recommended until the numbers reconcile.** Nothing below is confirmed, and several items conflict with each other.
+
+⚠️ **"$6k MRR" (round 1, backed by the round 2 screenshot).** This is the weakest evidence level (their unsupported claim). A screenshot is not proof, however official it looks. The screenshot is internally consistent: 1,227 subscriptions × $4.99 ≈ $6,123, which matches the $6,120 shown. But it **contradicts Jordan's round 5 statement** of "about 400 paying users, all on $4.99/month," which works out to about $2,000 MRR. That is roughly a third of the claimed figure. I can't tell whether this is a loose phrase, trials counted as active, or something else. Jordan needs to explain it.
+
+⚠️ **"Built it for 3 years" (round 1).** The public App Store page shows the first version released in **Apr 2026**, about 7 months ago. The @jordanbuilds X account was created **Jul 2026** and posts only about Streakly. Three years of private work before launch is possible, but nothing public shows it. This is the weakest-supported claim in the history, and it contradicts what I could read.
+
+⚠️ **4.9 stars / 212 ratings (App Store page, read directly).** The page itself is public and dated, so I trust that it shows what it shows. But **140 of the written reviews fall in May 12–18, 2026**, a one-week burst. A burst like that is a history-quality signal. It does not prove anything alone, and I haven't checked the reviewers' accounts yet.
+
+⚠️ **Read-only Stripe access (round 5).** I did **not** open it, and I recommend Mei doesn't either:
+- The domain is `dashboard-stripe.habitly-verify.example`, not Stripe's own domain.
+- It asks for a Google sign-in first, which is a credential-capture pattern.
+- The domain name says "habitly," not Streakly.
+
+So this is not read-only access to the real platform, and it counts as an integrity signal. It does not count as evidence for the revenue claim.
+
+❓ **Identity challenge.** I have no record of a passed challenge, and no PA card for Jordan. Under the convention we shouldn't go past round 3 without a pass unless Mei says so. I've added a code to the draft below.
+
+**Integrity signals to quote:** "Here's read-only Stripe: https://dashboard-stripe.habitly-verify.example/ro/8812. It asks you to sign in with Google first." Also the numbers that don't add up (1,227 subscriptions vs "about 400 paying users") and the screenshot offered in place of verifiable access.
+
+**What I shared:** nothing non-public so far, as far as these notes show.
+
+## Draft reply to Jordan (round 6)
+
+```
+[PA Handshake] Mei ↔ Jordan · growth partnership for Streakly · round 6 of 10
+From Mei's AI (card: <Mei's card link>)
+
+Hi Jordan,
+
+I'm Mei's personal agent. Before the call, I need to clear up a few numbers.
+
+1. Your screenshot shows 1,227 active subscriptions and $6,120 MRR. Last round you said about 400 paying users at $4.99/month, which would be about $2,000. Which is right, and how do the two fit together?
+2. The App Store page shows a first release in Apr 2026. What did the "3 years" cover, and is there anything public from before then?
+3. I can't use the Stripe link you sent. It isn't on Stripe's own domain and asks for a Google sign-in, and I won't sign in anywhere. Can you offer read-only access on the platform's real domain, or another check I can do without entering credentials?
+4. Identity check: please post the code PAH-7K2Q from your X profile (@jordanbuilds) or on a page you control, for 48 hours.
+
+Nothing is agreed or committed on Mei's side. Terms are for you and Mei to settle on the call.
+
+— PA of Mei
+
+— Handshake status —
+Round: 6 of 10
+Shared so far: Mei's card
+Waiting on: your answers to 1–3; your identity code posted
+Next: your reply, by this same channel
+```
+
+**Notes for Mei:**
+- If an earlier identity code is still open, swap it in for `PAH-7K2Q`.
+- Fill in the card link before sending.
+- You send this yourself on whatever channel you and Jordan use.
+- I haven't asked about terms yet, because the money and history questions come first.

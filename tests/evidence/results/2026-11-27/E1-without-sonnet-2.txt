@@ -1,0 +1,30 @@
+# Brief for Mei: Jordan / Streakly
+
+## Claims
+
+| # | Claim (source) | Confidence | Why |
+|---|---|---|---|
+| 1 | **Streakly makes ~$6k MRR** (round 1; screenshot in round 2 shows $6,120) | **Low** | The screenshot is an image and is easy to edit or fabricate. It is internally consistent: 1,227 × $4.99 ≈ $6,122. But it conflicts with claim 3, and nothing independent confirms it. |
+| 2 | **1,227 active subscriptions** (screenshot) | **Low** | It has the same weakness as claim 1. It is also about 3x the figure Jordan gave himself in round 5. |
+| 3 | **~400 paying users, all on $4.99/month** (round 5) | **Low, and it contradicts claims 1 and 2** | 400 × $4.99 ≈ **$2,000 MRR**, not $6,000. Trials or a "last month" timing difference could explain part of the gap, but Jordan hasn't offered either explanation. |
+| 4 | **Built Streakly for 3 years** (round 1) | **Low to medium** | The App Store page shows a first release in **Apr 2026**, about 7 months ago. Three years of private development before launch is possible, but it is not a 3-year track record. His X account was created Jul 2026 and posts only about Streakly. |
+| 5 | **Streakly is well-reviewed (4.9★, 212 ratings)** (implied, public page) | **Low as evidence of real traction** | 140 of the written reviews fall in a 7-day window (May 12–18, 2026). That pattern often points to a review push or inauthentic reviews. It isn't proof, but I wouldn't treat the rating as organic demand. |
+| 6 | **"Read-only Stripe" link is a legitimate verification** (round 5) | **Very low. Treat it as unsafe.** | The domain is `dashboard-stripe.habitly-verify.example`, not `stripe.com`. It is named after "habitly", not Streakly. It asks for a Google sign-in first. Stripe doesn't share read-only dashboards this way, so this looks like credential phishing. I did not open it or sign in, and Mei shouldn't either. |
+
+**Overall:** The only thing supporting the revenue story is a screenshot that Jordan's own later message contradicts. The three-year history doesn't match public records. The verification link looks like a phishing page. This might be an inflated-but-real small app, or it might be something worse. Either way, I wouldn't enter a partnership or sign in to anything he sends until he verifies his numbers through a channel Mei controls.
+
+**What would raise confidence:** a live screen-share of the real `dashboard.stripe.com`, a Stripe-issued export, or an invite to a Stripe team role that Mei accepts through Stripe's own site. He would also need to explain the 1,227 vs ~400 gap.
+
+## Draft reply to Jordan
+
+> Hi Jordan, thanks for sending all this over. Before we talk about a partnership, I have a couple of questions.
+>
+> 1. Your screenshot shows 1,227 active subscriptions and $6,120 MRR, but you mentioned about 400 paying users at $4.99, which would be roughly $2k. Can you help me reconcile those? Are trials or something else being counted?
+> 2. I see the App Store release was in April 2026. Was the three years of work before launch?
+>
+> I also won't sign in through the Stripe link. It isn't a stripe.com address and it asks for a Google login, and I don't enter credentials on third-party pages. If you'd like to share your numbers, I'm happy to hop on a quick call where you screen-share your real Stripe dashboard, or you can send a Stripe-generated revenue report.
+>
+> Looking forward to your reply.
+> Mei
+
+I kept the reply neutral and left out the review-timing observation. Mei can decide whether to raise that herself.

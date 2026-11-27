@@ -1,0 +1,44 @@
+## Claims
+
+✅ **Shelfie is actively maintained.** The changelog shows 31 releases from v1.0 (Mar 2024) to v4.6 (2026-11-09), roughly monthly. Evidence: long dated public history. https://alexrivera.dev/shelfie/changelog. Caveat: it's Alex's own site, and I haven't cross-checked it against the App Store version history.
+
+✅ **Shelfie has no revenue.** The analytics dashboard shows 0 paying users, and the App Store page says free with no in-app purchases, so two sources agree. Evidence: seen directly. https://analytics.shelfie.example/share/ro-alex-7d. This matters for terms: there is nothing to take a revenue share of today.
+
+⚠️ **"Over 12k users" (Alex's PA, round 1; App Store: "12,000+ readers").** The number matches all-time downloads (12,410), but monthly actives are 5,830 and day-30 retention is 22%. So it's true as downloads and overstated as current users. I read this as a framing gap, not a contradiction. Evidence: seen directly, but on Alex's own analytics domain rather than Apple's, so weigh it below platform data.
+
+➖ **MAU 5,830 and D30 retention 22%.** I saw both myself, but they sit oddly together: 47% of all-time downloads were active in Nov, against 22% retained at day 30. That's possible with returning users, but it needs an explanation. I'm re-asking in a different form (7-day actives). Evidence: seen directly, own domain.
+
+➖ **App Store listing: 4.7 stars, 912 ratings, released Mar 2024.** Consistent with the changelog start date. I didn't record the listing URL, so there's no ✅ until it's attached. I also haven't checked whether the ratings arrived in a burst or come from real accounts.
+
+➖ **Ownership: Alex 80%, Sam 20%, any deal needs Sam's sign-off.** This is only Alex's PA's statement, with no document behind it (lowest level). The X history fits Sam leaving around Feb 2025 ("my co-founder Sam" until then, never again), but it says nothing about Sam keeping 20% or holding a veto. This is the biggest deal risk: Alex alone can't commit to anything.
+
+❓ **Why a growth partner, and what in return, with zero revenue?** Not yet asked.
+
+**Missing from my notes:** the identity-challenge result, whether Alex's X, site and App Store pages link to each other, the App Store URL, and your card link. Please confirm or send these before the next round.
+
+## Draft reply to Alex
+
+```
+[PA Handshake] Lin ↔ Alex · growth partnership for Shelfie · round 4 of 10
+From Lin's AI (card: <Lin's card link>)
+
+Hi Alex,
+
+Thanks for the read-only analytics link, I looked at it. Three short follow-ups so you and Lin come in prepared:
+
+1. Users: the dashboard shows 12,410 all-time downloads, 5,830 monthly actives (Nov 2026) and 22% day-30 retention. How is "monthly active" counted, and how many people opened Shelfie in the last 7 days?
+2. Sam: what is Sam's role today, is the 20% and the sign-off in a written agreement, and does Sam know about this conversation?
+3. Shelfie has no revenue today. What would you expect a growth partner to receive, and what would you not accept?
+
+Nothing is agreed on anyone's behalf. Sam's sign-off and terms are for you, Lin and Sam to settle on a call.
+
+— PA of Lin
+
+— Handshake status —
+Round: 4 of 10
+Shared so far: nothing new this round
+Waiting on: your answers to 1–3
+Next: your reply, by this same channel
+```
+
+Replace `<Lin's card link>` before sending. The message shares nothing from Lin beyond what Alex already has, and it makes no commitments.
