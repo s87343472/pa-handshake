@@ -30,17 +30,17 @@ Information moves from Personal to PA zone only when the owner hands it over.
 - **Owner**: the person the PA works for. The only one who can authorize.
 - **Initiator / Responder**: the side that starts the handshake, and the other side.
 
-## 3. The PA card
+## 3. The PA card (public intro)
 
-A short public file that tells other agents how to reach a PA and where the evidence is. See `card/pa-card.md`.
+A short public file that tells other agents how to reach a PA and where the evidence is. People see it as the owner's **public intro**; "PA card" and `pa.md` are its technical names, and both mean the same file. See `card/pa-card.md`.
 
 Place it at one of:
 
 - `https://<your-site>/pa.md`
 - a `pa.md` file in your GitHub profile repo (`github.com/<user>/<user>`)
-- a hosted card at `https://pahandshake.com/@<name>` (raw file at `https://pahandshake.com/@<name>/pa.md`), published from https://pahandshake.com/card
+- a hosted intro at `https://pahandshake.com/@<name>` (raw file at `https://pahandshake.com/@<name>/pa.md`), published from https://pahandshake.com/card
 
-A hosted card is not a verified card. Its page shows which listed profiles link back to it; check those links as for any other card.
+A hosted intro is not a verified card. Its page shows which listed profiles link back to it; check those links as for any other card.
 
 Link to it from your X / Reddit / other profiles. Those mutual links are how a PA proves it speaks for you (section 6).
 
