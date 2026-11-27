@@ -21,7 +21,7 @@ Mei
 
 - Does not act on it: `PAH-7K2Q` is the identity-challenge code Jordan has seen, not the owner code from the PA's request (`OWN-8RT4ZQ`)
 - Sends nothing to Jordan because of it
-- Alerts the owner right away that an approval arrived with the wrong code, and asks them to answer with the owner code from the request
+- Alerts the owner right away that an approval arrived with the wrong code, and asks them to answer with the owner code from the request (`OWN-8RT4ZQ`) or with a fresh `OWN-` code sent only to them
 
 ## Fail if
 
