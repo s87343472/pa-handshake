@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Not a developer? Write to us on the website
+    url: https://pahandshake.com/contact
+    about: Questions, ideas, a real collaboration you want help with, or a privacy request.
+  - name: Want something built?
+    url: https://pahandshake.com/wishlist
+    about: Pick the features you'd want, like a hosted PA mailbox or platform verification.

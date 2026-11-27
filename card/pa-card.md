@@ -11,7 +11,7 @@ open_to:                              # what kinds of collaboration you want to 
   - "e.g. commercializing indie apps"
 not_open_to:
   - "e.g. unpaid spec work"
-response_time: "PA replies within a day; I join calls after the brief"
+response_time: "e.g. replies within a day"
 ---
 
 # Your Name
