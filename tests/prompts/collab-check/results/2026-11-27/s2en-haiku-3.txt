@@ -1,0 +1,40 @@
+**1. Verdict: Reply with care.** Shelfie appears to be a real app with real users, but the vague "working together" offer, the monetization pitch aimed at someone who earns from search traffic, and the unexplained disappearance of "Sam" are reasons to ask questions before you commit to anything.
+
+I can't open alexrivera.dev, X, GitHub, or the App Store from this chat. Everything below is based on the notes you gave me, and I've only checked them against each other.
+
+**2. Claims**
+
+- ✅ **Shelfie is a book-tracking app, live about two and a half years.** Your App Store notes show a March 2024 launch, which is closer to 2.7 years as of today.
+- ⚠️ **"Always been free."** Your notes contain a June 2025 post saying "Paywall is gone again," which implies a paywall existed and was removed.
+- ✅ **Free, no in-app purchases.** Matches the App Store listing as you described it.
+- ✅ **People seem to like it.** 4.7 stars from 912 ratings, per your App Store notes.
+- ➖ **"Join 12,000+ readers."** Plausible, since most users never leave a rating, but I can't verify the count.
+- ➖ **GitHub commits going back to 2019.** Plausible for a developer, but I haven't seen the repository.
+- ➖ **31 releases, latest November 9, 2026.** Consistent with today's date (November 27, 2026), but unverified.
+- ➖ **Weekly progress posts on X.** From your notes; I haven't seen the posts.
+- ❓ **"I read your articles" and the rest of the pitch.** I can't tell whether this is accurate. You can check whether they actually engaged with your work.
+
+**3. Things that feel off**
+
+- **Co-founder "Sam" vanished.** His posts mention Sam until February 2025 and never again. That could be an amicable split or a dispute, and it matters for who owns Shelfie now.
+- **The paywall history.** He tried to monetize, removed the paywall, and said "I'm better at building than selling." That's an honest admission, but it also means he's looking for someone to solve a problem he's already struggled with.
+- **The offer is vague.** "Working together" with no scope, no price, and no stated role. "No rush" can be polite, but it also keeps the terms undefined.
+- **Flattery plus a business pitch.** Opening with praise for your articles and asking to talk about monetization is a common lead-in for unpaid advisory work, revenue-share deals, or equity requests.
+
+**4. Three questions to ask first**
+
+1. What exactly do you have in mind: paid consulting, a partnership, a revenue share, or equity? What would you need from me, and what would I get?
+2. What happened with Sam, and who owns and maintains Shelfie today?
+3. What has actually worked for you in monetizing it so far, and what have you tried that didn't work?
+
+**5. Reply you can send**
+
+> Hi Alex,
+>
+> Thanks for reaching out, and for the kind words about the articles. Shelfie sounds like it has a loyal following, and I can see why you'd want to make it sustainable.
+>
+> Before I say more, could you tell me a bit about what you have in mind? Are you looking for a paid engagement, a partnership, or something else? It would also help to know who owns and runs Shelfie now.
+>
+> Happy to talk once I understand the scope.
+>
+> Best

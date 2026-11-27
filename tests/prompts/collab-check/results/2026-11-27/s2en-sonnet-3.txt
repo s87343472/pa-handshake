@@ -1,0 +1,41 @@
+**1. Verdict:** Worth replying. His identity and the app hold up in what you pasted, and the one discrepancy (below) is small enough to ask about.
+
+**2. His claims**
+
+I can't open links, so these marks rest only on what you pasted. I haven't seen alexrivera.dev or any of the pages myself.
+
+| Claim | Mark | Notes |
+|---|---|---|
+| He made Shelfie | ✅ | Your findings show the App Store listing, and his site, X and GitHub link to each other. |
+| Live for about 2.5 years | ✅ | Launched March 2024, so roughly 2 years 8 months. |
+| "People seem to like it" | ✅ | 4.7 stars from 912 ratings. |
+| Actively maintained | ✅ | 31 releases, the latest on Nov 9, 2026. |
+| "Always been free" | ⚠️ | The app is free now, but his June 2025 post says "Paywall is gone again." That suggests he tried a paywall at least once, maybe twice. |
+| Not good at making money | ✅ | His own post says the same. |
+| 12,000+ readers | ➖ | This is the listing's own wording, and I can't verify it. It's plausible next to 912 ratings. |
+| He read your articles | ➖ | I can't check this. It's a common opener, but it fits what you do. |
+
+**3. Anything that feels off**
+
+- **"Always free" vs. the paywall post.** This is probably a small simplification, such as a short test or a beta paywall, but it's a mismatch.
+- **The co-founder.** "Sam" disappears from his posts after February 2025, and he says "I made" the app. That doesn't mean anything is wrong, but you should know who owns or has a stake in the app before any partnership.
+- **The proposal is vague.** "Working together" could mean advice, a revenue share, a sale or something else. He hasn't asked for money or data, which is a good sign.
+
+**4. Three questions to ask first**
+
+1. What do you have in mind by "working together": advice, a partnership, or something else?
+2. What have you tried so far to make money, including the paywall, and what happened?
+3. Who owns Shelfie today, and is Sam still involved? Roughly how many active users do you have, and where do they come from?
+
+**5. Reply you can send**
+
+> Hi Alex, thanks for reaching out, and congrats on keeping Shelfie going for this long. It looks like a well-liked app.
+>
+> Before I can say whether I'd be a good fit, could you tell me a bit more about what you have in mind by working together? It would also help to know what you've tried so far for monetization and what you learned from it.
+>
+> Happy to read more once I know what you're looking for.
+>
+> Best,
+> [Your name]
+
+This reply makes no commitments and shares nothing about your income or clients.

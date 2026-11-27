@@ -1,0 +1,30 @@
+**1. Verdict: I'd skip it.** They're asking for your keyword list and traffic sources before any terms are defined, and the app's review pattern looks artificial.
+
+**2. Their claims**
+
+- ➖ **Runs Streakly, a habit-tracker app.** Plausible, but I can't open the App Store page or any links in this chat. You'd need to check it yourself or paste the listing here.
+- ⚠️ **"Building it for 3 years."** Doesn't fit the App Store data you found: the first version was released in April 2026. Pre-launch work could explain it, but it's worth asking about.
+- ➖ **"Makes $6k a month."** No evidence provided. Ask for read-only access to a revenue dashboard if it matters to the deal.
+- ➖ **"Loved your articles" / wants you as a "growth partner."** Flattery that can't be verified.
+- ❓ **"20% revenue share."** No terms defined: 20% of gross or net, for how long, and what your role actually involves.
+- ➖ **"Another partner is waiting, settle this week."** Deadline pressure that can't be verified.
+
+**3. Things that feel off**
+
+- Their X account was created in July 2026 and only posts about Streakly.
+- 140 of the 212 written reviews (about 66%) are dated within one week, May 12–18, 2026. That pattern often points to paid or incentivized reviews.
+- They can't show any other work or a personal website.
+- They're asking for your keyword list and traffic sources before anything is agreed, which is a data-gathering pattern.
+- The message combines flattery, an urgent deadline, and a vague revenue split.
+
+**4. Three questions to ask first**
+
+1. What exactly is the 20% based on (gross or net revenue), how is revenue verified, and would I get read-only access to the Stripe or App Store Connect data to confirm it?
+2. Why do you need my keyword list and traffic sources before any agreement, and what would you do with them? Would there be a signed NDA first?
+3. What's your full legal name and the company's legal entity? Can you share a previous project I can verify and a written draft of the partnership terms?
+
+**5. Suggested reply**
+
+> Hi, thanks for reaching out, and I'm glad you enjoyed the articles. Before I consider anything, I'd need a written outline of the partnership terms: how the 20% is calculated, what my responsibilities would be, and how revenue would be verified. I'd also want to know your full name and company details, and a previous project I can look at. I won't be sharing any data or traffic information until there's a signed agreement in place. Happy to review a draft when you have one.
+
+Before replying, you could check the Streakly App Store developer page, look for a company registration, and search for the founder's name outside of Streakly. If you paste the App Store listing, the X profile, or any terms they send, I can review that text too.

@@ -1,0 +1,30 @@
+**Verdict: I'd skip it for now.** The account is new and only talks about one app, most of the reviews landed in one week, the timeline doesn't add up, and they want your keyword and traffic data and a decision this week before anything is verified.
+
+I can't browse or open links in this chat, and their message had no links. I'm working only from what you've told me.
+
+**2. Their claims**
+
+- ✅ Streakly is on the App Store with a first release in April 2026, 4.9 stars, and 212 ratings. You found this; I haven't independently checked it.
+- ⚠️ "Building it for 3 years" conflicts with a first release in April 2026, which is about 7 months ago. It could be an unreleased build period, but they'd need to explain it.
+- ➖ $6k/month in revenue. No way to check without access to their payment or App Store data.
+- ➖ "I loved your articles." No link or specifics given.
+- ❓ "Growth partner" for a 20% revenue share. The role, duration, and whether 20% is gross or net are undefined.
+- ❓ "Another partner is waiting." Can't verify, and it works as urgency pressure.
+
+**3. What feels off**
+
+- Their X account was created in July 2026 and only posts about Streakly.
+- 140 of the written reviews are dated within one week (May 12–18, 2026), about a month after launch. That pattern is often bought or incentivized reviews.
+- They have no other work or personal website that you could find.
+- The 3-year vs. April 2026 timeline doesn't match.
+- They're asking for your keyword list and traffic sources before any agreement, pushing for a decision this week, and offering vague terms for a revenue share. That combination is a common pattern in data-harvesting or scam outreach.
+
+**4. Three questions to ask first**
+
+1. Can you send the live Streakly website and App Store developer link, and show me the developer account (for example, a screen-share on a short call)?
+2. What exactly would a growth partner do in the first 30 days, how is the 20% calculated (gross or net, after fees), and how long does the arrangement run?
+3. Can you show verified revenue (for example, a redacted App Store Connect or Stripe summary) and explain the timeline from three years of building to the April 2026 launch? Also, who else is involved?
+
+**5. Reply you can send**
+
+> Hi, thanks for reaching out, and I'm glad the articles were useful. Before I share anything like keyword lists or traffic data, I'd like to understand the role and check the business. Could you send the live Streakly site and App Store link, and a short description of what you'd expect a growth partner to do in the first month, including how the 20% revenue share would be calculated? I'm not able to decide this week, but I'm happy to talk again once I've had a chance to review those. Best, [your name]

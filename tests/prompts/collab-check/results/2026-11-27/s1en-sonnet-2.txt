@@ -1,0 +1,33 @@
+I can't open links or browse in this chat, so everything below rests on what you pasted. I haven't seen the App Store page or his X account myself.
+
+## 1. Verdict
+**Reply with care.** The idea may be real, but the review burst and the request for your data before any terms are red flags.
+
+## 2. Claims
+
+| Claim | Mark | Notes |
+|---|---|---|
+| Runs Streakly, a habit-tracker app | ➖ | An App Store listing exists, per your notes. Nothing shows he owns it. |
+| Building it for 3 years | ❓ | The first release was April 2026 and the X account dates from July 2026, so the public trail is about 7 months. Years of private development is possible, but nothing supports it. |
+| Makes $6k a month | ➖ | Can't be checked. 212 ratings, 140 of them from one week, makes it harder to believe, because the ratings look inflated. |
+| Loved your articles | ❓ | He named no article or detail. This could be flattery sent to many people. |
+| Another partner is waiting | ➖ | Can't be checked. It also puts pressure on you to decide quickly. |
+| 20% revenue share | ❓ | He didn't say 20% of what: all revenue, only revenue you bring in, gross or net. There's no term or contract. |
+
+## 3. What feels off
+- **Review spike:** 140 of the written reviews landed May 12-18, 2026. That pattern often comes from bought or arranged reviews, though a launch push or a promo could also explain it.
+- **Thin footprint:** The X account is new and only posts about Streakly. You found no other work and no personal site.
+- **Data request first:** He wants your keyword list and traffic sources before any agreement. That is the most valuable thing you own, and it's a request, not something I'd act on. It doesn't show how you'd work together.
+- **Urgency:** "Settle this week" with a rival partner waiting is a standard pressure tactic.
+- **Vague offer:** He gave no role, deliverables, or terms, only a revenue share.
+
+## 4. First three questions
+1. Can you share proof of the $6k a month, such as a redacted App Store Connect or payment-processor summary, ideally on a short call?
+2. What would my role be, and is the 20% of all revenue or only growth I drive? Would it be in a written agreement, and what happens if we part ways?
+3. What have you done for growth so far, and how did the reviews in mid-May come about? Is there anyone I can speak with who has worked with you?
+
+## 5. Reply you can send
+
+> Hi, thanks for reaching out, and I'm glad the articles were useful. I'm open to learning more, but I don't share site data before we've agreed on a structure. Could you tell me more about the role you have in mind, what the 20% would cover, and how you'd like to work together? It would also help to see a redacted revenue summary and hear what you've tried for growth so far. I'd rather not rush a decision, so I'll take the time I need once I have those details.
+
+I haven't agreed to anything for you. I'd hold off on any call or contract until you have answers to the three questions.

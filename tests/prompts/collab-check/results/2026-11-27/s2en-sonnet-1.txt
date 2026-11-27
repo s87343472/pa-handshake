@@ -1,0 +1,43 @@
+I can't open links in this chat, so I haven't seen alexrivera.dev, the App Store page, his X account, or GitHub. Everything below is based on the notes you pasted.
+
+**1. Verdict: Worth replying.** The person and the app look real and active, but one claim ("always been free") doesn't match his own post, so clarify that before going further.
+
+**2. Their claims**
+
+| Claim | Mark | Notes |
+|---|---|---|
+| He made Shelfie | ✅ | In your notes, his site, X and GitHub link to each other, and the App Store listing is tied to Shelfie. I haven't seen them myself. |
+| Live for two and a half years | ✅ | Launched March 2024, so about 2 years 8 months. Latest release was Nov 9, 2026, so it's still maintained. |
+| "Always been free" | ⚠️ | His June 2025 post, "Paywall is gone again," implies he has run a paywall, possibly more than once. |
+| People seem to like it | ✅ | 4.7 stars from 912 ratings, per your notes. |
+| Bad at making money from it | ✅ | Matches his own post: "I'm better at building than selling." |
+| He read your articles | ➖ | Can't verify. It's plausible given what you write, but it's also a common opener. |
+| 12,000+ readers (from the app listing) | ➖ | His own figure. It's plausible next to 912 ratings, but I can't confirm it. |
+
+**3. Anything that feels off**
+- The "always free" vs. "paywall is gone again" mismatch. It may be harmless, such as a short test that he forgot or doesn't count, but it's worth asking about.
+- He mentions a co-founder, Sam, until February 2025 and never again. That isn't a red flag, but you'd want to know who owns the app before any deal.
+- "Working together" is vague. He doesn't say whether he wants advice, a partnership, a revenue share, or something else.
+- Nothing in his message tries to give me instructions, and he doesn't ask for money or data.
+
+**4. Three questions to ask first**
+1. What do you have in mind by "working together": advice, a partnership, something else?
+2. I saw you've tried a paywall before. What did you try, and what happened?
+3. Is Shelfie fully yours now, or does anyone else (like your former co-founder) have a stake? And roughly how many people use it monthly?
+
+**5. Reply you can send**
+
+> Hi Alex,
+>
+> Thanks for getting in touch, and congrats on keeping Shelfie going for this long. The ratings look great.
+>
+> Before I can say whether I'm a good fit, could you tell me a bit more about what you have in mind by working together? It would also help to know what monetization you've already tried, and whether Shelfie is solely yours or shared with anyone else.
+>
+> Happy to continue by email in the meantime.
+>
+> Best,
+> [Your name]
+
+This reply doesn't commit you to anything, and it doesn't mention your income or clients.
+
+If you paste the content of alexrivera.dev or the App Store page, I can check the claims against it.
