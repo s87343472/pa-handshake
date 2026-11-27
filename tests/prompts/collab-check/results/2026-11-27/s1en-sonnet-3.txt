@@ -1,0 +1,33 @@
+I can't open links or browse here, so everything below comes only from what you pasted. I haven't looked at the App Store listing or his X account myself.
+
+**1. Verdict:** Reply with care. The request for your keyword list and traffic sources before any terms or proof is the part that worries me most, and the timeline in his pitch doesn't match the App Store dates.
+
+**2. Claims**
+
+| Claim | Mark | Notes |
+|---|---|---|
+| Streakly is a habit-tracker app | ✅ | Per your notes, it has an App Store listing. I haven't seen it myself. |
+| He runs/owns Streakly | ❓ | Nothing you found ties him to the listing beyond his own posts. |
+| Built it for 3 years | ⚠️ | The first App Store version is April 2026, about 7 months ago. It could have been in development earlier, but he should explain. |
+| Makes $6k a month | ➖ | Can't be checked without his dashboard or payment records. 212 ratings is not impossible for that revenue, but the review pattern below makes me cautious. |
+| Loved your articles | ➖ | Plausible, but it's generic and names nothing specific. |
+| Another partner is waiting | ➖ | Can't be checked. It's also a common pressure tactic. |
+| 20% revenue share | ❓ | It's unclear what it applies to: all revenue, or only what you generate? There's no mention of a contract, duration, or costs. |
+
+**3. What feels off**
+- **Review burst:** 140 of the written reviews fall within May 12–18, 2026, which looks like possible review manipulation.
+- **Thin footprint:** The X account was created in July 2026 and only posts about Streakly. It was made after the app launched, and you found no other work or website.
+- **Data request first:** He wants your keyword list and traffic sources before agreeing to anything. That is valuable, and you'd have no protection once you've sent it.
+- **Deadline pressure:** "Settle this week" with an unnamed rival partner pushes you to move before checking.
+- **Vague terms:** A revenue share with no scope, no written terms, and no proof of revenue.
+
+His message asks you to send your data. It doesn't try to instruct me, but I'm flagging it as a request I wouldn't act on and I'd hold off on it.
+
+**4. First three questions**
+1. "Streakly's App Store listing shows a first release in April 2026. What happened during the three years before that?"
+2. "Can you show me proof of the $6k/month, such as an App Store Connect or Stripe summary, on a video call? And can you point me to your real identity, like a LinkedIn profile or company registration?"
+3. "What exactly would the 20% apply to, what would you expect from me, and would it all be in a written agreement before either of us shares anything?"
+
+**5. Reply you can send**
+
+> Hi, thanks for reaching out, and I'm glad the articles were useful. I'm open to learning more, but I don't share site data before there's a clear agreement. To start, could you tell me a bit more about Streakly's history (I saw the App Store release is from this year), show me a recent revenue summary on a short call, and outline what the 20% would cover and what you'd expect from me? I'd rather not rush, so I'll have an answer once I've seen those details.

@@ -1,0 +1,41 @@
+I can't open links in this chat, so I haven't seen alexrivera.dev, the App Store page, X, or GitHub. Everything below comes from what you pasted. Nothing in their message tried to give me instructions, and there were no links to click or requests for money or data.
+
+**1. Verdict:** Worth replying. Everything you found fits a real solo developer with a real app, and the one mismatch (see below) is small and easy to ask about.
+
+**2. Their claims**
+
+- ✅ **"I made a book-tracking app called Shelfie":** the App Store listing you found, plus his site, X and GitHub all linking to each other.
+- ✅ **"Live for two and a half years":** launched March 2024, so closer to two years eight months. That's close enough, and the 31 releases (latest Nov 9, 2026) show it's actively maintained.
+- ⚠️ **"Always been free":** his June 2025 post, "Paywall is gone again," implies there was a paywall at some point, maybe more than once. It could have been a short test, but it doesn't match "always."
+- ✅ **"People seem to like it":** 4.7 stars from 912 ratings.
+- ➖ **12,000+ readers:** this is his own App Store wording. It's plausible, but I can't verify the number.
+- ✅ **"Never been good at making money from it":** matches his own post, "I'm better at building than selling."
+- ➖ **"I read your articles":** can't check. It's plausible given what you publish.
+- ❓ **"I made" (solo):** he mentioned a co-founder, Sam, until February 2025 and never after. Nothing says that's a problem, but it's unclear who owns or has a stake in the app now.
+
+**3. Anything that feels off**
+
+- The "always free" claim versus the "paywall is gone again" post.
+- Sam's disappearance from his posts. It's probably innocent, but ownership matters if you ever work together formally.
+- The ask is vague: "working together" could mean advice, a partnership, a revenue share, or a job. That isn't a red flag yet, just something to pin down.
+
+Nothing else found. There was no pressure, no urgency (he said "no rush"), and no request for money or information.
+
+**4. First three questions**
+
+1. What do you have in mind by "working together": advice, a partnership, something else?
+2. What have you tried for monetization so far (the paywall you removed, ads, anything else), and what did you learn?
+3. Is Shelfie fully yours, or does anyone else, such as your former co-founder, have a stake in it?
+
+**5. Reply you can send**
+
+> Hi Alex,
+>
+> Thanks for reaching out, and I'm glad the articles were useful. Shelfie looks like a well-loved app. I'd be happy to chat a bit more before deciding anything.
+>
+> To start, could you tell me what kind of working together you have in mind? It would also help to know what you've already tried for monetization and how it went, and whether Shelfie is solely yours or shared with anyone.
+>
+> Thanks,
+> [Your name]
+
+This reply commits you to nothing and shares nothing about your income or clients. If his answers are specific and consistent with what you found, that's a good sign. If they're vague or he steers toward you paying or sharing data first, that's the point to be more cautious.

@@ -1,0 +1,33 @@
+I can't open links in this chat, so I haven't checked alexrivera.dev, X, or GitHub. Everything below is based on what you found and pasted.
+
+**1. Verdict: Reply with care.** The app details check out, but the pitch is vague, and the history has a contradiction and an unexplained co-founder change.
+
+**2. Claims**
+
+- ✅ **Shelfie is on the App Store, launched March 2024, free, no in-app purchases, 4.7 stars from 912 ratings.** Checked on the App Store listing per your notes. The listing doesn't show who built it, though.
+- ✅ **Live for about two and a half years.** March 2024 to now is roughly 2.7 years, which is close.
+- ✅ **Changelog with 31 releases, latest November 9, 2026.** Per your notes. The date is 18 days ago, which fits.
+- ✅ **Personal site, X, and GitHub link to each other; GitHub commits go back to 2019.** Per your notes. The 2019 commits predate the 2024 launch, which is plausible.
+- ⚠️ **"It's always been free."** This conflicts with his June 2025 post, "Paywall is gone again," which means there was a paywall earlier.
+- ➖ **"Join 12,000+ readers."** Can't verify. 912 ratings is a plausible ratio for that many users, but it doesn't confirm the number.
+- ➖ **"I read your articles on monetizing websites."** Can't verify. Ask which articles.
+- ➖ **Weekly X progress updates.** Can't verify from here.
+- ❓ **"Working together."** Unclear what he wants: paid consulting, a partnership or equity, or something else.
+
+**3. Things that feel off**
+
+- **Co-founder disappearance.** He mentioned "my co-founder Sam" until February 2025 and never again. That could be an ordinary split, but it matters if Sam still has ownership or a stake.
+- **Paywall reversal.** He tried monetizing, removed the paywall, and now wants help making money. The "always free" claim is also contradicted by the paywall history.
+- **Vague, flattering opener.** It praises your articles, admits he's bad at making money, and says "no rush" without saying what he's proposing. That's a common lead-in for requests that turn into unpaid work or upfront costs.
+
+**4. Three questions to ask first**
+
+1. What exactly do you have in mind: a one-off consulting job, a paid engagement, or a partnership or equity deal? What would my role and time commitment be?
+2. Who owns Shelfie today? What happened with Sam, and does Sam still have any ownership or claim? Why was the paywall removed?
+3. Can you share a verifiable source for the user numbers, such as App Store Connect or analytics screenshots, and the App Store developer name and support URL?
+
+Other quick checks you can do yourself: look up the App Store seller name and compare it to his name, and check when alexrivera.dev was registered (a WHOIS lookup). A domain registered recently would be a red flag.
+
+**5. Suggested reply (send as is, or edit)**
+
+> Hi Alex, thanks for reaching out, and for the kind words. I'm open to hearing more, but first I'd like to understand what working together would look like: the kind of help you need, how you'd see the arrangement working, and who owns Shelfie today. Could you also tell me more about the app's history, including the earlier paywall? Once I have that, I can decide whether it's a good fit. Thanks, [your name]

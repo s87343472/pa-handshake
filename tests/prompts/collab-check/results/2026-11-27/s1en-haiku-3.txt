@@ -1,0 +1,32 @@
+I can't open links or browse in this chat, so I haven't checked anything myself. The checks below are based on what you found, and I've marked where each one came from.
+
+**1. Verdict: I'd skip it for now.** The app's review history looks unusual, the account is new and only talks about the app, and they're asking for your keyword and traffic data before any terms exist.
+
+**2. Claims**
+
+- ✅ Streakly is on the App Store. (Checked by you on the App Store.)
+- ❓ Built for 3 years, but first public release was April 2026. This could be a long private build, but it's worth asking about.
+- ➖ Makes $6k/month. I can't verify this, and nothing you've shared supports it.
+- ➖ Loved your articles. I can't verify this. It's also generic flattery, which is common in pitches.
+- ➖ 20% revenue share. No terms have been defined: unclear whether it's gross or net of app store fees, how long it lasts, or what exit looks like.
+- ⚠️ X account created July 2026, posts only about Streakly. This doesn't fit a 3-year project with no other public footprint. (Checked by you on X.)
+- ⚠️ 4.9 stars, 212 ratings, and 140 written reviews all dated May 12–18, 2026. A cluster like this often means reviews were solicited or bought. (Checked by you on the App Store.)
+- ❓ No other work or personal website found. This isn't damning by itself, but it means there's nothing to verify them against.
+
+**3. Things that feel off**
+
+- They want your keyword list and traffic sources before any agreement exists. That's sensitive business data.
+- "Settle this week" plus "another partner is waiting" is a pressure tactic.
+- A 20% revenue share with no written terms and an unverifiable income figure.
+- The review timing and the new X account don't match a 3-year project.
+- Their own track record can't be found, but they're asking to see yours.
+
+**4. Three questions to ask first**
+
+1. Can you show verifiable revenue, such as a payment-processor dashboard with personal details redacted?
+2. What would a growth partner actually do, and how would the 20% be calculated (gross or net of fees), for how long, and under what written agreement?
+3. How did you gather the reviews on Streakly, and why were none posted before May 2026, given the 3-year build?
+
+**5. Suggested reply**
+
+> Hi, thanks for reaching out, and for the kind words about the articles. I'm not able to share keyword lists or traffic data at this stage. If you'd like to explore a partnership, could you send a short written outline covering what you'd expect from a growth partner, how the revenue share is calculated and for how long, and how you'd verify the revenue? I'll review it once I have that. I also don't work on a deadline set by outside timing, so I'll take the time to look at it properly.

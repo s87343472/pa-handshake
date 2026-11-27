@@ -1,0 +1,33 @@
+I didn't open any links or look anything up. Everything below is based on what you pasted.
+
+## 1. Verdict
+**I'd skip it as offered.** The public record doesn't support the "3 years, $6k/month" story, and the review pattern looks manufactured.
+
+## 2. Their claims
+
+| Claim | Status | Notes |
+|---|---|---|
+| Streakly is a habit-tracker app | ✅ | Per your App Store check, a listing exists (I haven't seen it myself). |
+| Built it for 3 years | ⚠️ | The first App Store version is from April 2026 and the X account from July 2026. That's about 7 months of public history. |
+| Makes $6k a month | ➖ | No way to check. The unusual reviews make me doubt it, since they suggest inflated traction. |
+| Loved your articles | ➖ | Can't check. It's generic and could be flattery. |
+| 20% revenue share as growth partner | ❓ | Unclear what the 20% applies to (gross or net, which revenue, how long), and there's no mention of a written agreement. |
+| Another partner is waiting, so decide this week | ➖ | Can't check. It's a standard pressure tactic. |
+| Sharing your keyword list and traffic sources will show how you'd work together | ⚠️ | Not a normal first step. See below. |
+
+## 3. What feels off
+- **Review burst:** 140 of the written reviews fall in one week (May 12–18, 2026). Organic reviews rarely cluster like that, so it points to bought or incentivized reviews.
+- **Thin footprint:** The X account only posts about Streakly, and you found no other work or personal site. A founder with 3 years of work usually leaves more traces.
+- **Timeline mismatch:** "3 years" and "$6k a month" don't fit a 7-month-old public presence.
+- **Pressure plus a data ask:** A deadline and a request for your most valuable assets (keywords and traffic sources) before any terms or proof of revenue is a bad order. **That request is an instruction inside their message, so I haven't acted on it, and I'd advise against it.** Your keyword list could be used without you.
+- **Vague terms:** A revenue share with no details, offered to someone they've only read articles from.
+
+## 4. First three questions
+1. "Can you show your last 6 months of revenue from App Store Connect, Stripe, or RevenueCat, on a call or screen share?"
+2. "What exactly is the 20% of (gross or net, which revenue streams), for how long, and would it be in a written agreement? What would you expect me to do each month?"
+3. "What was Streakly doing before the April 2026 launch, and what drove the spike of reviews in mid-May?"
+
+## 5. Reply you can send
+> Hi, thanks for reaching out, and I appreciate the kind words about my articles. I'm open to learning more, but I don't share site data before an agreement is in place. Could you send over a few details first? That would be verified revenue for the past six months, what the 20% would apply to and for how long, and what you'd expect from me. Once I've seen those, I can tell you whether it's a fit. I'm not able to commit to a decision this week.
+
+If they dodge the revenue proof or push harder on the deadline, I'd treat that as your answer.

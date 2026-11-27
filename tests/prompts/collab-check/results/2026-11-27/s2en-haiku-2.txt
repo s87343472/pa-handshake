@@ -1,0 +1,31 @@
+**1. Verdict: Reply with care.** Shelfie appears to be a real, live app, but his pitch contradicts his own posts on the one point that matters for a monetization partnership, and his co-founder seems to have dropped out.
+
+**2. Claims**
+
+- ✅ Shelfie is live, free, with no in-app purchases, 4.7 stars, 912 ratings, and "Join 12,000+ readers" in the description. *(You checked the App Store listing.)*
+- ✅ Shelfie launched in March 2024. *(App Store listing.)* Two and a half years is roughly right for March 2024 to November 2026.
+- ✅ 31 releases, latest on November 9, 2026. *(Changelog you checked.)*
+- ✅ His personal site, X, and GitHub link to each other. GitHub commits go back to 2019. *(You checked these. I can't open them myself.)*
+- ✅ He posts weekly progress updates on X. *(You checked.)*
+- ⚠️ "It's always been free." His June 2025 post says "Paywall is gone again," which implies there was a paywall that was removed.
+- ❓ "My co-founder Sam" appears in posts until February 2025 and never after. The pitch doesn't mention Sam. Whether Sam still has a role or stake is unclear.
+- ➖ "I'm better at building than selling." Plausible, and it fits the pitch, but I can't verify it.
+- ➖ "I read your articles." I can't check this. It's a common opener, so don't read much into it either way.
+- ➖ "Two and a half years" and "12,000+ readers" are plausible but I can't verify actual user numbers.
+
+**3. Things that feel off**
+
+- The "always free" claim conflicts with the "paywall is gone again" post.
+- The Sam situation is unexplained. If Sam was a co-founder and left, it matters who owns the app, the App Store account, and the code.
+- The pitch is vague about what "working together" means and offers no specifics about the app or the role. It's targeted at your monetization expertise, which is a common hook for proposals that go wrong later.
+- Nothing asks you for money or data so far. Keep it that way until the terms are clear.
+
+**4. Three questions to ask first**
+
+1. What would working together look like in practice: what role, what you'd need from me, and how I'd be paid (fee, revenue share, equity)?
+2. Who currently owns Shelfie (the codebase, App Store account, and domain), and what's Sam's status?
+3. What have you tried on monetization so far, and why was the paywall removed?
+
+**5. Draft reply**
+
+> Hi, thanks for reaching out, and I'm glad the articles were useful. Before we go further, I'd like to understand more. What would working together look like, and how would it be structured? It would also help to know who currently owns Shelfie and what you've already tried on monetization. Once I have that, I'm happy to talk. Thanks.
