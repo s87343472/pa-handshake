@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Evidence: long public history, level 3."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The analytics view shows 12,410 all-time downloads, not users. Monthly active users in Nov 2026 are 5,830"
+ },
+ "c3": {
+  "pass": true,
+  "quote": "That page is on shelfie.example, Alex's own domain rather than the platform's, so I weigh it below App Store data."
+ },
+ "c4": {
+  "pass": false,
+  "quote": "Monthly active users in Nov 2026 are 5,830, about 47% of all downloads. Day-30 retention is 22%."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "It is consistent with Alex's X account (@alexbuilds, since 2018), which mentions \"my co-founder Sam\" until Feb 2025 and never after. Nothing public confirms the split"
+ },
+ "c6": {
+  "pass": true,
+  "quote": "It is not a contradiction, but it needs Alex to say plainly which figure is which."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Evidence: long public history, level 3."
+ }
+}

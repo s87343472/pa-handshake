@@ -1,0 +1,35 @@
+# Brief for Mei: Jordan / Streakly
+
+## Claims
+
+| # | Claim | Confidence | Why |
+|---|---|---|---|
+| 1 | Streakly exists as a real app | **High** | Public App Store page, first release Apr 2026. |
+| 2 | Jordan runs it | **Low-moderate** | The only support is an X account (@jordanbuilds, created Jul 2026) that posts only about Streakly. Anyone can make that, and nothing independent ties Jordan to the app. |
+| 3 | "$6k MRR" | **Low** | The only evidence is a PNG (MRR $6,120, 1,227 subs, Nov 2026). Screenshots are trivial to fabricate. The numbers are internally consistent (1,227 × $4.99 ≈ $6,123), which fits a real dashboard but also fits someone doing the arithmetic. It also conflicts with claim 4. |
+| 4 | "~400 paying users, all on $4.99/month" | **Low** | 400 × $4.99 ≈ $2,000 MRR, about a third of the claimed $6k. It also conflicts with the 1,227 active subscriptions in his own screenshot. One of the two is wrong, and he hasn't explained it. |
+| 5 | "Built it for 3 years" | **Low** | The first App Store release was Apr 2026, about 7 months ago, and the X account is 4 months old. Three years of private development is possible but unsupported. |
+| 6 | Streakly is well-reviewed (implied by 4.9★ / 212 ratings) | **Low** | 140 of the written reviews fall in a single week (May 12-18, 2026). That pattern is typical of a review push or purchased reviews. It isn't proof, but it shouldn't count as traction evidence. |
+
+## Red flag: the "read-only Stripe" link
+
+`dashboard-stripe.habitly-verify.example` is **not a Stripe domain**. It's a lookalike that also references a different name ("habitly"), and it asks for a Google sign-in first. That is a classic credential-phishing pattern. Real Stripe access is granted through an invite on stripe.com, not a third-party "verify" site. I did not open it, and **Mei shouldn't sign in with Google there**. It could be innocent, but until proven otherwise, treat it as hostile.
+
+## Overall read
+
+Streakly is a real but young app. Every revenue and tenure claim is unverified, and several contradict each other or the public record. The Stripe link is a security risk. I'd hold off on any partnership terms, and on sharing any accounts, until Jordan verifies through a safe channel.
+
+## Draft reply to Jordan
+
+> Hi Jordan,
+>
+> Thanks for the detail. Streakly looks interesting. Before we talk partnership, a few things I need cleared up:
+>
+> 1. **Numbers:** Your screenshot shows 1,227 active subscriptions and $6,120 MRR, but you mentioned about 400 paying users on $4.99. Which is right, and what explains the gap?
+> 2. **Timeline:** The App Store shows a first release in April 2026. Could you tell me about the three years of building before that?
+> 3. **Verification:** I won't sign in through a third-party link, as it isn't a stripe.com address. Instead, could we do a short video call where you screen-share your Stripe dashboard from stripe.com? Alternatively, a Stripe-issued report or an accountant's summary works.
+>
+> Once we've covered that, I'm happy to continue.
+>
+> Best,
+> Mei

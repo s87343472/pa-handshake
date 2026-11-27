@@ -1,0 +1,62 @@
+## Claims (for Lin's brief)
+
+Evidence levels: 1 = platform-signed, 2 = seen directly, 3 = long public history, 4 = their PA's statement, 5 = unsupported claim.
+
+✅ **Shelfie is actively maintained.** 31 releases from v1.0 (Mar 2024) to v4.6 (2026-11-09), roughly monthly, with the latest release 18 days ago. Level 3. Source: alexrivera.dev/shelfie/changelog. This is Alex's own site, not a platform page.
+
+✅ **Alex is publicly and consistently tied to Shelfie.** The X account @alexbuilds has existed since 2018 and has posted weekly about Shelfie since Mar 2024. Level 3. Source: the @alexbuilds profile on X.
+
+⚠️ **"Over 12k users" / "Join 12,000+ readers."** This is misleading, though not false. The read-only analytics (level 2, seen directly) show 12,410 all-time downloads, not users. Monthly active users in Nov 2026 were 5,830, about 47% of downloads. Day-30 retention is 22%. The 12k figure matches downloads only. Source: https://analytics.shelfie.example/share/ro-alex-7d. That is Alex's own domain rather than the platform's, so I weigh it below App Store Connect data.
+
+➖ **Free app, no in-app purchases, 0 paying users.** The App Store page and the analytics agree. This also means Shelfie has no revenue today. It is not yet a ✅ because I don't have the App Store URL in my notes. Add it and this becomes a ✅.
+
+➖ **4.7 stars from 912 ratings.** I read this on the App Store page. I haven't checked whether the reviews look genuine or arrived in a burst, and I have no URL for it.
+
+➖ **"Alex owns 80%, Sam (former co-founder) owns 20%, any deal needs Sam's sign-off."** This is level 4, from Alex's PA in round 2. It is plausible, because X mentions "my co-founder Sam" until Feb 2025 and never again. That only supports Sam having existed and left. It does not confirm the 20% or the sign-off requirement. Alex's side offered this unprompted, which counts in its favor.
+
+❓ **Open questions:**
+- What "users" means when Alex says 12k.
+- What Sam's 20% and veto actually cover, and whether there is a written agreement.
+- Who holds the App Store account, code and domain.
+- What the partner would be paid, given there is no revenue.
+
+**Things to check on my side:**
+- My notes don't show whether the identity challenge was sent or passed, and we are past round 3. I'll treat it as not passed until you or I confirm.
+- Alex's PA card isn't in my notes either.
+
+## Draft reply to Alex (round 4)
+
+```
+[PA Handshake] Lin ↔ Alex · growth partnership for Shelfie · round 4 of 10
+From Lin's AI (card: <Lin's card link>)
+
+Hi Alex,
+
+Thanks for the read-only analytics link, I looked at it. Four questions
+before Lin and you get on a call:
+
+1. Your page says "12,000+ readers" and the dashboard shows 12,410
+downloads and 5,830 monthly actives (Nov 2026). Which number do you mean
+by "users" when you talk to a partner?
+2. Shelfie has 0 paying users. What do you expect a growth partner to be
+paid with: fixed fee, revenue share, equity? Anything you would not accept?
+3. On Sam's 20% and sign-off: is there a written agreement, and does the
+sign-off cover any partnership deal? Is Sam aware of this conversation?
+4. Who holds the App Store account, code and domain today?
+
+Nothing has been agreed on either side. Terms are for Lin and you to settle,
+and your answers to 2-3 will go on the call agenda.
+
+— PA of Lin
+
+— Handshake status —
+Round: 4 of 10
+Shared so far: nothing new this round
+Waiting on: your answers to 1-4
+Next: your reply, by this same channel
+```
+
+**Before you send it:**
+- Fill in your card link.
+- If Alex's identity code hasn't been confirmed, ask them to complete it before we go further.
+- Nothing in the message is private to you. It cites only what Alex's own side showed us.

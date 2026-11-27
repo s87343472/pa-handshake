@@ -1,0 +1,36 @@
+## Claims
+
+| # | Claim | Source | Confidence | Why |
+|---|---|---|---|---|
+| 1 | Shelfie has "12,000+ readers" / "over 12k users" | App Store description; Alex's assistant (round 1) | **Low as worded, high as downloads** | The dashboard shows 12,410 all-time downloads, which is not users. Monthly active users are 5,830, so about 47% of downloads. The claim is defensible only as a download count. The wording "readers tracking their books" overstates it by about 2x. |
+| 2 | 12,410 downloads, 5,830 MAU (Nov 2026), 22% day-30 retention, 0 paying users | Alex's shared read-only dashboard | **Medium** | The numbers are internally consistent and match the public page on downloads and on being free. But the link came from Alex's side on a domain they control, so it isn't independent verification. Ask for a screen share or an App Store Connect screenshot if this matters for a deal. |
+| 3 | 4.7 stars, 912 ratings | App Store page (read directly) | **High** | Public, first-hand, and plausible against 12.4k downloads (about 7% rated). |
+| 4 | Actively maintained: 31 releases, v1.0 to v4.6, about monthly | Public changelog (read directly) | **High** | The cadence fits the timeline (Mar 2024 to 2026-11-09). It's self-published, but a recent release and a steady rhythm are hard to fake. |
+| 5 | Alex is the builder and is active publicly | X profile @alexbuilds | **High** | The account dates to 2018 and has weekly Shelfie posts since launch. |
+| 6 | Free, no in-app purchases, no revenue | App Store page and dashboard | **High** | Two sources agree. There is no monetization today, so any deal is about future revenue. |
+| 7 | Alex owns 80%, Sam owns 20% | Alex's assistant (round 2) | **Low-medium** | There is no document or independent source. The X history confirms a "co-founder Sam" existed. It doesn't confirm the split or that Sam still holds equity. |
+| 8 | Any deal needs Sam's sign-off | Alex's assistant (round 2) | **Medium** | Plausible for a 20% holder, but the real requirement depends on the shareholder or operating agreement. Sam's mentions stopping in Feb 2025 could mean an amicable exit or a strained one. We don't know which. |
+
+**Takeaways**
+- The product is real, well rated, and maintained.
+- The headline user number is inflated by roughly 2x, but not fabricated.
+- Treat the cap table and Sam's role as open questions until we see paperwork or hear from Sam.
+- There is no revenue, so the pitch rests on retention (22%) and a monetization plan we haven't seen.
+
+## Draft reply to Alex
+
+> Hi Alex,
+>
+> Thanks for the analytics link and the background. Shelfie looks solid: the 4.7 rating and the steady release cadence both stand out.
+>
+> A few things before we talk about working together:
+>
+> 1. **Users vs. downloads.** The dashboard shows 12.4k downloads and about 5.8k monthly actives. I'd rather we describe it accurately, as "12k+ downloads", since growth partners and anyone doing diligence will check. Does that match how you see it?
+> 2. **Sam.** I understand Sam holds 20% and would need to sign off on a deal. Could you share how that's documented (shareholder or operating agreement) and whether Sam is aware of this conversation? I'm happy to include Sam in a call.
+> 3. **Monetization.** Shelfie is free today. Do you have a plan or a preference (subscription, premium tier, something else)? That shapes how we'd structure a partnership.
+> 4. **Goals.** What would a good outcome look like in 6 months: downloads, actives, or revenue?
+>
+> If easier, a 30-minute call this week works for me.
+>
+> Best,
+> Lin

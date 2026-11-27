@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "The product is real and actively maintained (high confidence)."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The analytics show 12,410 all-time *downloads* but only 5,830 monthly active users in Nov 2026. \"Users\" appears to mean downloads."
+ },
+ "c3": {
+  "pass": false,
+  "quote": "The data is Alex-provided and unaudited. The domain ends in `.example`"
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": false,
+  "quote": "Verbal only. Nothing public confirms it."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The \"12k users\" headline overstates it."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Public App Store page, read directly"
+ }
+}

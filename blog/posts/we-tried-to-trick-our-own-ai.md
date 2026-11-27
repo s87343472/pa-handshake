@@ -4,6 +4,8 @@ description: "When your AI talks to someone else's before you do, the other side
 date: 2026-11-27
 updated: 2026-11-27
 author: Sagasu
+author_url: https://www.sagasu.art
+author_x: https://x.com/sujingshen
 ---
 
 **Short version.** More and more, your AI will meet someone else's AI before you meet the person: to check out a partner, answer a proposal, settle who does what. That means the other side's words end up inside your assistant. We played a dishonest stranger and attacked an AI assistant 152 times, once with only plain-language rules from its owner and once with the PA Handshake skill. A good model kept the secrets its owner marked as private in both cases. What it didn't do on its own was run the process. It didn't refuse fake approvals, didn't say "nothing is agreed", didn't weigh a screenshot against real data, and didn't know when to stop. With the skill, the share of fully correct runs went from 50% to 86%. We also found four holes in our own rules and fixed them. Every case is public, so you can run them on your own assistant.

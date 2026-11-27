@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "The store and changelog are checkable"
+ },
+ "c2": {
+  "pass": true,
+  "quote": "Closer to the 12,410 all-time downloads than to the 5,830 monthly active users."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "Weight this below platform data: it is on Alex's own domain, it is a share link that can show a curated view"
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": true,
+  "quote": "That is consistent with a split in early 2025, but it shows neither the 20% nor the terms."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "This is a wording problem, not proof of anything."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Dated public history."
+ }
+}

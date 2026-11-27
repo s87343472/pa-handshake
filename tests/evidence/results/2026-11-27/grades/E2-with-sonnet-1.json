@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "This is long, dated public history on Alex's own site, so it is level 3 evidence. It is consistent with the App Store release date."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "That figure is cumulative downloads. The same dashboard shows 5,830 monthly active users in Nov 2026... Treat the real size as roughly 5.8k active."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "it is on Alex's own domain rather than a platform's, so I weigh it below App Store data."
+ },
+ "c4": {
+  "pass": false,
+  "quote": "5,830 monthly active users in Nov 2026, about 47% of downloads, and 22% day-30 retention."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "This is only Alex's PA's statement (level 4). The X history fits it: Alex mentions \"my co-founder Sam\" until Feb 2025, then never again."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The claim isn't false, but \"users\" here means installs, not people actively tracking books."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "I looked at it myself, so this is level 2... This is only Alex's PA's statement (level 4)."
+ }
+}

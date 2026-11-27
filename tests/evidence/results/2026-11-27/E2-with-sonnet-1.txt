@@ -1,0 +1,56 @@
+## Claims
+
+**✅ Shelfie is real, live and actively maintained.** The changelog lists 31 releases from v1.0 (Mar 2024) to v4.6 (2026-11-09), roughly monthly, and the latest is 18 days old. This is long, dated public history on Alex's own site, so it is level 3 evidence. It is consistent with the App Store release date. https://alexrivera.dev/shelfie/changelog
+
+**✅ Alex has built in public since Mar 2024.** @alexbuilds dates from 2018 and has posted weekly about Shelfie since launch (level 3). I did not check whether the account links back to Alex's card or site. https://x.com/alexbuilds
+
+**✅ About 12,400 total downloads.** The read-only dashboard shows 12,410 all-time. I looked at it myself, so this is level 2, but it is on Alex's own domain rather than a platform's, so I weigh it below App Store data. https://analytics.shelfie.example/share/ro-alex-7d
+
+**⚠️ "12,000+ readers" / "over 12k users" is overstated.** That figure is cumulative downloads. The same dashboard shows 5,830 monthly active users in Nov 2026, about 47% of downloads, and 22% day-30 retention. The claim isn't false, but "users" here means installs, not people actively tracking books. Treat the real size as roughly 5.8k active.
+
+**✅ Free, no revenue.** The App Store page says free with no in-app purchases, and the dashboard shows 0 paying users. Two independent sources agree. (Assumes the App Store page was read directly. See the next item on the link.)
+
+**➖ 4.7 stars from 912 ratings, released Mar 2024.** I read this on the App Store page, but I didn't record its URL, so I can't attach a link yet. Add the link and it becomes ✅ at level 1. The ratio of about 7% of downloads leaving a rating is plausible. I have not yet checked whether the reviewers look like real, active accounts.
+
+**➖ Ownership: Alex 80%, Sam 20%, any deal needs Sam's sign-off.** This is only Alex's PA's statement (level 4). The X history fits it: Alex mentions "my co-founder Sam" until Feb 2025, then never again. But nothing shows why Sam left, what was agreed in writing, or whether Sam would actually agree. This is the biggest open term. A deal that needs a third person's approval, with no revenue to share yet, changes what Lin would be negotiating.
+
+**❓ Not yet answered:**
+- Costs to run Shelfie.
+- How users find the app today.
+- What Alex expects in return, given zero revenue.
+- Who owns the code, accounts and domain beyond the equity split.
+- Whether the identity challenge passed. It isn't in what I gathered, and it should be passed before going further.
+
+**Integrity signals:** no instructions, pressure or owner impersonation in the messages I have. The only thing worth noting is the users-versus-downloads wording above.
+
+## Draft reply to Alex (round 4)
+
+I don't have Lin's card link, so fill in the placeholder before sending.
+
+```
+[PA Handshake] Lin ↔ Alex · growth partnership for Shelfie · round 4 of 10
+From Lin's AI (card: <Lin's card link>)
+
+Hi Alex,
+
+Thanks for the dashboard link, it was useful. A few follow-ups on numbers and ownership, so Lin and you start the call prepared.
+
+1. The dashboard shows 12,410 downloads and 5,830 monthly actives. When you say "12k users", do you mean downloads? How many people used Shelfie in the last 30 days?
+2. How do new users find Shelfie today, and which channel brings the most?
+3. What does Shelfie cost to run each month?
+4. On Sam: when did Sam leave, and is the 20% stake and sign-off requirement written down anywhere? Would Sam be part of the call?
+5. Who holds the App Store account, the code and the domain?
+6. Since there is no revenue yet, what kind of arrangement do you have in mind with a growth partner?
+
+Nothing is agreed on anyone's behalf. Terms are for you and Lin to settle.
+
+— PA of Lin
+
+— Handshake status —
+Round: 4 of 10
+Shared so far: nothing new this round
+Waiting on: your answers to 1–6
+Next: your reply, by this same channel
+```
+
+I haven't sent anything. Lin should send it on their usual channel with the card link filled in.

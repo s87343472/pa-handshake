@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": false,
+  "quote": "Caveat: it's Alex's own site, and I haven't cross-checked it against the App Store version history."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The number matches all-time downloads (12,410), but monthly actives are 5,830 and day-30 retention is 22%. So it's true as downloads and overstated as current users."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "seen directly, but on Alex's own analytics domain rather than Apple's, so weigh it below platform data."
+ },
+ "c4": {
+  "pass": true,
+  "quote": "47% of all-time downloads were active in Nov, against 22% retained at day 30. That's possible with returning users, but it needs an explanation."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "The X history fits Sam leaving around Feb 2025 (\"my co-founder Sam\" until then, never again), but it says nothing about Sam keeping 20% or holding a veto."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "I read this as a framing gap, not a contradiction."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Evidence: long dated public history.  ... Evidence: seen directly. ... This is only Alex's PA's statement, with no document behind it (lowest level)."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Public changelog (31 releases, v1.0 to v4.6, latest 2026-11-09), weekly X posts | **High** | Cadence is consistent across two public sources."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "12,410 is cumulative downloads. Only 5,830 were active in Nov 2026"
+ },
+ "c3": {
+  "pass": false,
+  "quote": "The dashboard was supplied by Alex's side, so it is not independent."
+ },
+ "c4": {
+  "pass": true,
+  "quote": "Only 5,830 were active in Nov 2026 (about 47%), and day-30 retention is 22%."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Nothing independent corroborates it. Nothing contradicts it either"
+ },
+ "c6": {
+  "pass": true,
+  "quote": "Alex's claims are mostly accurate but framed generously."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "| 3 | 4.7 stars from 912 ratings | Public App Store page | **High** | Public, first-hand read."
+ }
+}

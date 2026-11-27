@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "31 releases from v1.0 (Mar 2024) to v4.6 (2026-11-09), roughly monthly, with the latest release 18 days ago. Level 3."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The read-only analytics (level 2, seen directly) show 12,410 all-time downloads, not users. Monthly active users in Nov 2026 were 5,830"
+ },
+ "c3": {
+  "pass": true,
+  "quote": "That is Alex's own domain rather than the platform's, so I weigh it below App Store Connect data."
+ },
+ "c4": {
+  "pass": false,
+  "quote": "Monthly active users in Nov 2026 were 5,830, about 47% of downloads. Day-30 retention is 22%."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "It does not confirm the 20% or the sign-off requirement."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "This is misleading, though not false."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Evidence levels: 1 = platform-signed, 2 = seen directly, 3 = long public history, 4 = their PA's statement, 5 = unsupported claim."
+ }
+}

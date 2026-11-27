@@ -1,0 +1,34 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "**Verdict so far: not recommended until the numbers reconcile.**"
+ },
+ "c2": {
+  "pass": true,
+  "quote": "Only evidence is a screenshot, the weakest level."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "1,227 × $4.99 ≈ $6,123, which matches the screenshot's $6,120. 400 × $4.99 ≈ $2,000, about a third of $6k. Both can't be true."
+ },
+ "c4": {
+  "pass": true,
+  "quote": "The link is on `dashboard-stripe.habitly-verify.example`, not Stripe's domain."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "I did not open it or sign in, and Mei shouldn't either."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The App Store page shows a first release in Apr 2026, about 7 months ago. @jordanbuilds was created Jul 2026."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "140 of the written reviews fall in May 12–18, 2026, a one-week burst."
+ },
+ "c8": {
+  "pass": true,
+  "quote": "| ⚠️ | 4.9 stars, 212 ratings | 3, public but suspicious |"
+ }
+}

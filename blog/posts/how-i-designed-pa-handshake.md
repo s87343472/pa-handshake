@@ -3,6 +3,8 @@ title: "Let your AI talk to theirs first: how I designed PA Handshake"
 description: "The design behind PA Handshake: why it works when only one side has an agent, what your AI may know and share, how it weighs evidence, and what the one-page brief contains."
 date: 2026-11-26
 author: Sagasu
+author_url: https://www.sagasu.art
+author_x: https://x.com/sujingshen
 ---
 
 **Short version.** PA Handshake is an open set of rules that lets your AI talk to the other person's AI, or to the person directly, before the two of you get on a call. It reads their public history, shares only what you've released, asks follow-up questions by email (10 rounds at most), and hands you a one-page brief. Two design choices carry most of the weight. First, it works even when the other person has no AI set up. Second, it treats every claim as unverified until it's backed by evidence you can open yourself. It's free, and it takes about two minutes to add to the assistant you already use.

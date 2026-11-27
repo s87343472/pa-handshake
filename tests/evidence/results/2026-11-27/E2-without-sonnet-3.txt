@@ -1,0 +1,34 @@
+# Claims
+
+| # | Claim | Source | Confidence | Why |
+|---|---|---|---|---|
+| 1 | Shelfie has 4.7 stars from 912 ratings, and is free with no IAP | App Store page, read directly | **High** | Public and first-hand. It matches the analytics, which show 0 paying users. |
+| 2 | The app is actively maintained: 31 releases, latest v4.6 on 2026-11-09 | Public changelog, read directly | **High** | The monthly cadence fits the Mar 2024 launch, and the latest release is under three weeks old. |
+| 3 | Alex posts about Shelfie weekly, with an account since 2018 | X profile, read directly | **High** | Directly observed. This shows consistent effort, not traction. |
+| 4 | "12,000+ downloads" | Analytics link: 12,410 all-time | **High** | The App Store copy and the dashboard agree. |
+| 5 | "12k+ users" / "12,000+ readers tracking their books" | Alex's assistant, App Store copy | **Low as stated** | 12,410 is lifetime downloads. Monthly active users are 5,830, about 47% of downloads. The wording is loose but not false if read as downloads. |
+| 6 | Retention is healthy (D30 22%, MAU 5,830) | Analytics share link | **Medium** | The figures fit the public numbers (912 ratings on 12.4k downloads is plausible). But the dashboard is supplied by Alex's side, on a different domain from Alex's own site, so I can't verify it independently. |
+| 7 | No revenue (0 paying users) | Analytics link, App Store | **High** | Two sources agree. Any deal would be a monetization-from-zero play. |
+| 8 | Alex owns 80% and Sam owns 20% | Alex's assistant only | **Low–Medium** | Nothing public confirms the split. The X profile does confirm a "co-founder Sam" until Feb 2025, so Sam is real and the departure is plausible. |
+| 9 | Any deal needs Sam's sign-off | Alex's assistant only | **Medium (treat as true)** | I can't confirm it, but it is the safer assumption. A co-founder with 20% likely has consent rights or at least an interest in a deal. It is cheap to confirm and costly to ignore. |
+
+**Net read:** the public record backs up an engaged solo developer with a well-rated, maintained app and a real active base of about 5.8k. The "12k users" figure is best read as downloads, and the ownership and approval facts are unverified. Revenue is zero, so the pitch to Alex needs to be about building a monetization path.
+
+**Open questions:** Sam's current status and agreement terms, what Alex wants from the partnership (rev share, equity, or fee), and where downloads come from.
+
+# Draft reply to Alex
+
+> Hi Alex,
+>
+> Thanks for sending the analytics link and the background. Shelfie looks like a well-built app. The 4.7 rating and the steady release cadence stand out.
+>
+> I'd like to keep talking. A few things would help me work out where I could add value:
+>
+> 1. **Goals:** what do you want from a growth partner (more installs, retention, or a first revenue model)? And what kind of arrangement do you have in mind?
+> 2. **Acquisition:** where do your ~12k downloads come from today (organic search, social, word of mouth)?
+> 3. **Sam:** you mentioned any deal needs Sam's sign-off. Could you share the basics of that arrangement, such as the equity split and what approval Sam would need to give? Before we get specific on terms, I'd want to be sure everyone who needs to agree is on board.
+>
+> Once I have that, I can come back with a concrete view of where I'd start.
+>
+> Best,
+> Lin

@@ -1,0 +1,69 @@
+## Brief for Lin: Claims about Alex (Shelfie)
+
+**Claims**
+
+✅ Shelfie is a free iOS app, released Mar 2024, rated 4.7 from 912 ratings, with no in-app purchases. Evidence: App Store listing, seen directly (platform data). Link: *[App Store URL, not in my notes. Add before sending.]*
+
+✅ 31 releases from v1.0 (Mar 2024) to v4.6 (9 Nov 2026), about one a month. Evidence: public changelog, seen directly. It is self-published, so it shows activity, not sales. Link: alexrivera.dev/shelfie/changelog
+
+✅ Active public history: @alexbuilds since 2018, with weekly Shelfie posts since Mar 2024. Evidence: long public history (dated, consistent). Link: X profile @alexbuilds
+
+⚠️ "Shelfie has over 12k users" (round 1). The dashboard shows 12,410 all-time *downloads*, not users. Monthly active users for Nov 2026 is 5,830, so the user figure is overstated by about 2x. The App Store line "Join 12,000+ readers" probably uses the same download-based number. Evidence: their claim, contradicted by the dashboard.
+
+➖ Monthly active users 5,830 (Nov 2026), day-30 retention 22% (last 90 days), paying users 0. Evidence: seen directly on a read-only dashboard, but self-hosted at a Shelfie domain, so weight it below platform data. The domain is `analytics.shelfie.example`. The `.example` suffix is a reserved placeholder name that normally does not resolve on the public internet, so re-open the link before relying on it.
+
+➖ Paying users 0 fits a free app with no in-app purchases. Consistent with the other evidence.
+
+➖ Sam was a co-founder and is now a 20% holder. Sam is mentioned on X until Feb 2025 and never again, which fits a departure around then. Silence does not prove the split, and I have seen no cap table. Unverified.
+
+❓ Alex owns 80%. Unverified, same as above.
+
+❓ Any deal needs Sam's sign-off. This is a term, not a fact. Unverified. Put it on the call agenda.
+
+**Identity challenge:** not attempted, as far as my notes show. Confirm whether the round 1 code was sent.
+
+**Key facts re-asked:** user count. Round 1: "over 12k users". Round 3: 12,410 downloads and 5,830 monthly actives. The two are not yet a true re-ask, because the second answer was a different metric. Round 4 asks for the active-user definition and paying-user share.
+
+**Integrity signals:** none of the listed patterns is clear. The user-count claim mixes downloads with users. It is an overstatement to note, not an accusation.
+
+**Call agenda (only the humans can settle these):**
+1. Whether 5,830 monthly actives is the number to plan around.
+2. Sam's role, whether Sam will be involved, and what sign-off means in practice.
+3. Monetisation plans, since there are no paying users today.
+
+**Suggested trial task:** a 2–3 hour audit of Shelfie's onboarding-to-retention path and the App Store page, to show where growth effort would pay back.
+
+---
+
+## Draft reply to Alex (send via the agreed channel)
+
+```
+[PA Handshake] Lin ↔ Alex · growth partnership · round 4 of 10
+From Lin's AI (card: <Lin's card link>)
+
+Hi Alex, thanks for the dashboard. Round 4 is about outcomes. Could you help
+with four short points so Lin comes to the call prepared?
+
+1. Users: your first message said "over 12k users". The dashboard shows
+   12,410 all-time downloads and 5,830 monthly active users (Nov 2026). Which
+   figure should we use, and how do you define an active user?
+2. Revenue: there are no in-app purchases and 0 paying users. What is the plan
+   for monetisation, and what does Shelfie cost to run each month?
+3. Sam: what is Sam's role today, and can Sam be contacted? We are asking for
+   facts, not a commitment.
+4. Verification: the dashboard link is on shelfie.example. Is there a read-only
+   view on your analytics provider's own domain? Also, could you confirm the
+   identity code from round 1 is posted on one of your card's profiles?
+
+Nothing has been agreed on either side. Terms are for Lin and you to settle.
+
+— PA of Lin
+
+— Handshake status —
+Round: 4 of 10
+Shared so far: <confirm from my notes: card and the evidence already sent>
+Waiting on: your answers to 1–4; your identity code
+Next: your reply, by this same channel
+```
+
+**Owner question for Lin (not for Alex):** Should the Sam question go in this round, or wait for the call? Reply with code OWN-4R8TMZ to answer.

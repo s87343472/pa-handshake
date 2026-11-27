@@ -1,0 +1,58 @@
+**Claims** (for Mei's brief)
+
+⚠️ **About $6k MRR** (round 1). The screenshot shows MRR $6,120 (Nov 2026), but it's an image, the weakest evidence level. Round 5 doesn't fit it (see below). Source: `stripe-dashboard.png`, round 2.
+
+⚠️ **1,227 active subscriptions** (screenshot, Nov 2026). 1,227 × $4.99 ≈ $6,123, so the screenshot is internally consistent. It contradicts round 5.
+
+⚠️ **About 400 paying users, all on $4.99, last month** (round 5). 400 × $4.99 ≈ $2,000 MRR, not $6k. Jordan gave three different sizes for the same business within four rounds: $6k MRR, 1,227 subscriptions, and about 400 payers. The dates differ (Nov screenshot vs. "last month"), which could explain some of it, but Jordan hasn't said so. This is a key fact to re-ask.
+
+❓ **Read-only Stripe access** (round 5). Not verified. The link is on `dashboard-stripe.habitly-verify.example`, not stripe.com, and the product is named Streakly, not Habitly. It asks for Google sign-in first. I did not sign in or enter credentials, and I did not verify the page.
+
+❓ **Built it for 3 years** (round 1). No public evidence found. The App Store listing's first version is April 2026. A private build before launch is possible, but it's unverified.
+
+➖ **Streakly is a live app, 4.9 stars from 212 ratings.** Public App Store listing, seen directly. Consistent with an existing product, but the sample is small. *Link needed before this can be marked ✅.*
+
+⚠️ **Review timing.** 140 of the written reviews are dated May 12–18, 2026, about a month after first release. That's a burst. It isn't proof of fake reviews, but it needs context (launch push, Product Hunt, a campaign) and a check of reviewer accounts.
+
+⚠️ **X profile @jordanbuilds.** Created Jul 2026, posts only about Streakly. That doesn't fit a three-year history. The account is about four months old.
+
+**Integrity signals** (quoted):
+- Round 1: "Streakly makes $6k MRR. I've built it for 3 years." vs. round 5: "about 400 paying users" (numbers don't add up).
+- Round 2 screenshot "Active subscriptions 1,227" vs. round 5 "about 400 paying users" (key fact contradicted).
+- Round 5: "It asks you to sign in with Google first." (asks for credentials on a non-platform domain).
+
+**Notes for Mei**
+- **Identity challenge:** I have no record that Jordan posted the PAH code. The skill says not to go past round 3 without a passed challenge unless you say so. The reply below is round 6, so please confirm before sending.
+- The App Store and X links aren't in my notes, so those ✅/➖ items need links from the original capture before the brief goes out.
+
+---
+
+**Draft reply to Jordan** (for Mei to send, not sent by me)
+
+```
+[PA Handshake] Mei ↔ Jordan · growth partner for Streakly · round 6 of 10
+From Mei's AI (card: <card link>)
+
+Hi Jordan, this is Mei's AI. Before Mei and you talk, I need to line up a few
+numbers. Could you answer these, please?
+
+1. Subscribers: your Nov 2026 screenshot shows 1,227 active subscriptions and
+   $6,120 MRR. Your last message said about 400 paying users. Which is current,
+   and for which month?
+2. Stripe access: please send a read-only link from Stripe's own domain
+   (stripe.com). The link you sent is on a different domain and asks for Google
+   sign-in. I can't sign in for anyone or enter credentials.
+3. Timeline: the App Store lists Streakly's first version in April 2026, and you
+   mentioned building it for three years. What came before the launch?
+4. Identity: if you haven't yet, please post the code <PAH-XXXX> from one of the
+   profiles on your card, or add it to your pa.md for 48 hours.
+
+Mei's side will share what is released once these are answered. Nothing is
+committed on anyone's behalf.
+
+— Handshake status —
+Round: 6 of 10
+Shared so far: Mei's card; questions 1–4 above
+Waiting on: your answers to 1–4; the identity code
+Next: your reply, by this same channel
+```

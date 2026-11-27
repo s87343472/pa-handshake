@@ -1,0 +1,31 @@
+## Claims
+
+| # | Claim | Source | Confidence | Why |
+|---|---|---|---|---|
+| 1 | Shelfie has 12k+ downloads | App Store page, Alex's assistant (R1), analytics dashboard (12,410 all-time) | **High** | Three sources agree. The dashboard was supplied by Alex's side, so it is not independent. |
+| 2 | Shelfie has 12k+ users or "readers tracking their books" | App Store copy, Alex's assistant (R1) | **Low as worded** | 12,410 is cumulative downloads. Only 5,830 were active in Nov 2026 (about 47%), and day-30 retention is 22%. The claim is technically defensible but overstates the active base by roughly 2x. |
+| 3 | 4.7 stars from 912 ratings | Public App Store page | **High** | Public, first-hand read. About 7% of downloads left a rating, which is plausible. |
+| 4 | The product is actively maintained | Public changelog (31 releases, v1.0 to v4.6, latest 2026-11-09), weekly X posts | **High** | Cadence is consistent across two public sources. The changelog is self-published, but the cadence matches the X activity. |
+| 5 | Free, no monetization (0 paying users) | App Store page, dashboard | **High** | Both sources agree. This means no revenue and untested willingness to pay, so any partnership is about growth or monetization from scratch. |
+| 6 | Sam is a former co-founder | X profile, Alex's assistant (R2) | **Moderate-high** | Alex mentioned "my co-founder Sam" until Feb 2025, then never again. This fits a departure but doesn't say how it ended. |
+| 7 | Alex owns 80% and Sam owns 20% | Alex's assistant only | **Low-moderate** | Nothing independent corroborates it. Nothing contradicts it either, and volunteering a constraint is mildly credible. We need a cap table or a founder agreement. |
+| 8 | Any deal needs Sam's sign-off | Alex's assistant only | **Moderate** | It is plausible given a 20% holder, and it works against Alex's interest, which adds credibility. The legal basis (shareholder agreement versus plain ownership) is unknown, as is Sam's attitude toward a deal. |
+
+**Overall:** Alex's claims are mostly accurate but framed generously. The 12k figure is downloads rather than active users. The real position is about 5.8k MAU, 22% D30 retention, no revenue, and a solid rating. The main open risk is the ownership structure, which rests on Alex's word alone.
+
+## Draft reply to Alex
+
+> Hi Alex,
+>
+> Thanks for the analytics access and for being upfront about the cap table. Shelfie looks well-maintained, and a 4.7 across 912 ratings is a strong base.
+>
+> To make sure we're working from the same numbers: I read the 12k as lifetime downloads, with about 5.8k monthly actives and 22% day-30 retention. That's a reasonable place to start, and it points to retention and monetization as the real levers. I'd prefer we describe the user base that way, in the App Store copy too.
+>
+> A few things would help me scope a partnership:
+> 1. What outcome do you want from a growth partner: more installs, better retention, or a first revenue model?
+> 2. What deal structure do you have in mind (rev share, equity, fee)?
+> 3. Could you share something documenting the 80/20 split and Sam's approval rights, and is Sam open to joining a call once we have a rough shape?
+>
+> Happy to talk this week.
+>
+> Lin

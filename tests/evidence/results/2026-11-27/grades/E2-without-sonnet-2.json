@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Cadence is consistent with the timeline. The changelog is Alex's own site, but it matches the App Store release date."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "\"12k users\" means downloads, and active users are about 5.8k."
+ },
+ "c3": {
+  "pass": false,
+  "quote": "The source is a dashboard Alex's side supplied, so I can't independently confirm it's unedited or measured as stated."
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Nothing public confirms the split."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "Nothing found looks fabricated. The main issue is framing"
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Changelog: 31 releases, v1.0 (Mar 2024) to v4.6 (2026-11-09), about monthly"
+ }
+}

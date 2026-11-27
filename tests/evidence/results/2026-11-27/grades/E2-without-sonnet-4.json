@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "**High** | 31 releases over about 32 months, with the latest (v4.6) on 2026-11-09, 18 days ago."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "downloads aren't users. Monthly active users are 5,830, about 47% of downloads."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "the dashboard is hosted and shared by Alex's side, so I can't independently confirm it."
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Nothing public confirms the split, Sam's current status, or who holds the App Store account and IP."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "I found no sign of fabrication."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Public and first-hand."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Verified on the public App Store page."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "the defensible figures are about 12.4k downloads and about 5.8k monthly actives"
+ },
+ "c3": {
+  "pass": false,
+  "quote": "Comes from a read-only analytics link supplied by Alex's assistant. It's first-party and internally plausible"
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Sam's name disappears from Alex's X posts after February 2025, which fits a split but doesn't prove one."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The \"12k users\" claim is overstated"
+ },
+ "c7": {
+  "pass": true,
+  "quote": "Read directly from the public profile."
+ }
+}

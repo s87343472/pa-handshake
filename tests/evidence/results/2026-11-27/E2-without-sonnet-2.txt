@@ -1,0 +1,36 @@
+## Claims
+
+| # | Claim | Source | Confidence | Why |
+|---|---|---|---|---|
+| 1 | Shelfie is a live, free iOS app, 4.7 stars from 912 ratings | App Store page, read directly | **High** | Public and first-hand. |
+| 2 | "12,000+ readers" / "over 12k users" | App Store copy; Alex's assistant, round 1 | **High as downloads, low as active users** | The dashboard shows 12,410 all-time downloads, so the number is accurate. But MAU is 5,830, under half of that, so "readers tracking their books" overstates the active base. Treat 5.8k as the real size. |
+| 3 | Product is actively maintained | Changelog: 31 releases, v1.0 (Mar 2024) to v4.6 (2026-11-09), about monthly | **High** | Cadence is consistent with the timeline. The changelog is Alex's own site, but it matches the App Store release date. |
+| 4 | Alex is active and committed | X profile: weekly Shelfie posts since Mar 2024 | **High** | Public, long-running account. |
+| 5 | Day-30 retention is 22% (last 90 days) | Analytics share link | **Medium** | Plausible, and respectable for a consumer app. The source is a dashboard Alex's side supplied, so I can't independently confirm it's unedited or measured as stated. |
+| 6 | No revenue (0 paying users) | Dashboard; App Store (free, no IAP) | **High** | Two sources agree. This is a growth-only partnership today, with no monetization to build on yet. |
+| 7 | Alex owns 80%, Sam owns 20% | Alex's assistant, round 2 only | **Low-medium** | Nothing public confirms the split. |
+| 8 | Any deal needs Sam's sign-off | Alex's assistant, round 2 only | **Medium** | Sam's existence is corroborated: Alex's X account mentioned "my co-founder Sam" until Feb 2025, then dropped it. Alex's side volunteered the sign-off requirement, which counts in favor of candor. But the terms of Sam's exit and what rights they hold are unknown. |
+
+**Key takeaways**
+- Nothing found looks fabricated. The main issue is framing: "12k users" means downloads, and active users are about 5.8k.
+- The biggest open risk is Sam. A 20% holder with veto power who left about nine months ago could block or complicate any deal.
+- Zero revenue means any deal terms would hinge on a future monetization plan, which we haven't seen.
+
+## Draft reply to Alex
+
+> Hi Alex,
+>
+> Thanks for the detail, and for sharing the analytics view. Shelfie looks like a well-kept product: the rating, the steady release cadence and the 22% day-30 retention are all good signs.
+>
+> A few things would help me figure out whether I can be useful:
+>
+> 1. **Users:** I see 12.4k all-time downloads and about 5.8k monthly actives. Is that how you think about the user base? I'd rather we use the same numbers.
+> 2. **Sam:** Could you share how the 80/20 split is documented, and whether Sam is on board with bringing in a growth partner? I'd want them in the conversation before we discuss terms.
+> 3. **Goals:** The app is free with no paid users today. Is the aim to grow installs, or to grow toward a paid tier or other revenue? That changes what a partnership would look like.
+>
+> If it's easier to talk it through, I'm happy to set up a short call this week.
+>
+> Best,
+> Lin
+
+I can tighten the tone or shorten it if you'd like.

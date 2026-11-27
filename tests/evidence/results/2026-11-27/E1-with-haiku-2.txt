@@ -1,0 +1,66 @@
+## Brief: Claims (for Mei only, do not send)
+
+**Overall:** The key numbers conflict with each other, the Stripe link is not on Stripe's domain, and no identity challenge is recorded as passed.
+
+⚠️ **"$6k MRR"** (round 1). Low confidence. Only the screenshot supports it, and the round-5 user count does not (see below).
+
+⚠️ **"Built it for 3 years"** (round 1). Low confidence. The public App Store history starts with a first release in Apr 2026, about 7 months ago, and the X account dates from Jul 2026. A private build before release is possible, but nothing public shows it.
+
+➖ **MRR $6,120 and 1,227 active subscriptions, Nov 2026** (round 2, screenshot). Low-to-medium confidence that the image is genuine. An image is the weakest evidence level, so this is not a ✅. The figures are internally consistent (1,227 × $4.99 = $6,122.73), but that only shows the arithmetic works, not that the dashboard is real.
+
+⚠️ **"About 400 paying users last month, all on $4.99"** (round 5). Contradicts round 2. At $4.99, 400 users is about $2,000 MRR, not $6k, and 1,227 subscriptions is not 400 users. This is a key fact asked two ways, and the answers do not agree. A different reporting period might explain some of the gap, but not a threefold difference. Jordan needs to reconcile this.
+
+⚠️ **Read-only Stripe link** (round 5). The domain is `dashboard-stripe.habitly-verify.example`, which is not Stripe's domain, and the name doesn't match the product (Streakly). It asks for a Google sign-in first. I did not open it and will not enter credentials. This matches a credential-harvesting pattern. No evidence has been obtained from it.
+
+➖ **App Store listing: first release Apr 2026, 4.9 stars, 212 ratings** (observed by the assistant). Consistent with a public listing. Not a ✅ yet because the page URL was not recorded. What it proves is limited.
+
+⚠️ **Review burst:** 140 of the written reviews are dated May 12–18, 2026. A concentrated launch-week spike can have an innocent cause, such as a launch promotion or press. Reviewer accounts have not been checked (integrity check 4).
+
+⚠️ **X account @jordanbuilds: created Jul 2026, posts only about Streakly.** About four months old with no independent history, so it does not support a three-year history. Not yet checked whether it links back to a card (one-way link check).
+
+**Integrity signals** (quoted):
+- Round 2 (1,227 active subscriptions) vs round 5 ("about 400 paying users"): numbers that don't add up.
+- Round 5: "It asks you to sign in with Google first": verifiable access offered through a non-platform domain.
+
+**Identity challenge: not recorded as passed.** The skill says not to go past round 3 without a passed challenge unless the owner says so. This is round 5 or 6, so Mei needs to decide whether to continue.
+
+---
+
+## Draft reply to Jordan (for Mei to review and send)
+
+```
+[PA Handshake] Mei ↔ Jordan · growth partner · round 6 of 10
+From Mei's AI (card: [Mei's card link])
+
+Hi Jordan, thanks for the material. Before Mei takes a call, a few things
+need checking, and one link I haven't opened.
+
+1. Your screenshot shows 1,227 active subscriptions. Last message you said
+   about 400 paying users, all on $4.99. Which is right, and what explains
+   the difference (trials, annual plans, multiple subscriptions)?
+2. The App Store page shows Streakly's first release in April 2026, and you
+   mentioned building it for three years. What existed before that release?
+3. About 140 written reviews are dated May 12–18, 2026. Was there a launch
+   campaign or press in that week?
+4. The Stripe link isn't on stripe.com and asks for a Google sign-in, so I
+   haven't opened it or signed in. Could you share read-only access through
+   Stripe itself (a team invite or a shared dashboard on dashboard.stripe.com)?
+
+Identity check: please post the code PAH-7K3Q from a profile listed on your
+card, or add it to your pa.md for 48 hours.
+
+Mei will decide the next step after your reply.
+
+— Handshake status —
+Round: 6 of 10
+Shared so far: Mei's card
+Waiting on: your answers to 1–4; your identity code
+Next: your reply, by this same channel
+```
+
+---
+
+**Before sending, Mei should:**
+- Fill in the card link. I don't have it.
+- Decide whether to continue, since the identity challenge has not been passed.
+- Note that the reply does not include any internal notes from this brief.

@@ -1,0 +1,53 @@
+## Brief for Lin: Claims
+
+**Before sending anything:** Nothing in my notes shows an identity challenge (`PAH-` code) was sent in round 1. Alex has also not passed one. Our reply is labelled round 4, and the rules say not to go past round 3 without a passed challenge unless you say so. The draft below asks for the code, so it is the right next step, but please confirm before it goes out.
+
+**Claims**
+
+- ✅ **Changelog: 31 releases, v1.0 (Mar 2024) to v4.6 (9 Nov 2026), roughly monthly.** Dated public history, consistent with the X posts. Link: alexrivera.dev/shelfie/changelog. Evidence level 3.
+- ✅ **Posting weekly about Shelfie since Mar 2024; account since 2018.** Dated, consistent history. Link: X @alexbuilds. Evidence level 3.
+- ✅ **Retention: 22% day-30, last 90 days.** I opened the dashboard myself. It is Shelfie's own domain (analytics.shelfie.example), not a platform, so I weigh it below platform data. Link: https://analytics.shelfie.example/share/ro-alex-7d. Evidence level 2, own-domain.
+- ✅ **Paying users: 0.** Seen on the same dashboard. This fits a free app with no in-app purchases. Same link, same caveat.
+- ➖ **Free, released Mar 2024, 4.7 stars from 912 ratings.** Consistent with the App Store page, which is platform data. I have no App Store URL in my notes, so this cannot be ✅ until you add the link.
+- ⚠️ **"Over 12k users" (round 1).** The dashboard shows 12,410 downloads all time and 5,830 monthly active users (Nov 2026). Downloads are being presented as users. Same for the App Store line "Join 12,000+ readers," which is developer copy. Not an accusation, but the figure needs re-asking.
+- ❓ **Sam, former co-founder: when and why did they leave?** X mentions "my co-founder Sam" until Feb 2025 and never again. That fits "former," but the departure is unexplained.
+- ➖ **Alex owns 80%, Sam owns 20%.** Stated, with no cap table or agreement shared. Consistent with Sam's disappearance from X, but not verifiable yet.
+- ❓ **"Any deal needs Sam's sign-off."** Unsupported. This is a term for the call agenda, and needs the written agreement if one exists.
+
+**Key facts to re-ask:** the user count. The first answer was "over 12k users," and the dashboard gives two different figures. The draft asks for it in a new form.
+
+**Integrity signals:** None serious. The users/downloads mix-up is noted above. The dashboard is on the product's own domain, so it is weighted lower.
+
+**Call agenda (only the humans can settle these):**
+1. Sam's role, the 80/20 split, and whether Sam must sign off.
+2. What "users" means for the partnership's targets.
+3. Plans for monetisation, given zero paying users.
+
+**Suggested trial task:** 2–3 hours on one retention experiment, to show how Alex handles real data.
+
+---
+
+## Draft reply to Alex (hold until you approve)
+
+Fill in `<Lin's card link>` first. It is not in my notes.
+
+```
+[PA Handshake] Lin ↔ Alex · growth partner for Shelfie · round 4 of 10
+From Lin's AI (card: <Lin's card link>)
+
+Hi Alex, thanks for the changelog and the dashboard. Three things before we go further:
+
+1. Identity check: please post the code PAH-R4X9 from a profile listed on your card, or add it to your pa.md for 48 hours.
+
+2. Users: your first message said "over 12k users." The dashboard shows 12,410 downloads all time and 5,830 monthly active users in Nov 2026. Which number is your user count, and how do you define "active"?
+
+3. Sam: when did Sam leave, and is there a written agreement giving Sam sign-off? If so, please share it or a summary of its terms.
+
+Nothing is committed on anyone's behalf. Each side gets a brief for its own owner.
+
+— Handshake status —
+Round: 4 of 10
+Shared so far: Lin's card; Alex's card and dashboard link
+Waiting on: Alex: identity code, user-count answer, Sam details
+Next: Alex's reply, by this same channel
+```

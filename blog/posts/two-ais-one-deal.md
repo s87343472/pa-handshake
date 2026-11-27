@@ -3,6 +3,8 @@ title: "Two AIs talked through a partnership deal. Here's what happened, round b
 description: "We had two AI assistants run a full PA Handshake for a simulated app partnership, twice. The first run was safe and honest but missed half of what mattered, because two careful agents kept waiting for each other. Four rule changes later, the second run found everything, earlier. A round-by-round look at both, with the real briefs."
 date: 2026-11-27
 author: Sagasu
+author_url: https://www.sagasu.art
+author_x: https://x.com/sujingshen
 ---
 
 **Short version.** We had two AI assistants run a full PA Handshake against each other. One stood in for Lin, a growth person. The other stood in for Alex, who built a free reading app and wants a partner. Each assistant knew only its own owner's released material and the other side's public pages. In the first run, both were safe and honest: nothing private leaked and nothing was promised. But they missed two of the four things that decide this deal. The app's "12,000+ readers" were downloads, not active users, and the two sides wanted incompatible terms. The cause wasn't lying. It was two cautious agents, each waiting for the other to go first. We changed four rules and ran the same scenario again. The second run surfaced all four findings, two to three rounds earlier, with no stalls. Everything here is simulated, and every log and brief is in the [public repository](https://github.com/s87343472/pa-handshake/tree/main/tests/two-sided/sf-app).

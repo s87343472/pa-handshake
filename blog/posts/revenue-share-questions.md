@@ -3,6 +3,8 @@ title: "Before you agree to a revenue share, have your AI ask these 7 questions"
 description: "Revenue-share deals between indie builders usually go wrong in the same few places. Seven questions to settle before the first call, and how to have your AI ask them for you."
 date: 2026-11-26
 author: Sagasu
+author_url: https://www.sagasu.art
+author_x: https://x.com/sujingshen
 ---
 
 **Short version.** Most revenue-share deals between indie builders don't fail because someone lied. They fail because nobody asked the dull questions early: what counts as revenue, who can see the numbers, who else has a claim, and how either side can walk away. Ask these seven before the first call. Your AI can do the reading and send the questions for you, and it will never agree to anything on your behalf.

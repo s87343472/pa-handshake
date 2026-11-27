@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "this is a long dated public history (level 3), not platform-signed"
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The read-only analytics show 12,410 downloads all-time, but only 5,830 monthly active users in Nov 2026. The claim is true of downloads and misleading as \"users\"."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "the dashboard sits on Shelfie's own domain, not Apple's, so I weigh it below platform data"
+ },
+ "c4": {
+  "pass": true,
+  "quote": "MAU is about 47% of all-time downloads. That's possible if early installers stuck around, but it's a high ratio next to 22% D30."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Alex's X account (@alexbuilds) is consistent with it: it mentions \"my co-founder Sam\" until Feb 2025 and never again."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "It's not an accusation, but I'm treating it as a number to check."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "This comes from the platform's own App Store page (evidence level 1)."
+ }
+}

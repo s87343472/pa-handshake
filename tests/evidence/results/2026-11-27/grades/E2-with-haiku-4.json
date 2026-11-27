@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": false,
+  "quote": "The changelog is on Alex's own site, so check a few release dates against the App Store version history."
+ },
+ "c2": {
+  "pass": true,
+  "quote": "12,410 is total downloads all time, and monthly active users for Nov 2026 is 5,830. Downloads are not users."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "the domain is Alex's own (`analytics.shelfie.example`), not a platform's, so it gets less weight than platform data."
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": false,
+  "quote": "The claim that Alex owns 80%, Sam owns 20%, and any deal needs Sam's sign-off is Alex's unsupported statement."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "This is probably a labelling mix-up, not proof of anything, but it should be asked directly."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "I was the one who looked (seen directly), but the domain is Alex's own"
+ }
+}

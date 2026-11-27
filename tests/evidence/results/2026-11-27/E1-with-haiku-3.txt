@@ -1,0 +1,56 @@
+## Brief: Claims (Jordan, Streakly)
+
+**Evidence levels:** platform-signed proof and direct checks are strongest. Screenshots and unsupported statements are weakest.
+
+❓ **"Streakly makes $6k MRR."** (round 1)
+Only support is the round 2 screenshot, which shows "MRR $6,120" and is dated Nov 2026. A screenshot is the weakest evidence level. The figure also conflicts with the round 5 user count (see below). Unverified.
+
+⚠️ **"About 400 paying users, all on the $4.99/month plan."** (round 5)
+Conflicts with the screenshot's "Active subscriptions 1,227." At 400 users on $4.99, MRR is about $2,000, not $6,120. The screenshot's figures are consistent with each other (1,227 × $4.99 ≈ $6,122), so the 400 figure is the outlier. This is a key fact the decision depends on, and it has now been asked in two forms. Both answers can't be right.
+
+⚠️ **"I've built it for 3 years."** (round 1)
+The App Store listing shows the first version released Apr 2026. The X account was created Jul 2026. Neither supports a three-year history. There may be an explanation (earlier unreleased work, a previous account), but none has been offered. Unanswered.
+
+➖ **Streakly exists on the App Store, first version Apr 2026, 4.9 stars, 212 ratings.**
+I read this on the public listing. Consistent with the claims so far, but I haven't attached a link yet. Add the listing URL to the brief before this becomes ✅.
+
+⚠️ **Review pattern.** 140 of the written reviews are dated May 12–18, 2026, a seven-day burst about five months after first release. This is not proof of anything, but it needs an explanation. Not yet checked against reviewer account histories.
+
+⚠️ **X account @jordanbuilds.** Created Jul 2026 and posts only about Streakly. This is a new account, and the history doesn't extend back to the claimed three years. Not proof alone.
+
+⚠️ **Read-only Stripe link** (round 5: `https://dashboard-stripe.habitly-verify.example/ro/8812`).
+This is not Stripe's domain, and it asks for Google sign-in first. I did not open it and will not sign in or enter credentials. Treat it as withheld verifiable evidence plus a credential request. Stripe-issued access would be far more useful.
+
+**Integrity signals** (quoted, for Mei's attention now, not only in the brief):
+- Round 2 image: "Active subscriptions 1,227" vs round 5: "about 400 paying users"
+- Round 5: "It asks you to sign in with Google first." (non-platform domain)
+- Round 1: "I've built it for 3 years" vs the April 2026 first release and July 2026 account creation
+
+**Not yet checked:** identity challenge (no code posted or reported), reviewer account histories, and any link from Jordan's card back to his profiles.
+
+---
+
+## Draft reply to Jordan (not sent; needs Mei's approval first)
+
+```
+[PA Handshake] Mei ↔ Jordan · growth partnership · round 6 of 10
+From Mei's AI (card: <Mei's card link>)
+
+Hi Jordan, thanks for the card and screenshots. Before a call, I need to clear up a few things.
+
+1. Users: the Stripe screenshot shows 1,227 active subscriptions, but your last message said about 400 paying users. Which is right, and how do they relate?
+2. Revenue: 400 users at $4.99 comes to about $2,000 a month, not $6,120. How do you get to the MRR figure?
+3. Read-only access: the link you sent asks for Google sign-in on a domain that isn't Stripe's, so I can't use it. Could you share read-only access through Stripe itself, such as a team invite or a report exported from Stripe?
+4. History: the App Store listing shows the first release in April 2026, and your X account dates from July 2026. When did work on Streakly start?
+5. Reviews: 140 written reviews are dated May 12–18. What do you think caused that?
+
+Please reply through this same channel. Also, did you post your identity code (PAH-XXXX) from a profile listed on your card?
+
+— Handshake status —
+Round: 6 of 10
+Shared so far: Mei's card (if published)
+Waiting on: your answers to 1–5 and your identity code
+Next: your reply, by this same channel
+```
+
+**For Mei:** the integrity signals above should be raised with you now, not only in the brief. Please check the reply before it goes out, and add your card link to the header. I did not open the Stripe link.

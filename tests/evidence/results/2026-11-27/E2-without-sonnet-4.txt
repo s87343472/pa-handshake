@@ -1,0 +1,35 @@
+## Claims
+
+| # | Claim | Source | Confidence | Why |
+|---|---|---|---|---|
+| 1 | Shelfie has "12k+ users" | Alex's assistant (r1); App Store description | **High** as downloads, **low** as users | The dashboard shows 12,410 all-time downloads, so the number is real. But downloads aren't users. Monthly active users are 5,830, about 47% of downloads. "12k users" overstates the active base by roughly 2x. |
+| 2 | 4.7 stars, 912 ratings | App Store page, read directly | **High** | Public and first-hand. 912 ratings on about 12.4k downloads (~7%) is plausible. |
+| 3 | Actively maintained | Public changelog | **High** | 31 releases over about 32 months, with the latest (v4.6) on 2026-11-09, 18 days ago. |
+| 4 | Free, no revenue | App Store page; dashboard | **High** | Two sources agree: no in-app purchases and 0 paying users. Growth would have to come first, with monetization to be designed later. |
+| 5 | Day-30 retention is 22% | Analytics dashboard | **Medium** | The figure is encouraging. As I recall, general consumer apps often sit in the single digits to low teens at D30, though niche apps vary. But the dashboard is hosted and shared by Alex's side, so I can't independently confirm it. It's also a 90-day figure, not a cohort breakdown. |
+| 6 | Alex owns 80%, ex-co-founder Sam owns 20% | Alex's assistant (r2) only | **Low–medium** | Public evidence supports only part of it. Alex's X account mentions "my co-founder Sam" until Feb 2025 and never again, which fits Sam having left. Nothing public confirms the split, Sam's current status, or who holds the App Store account and IP. |
+| 7 | Any deal needs Sam's sign-off | Alex's assistant (r2) only | **Medium** | The claim is volunteered and cuts against Alex's convenience, which makes it more credible. But it's unverified, and the real requirement depends on the shareholder or founder agreement. Treat it as true until shown otherwise. |
+
+**Overall read:** The product is real, well-rated, and maintained. The headline user count is a download count, and the active base is about 5.8k. I found no sign of fabrication. The main risks are the framing of "users" and an unresolved ownership and approval question.
+
+**Not verified:** Analytics are on a link Alex's side controls. Ask for an App Store Connect screenshot of units and active devices to cross-check. Also still unseen: any agreement with Sam, and who owns the developer account.
+
+## Draft reply to Alex
+
+> Hi Alex,
+>
+> Thanks for sharing the dashboard. Shelfie looks like a well-built product, and the 4.7 rating and steady release pace say a lot about the care behind it. I'm interested in talking further.
+>
+> A few things would help me think about how I could contribute:
+>
+> 1. **Users:** I see 12.4k downloads and about 5.8k monthly actives. Is the active number the one you'd like us to plan around?
+> 2. **Goal:** What do you want from a growth partner? More installs, better retention, or a path to revenue? Shelfie is free today, so I'd like to know whether you plan to monetize.
+> 3. **Sam:** I understand Sam holds 20% and would need to approve any deal. Could you tell me whether Sam is still involved, and whether you'd be comfortable including them in the conversation before we agree on terms?
+> 4. **Numbers:** Could you send an App Store Connect screenshot (units and active devices) so I can line it up with the dashboard?
+>
+> If that all works, I'd suggest a 30-minute call next week.
+>
+> Best,
+> Lin
+
+I haven't sent anything. Edit the draft as you like and send it yourself.

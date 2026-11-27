@@ -1,0 +1,30 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Public and first-hand. It matches the analytics"
+ },
+ "c2": {
+  "pass": true,
+  "quote": "12,410 is lifetime downloads. Monthly active users are 5,830, about 47% of downloads."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "the dashboard is supplied by Alex's side, on a different domain from Alex's own site, so I can't verify it independently."
+ },
+ "c4": {
+  "pass": false,
+  "quote": ""
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Nothing public confirms the split. The X profile does confirm a \"co-founder Sam\" until Feb 2025, so Sam is real and the departure is plausible."
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The wording is loose but not false if read as downloads."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "| 3 | Alex posts about Shelfie weekly, with an account since 2018 | X profile, read directly | **High** | Directly observed."
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "none of Jordan's headline claims should be relied on yet"
+ },
+ "c2": {
+  "pass": true,
+  "quote": "The only support is a PNG screenshot (\"MRR $6,120\", dated Nov 2026), which is easy to fake or edit."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "400 × $4.99 ≈ $2,000 MRR, about a third of the claim. Both can't be true."
+ },
+ "c4": {
+  "pass": true,
+  "quote": "The domain is `dashboard-stripe.habitly-verify.example`, not stripe.com."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Could we do a quick live screen share where you open your Stripe dashboard at dashboard.stripe.com?"
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The App Store shows the first version released Apr 2026, about 7 months ago. His X account dates from Jul 2026"
+ },
+ "c7": {
+  "pass": true,
+  "quote": "140 of the written reviews fall within one 7-day window (May 12–18, 2026)."
+ },
+ "c8": {
+  "pass": false,
+  "quote": "The only support is a PNG screenshot"
+ }
+}

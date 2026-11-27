@@ -1,0 +1,29 @@
+## Claims
+
+| # | Claim | Source | Confidence | Why |
+|---|---|---|---|---|
+| 1 | Shelfie is free, has no in-app purchases, launched Mar 2024, and has 4.7 stars from 912 ratings | Public App Store page, read directly | **High** | Directly observed. It's a snapshot from when it was read. |
+| 2 | 31 releases, v1.0 (Mar 2024) to v4.6 (2026-11-09), roughly monthly | Public changelog, read directly | **High** that the page says this; **medium** that it reflects real shipping | The changelog is self-maintained. The v4.6 date is recent relative to today (2026-11-27), which fits. |
+| 3 | Alex has posted weekly about Shelfie since Mar 2024 | X profile, read directly | **Medium** | Profile history shows the pattern but doesn't confirm every week. Spot-check a few months if it matters. |
+| 4 | "Co-founder Sam" left the story after Feb 2025 | X profile | **Medium-low** | Absence of mentions is consistent with a departure but doesn't establish one. |
+| 5 | "Shelfie has over 12k users" | Alex's assistant, round 1 | **Low as stated** | The analytics show 12,410 all-time *downloads* but only 5,830 monthly active users in Nov 2026. "Users" appears to mean downloads. The App Store line "Join 12,000+ readers" has the same problem. The overlap with 12,410 makes this the most likely explanation, but it's still an inference. |
+| 6 | Analytics: 12,410 downloads, 5,830 MAU (Nov 2026), 22% day-30 retention, 0 paying users | Share link supplied by Alex's assistant, opened by Lin's assistant | **Medium-high** that the link shows these numbers; **medium** that they're accurate | The data is Alex-provided and unaudited. The domain ends in `.example`, a reserved name that won't resolve in production, so confirm this is the live analytics tool. The zero-revenue figure matches the free, no-IAP App Store listing. |
+| 7 | Ownership split: Alex 80%, Sam 20% | Alex's assistant, round 2 | **Low until documented** | Verbal only. Nothing public confirms it. |
+| 8 | Any deal needs Sam's sign-off | Alex's assistant, round 2 | **Low-medium** | Plausible for a 20% holder, but it depends on the operating agreement. Treat it as a legal question. |
+
+**Overall:** The product is real and actively maintained (high confidence). The scale is modest: about 5.8k monthly actives and no revenue. The "12k users" headline overstates it. Ownership and approval rights are unverified and gate any deal, so they should be documented before Lin commits time.
+
+## Draft reply to Alex
+
+> Hi Alex,
+>
+> Thanks for sharing Shelfie's details. Before we go further, could you help me get a few things right so the plan is built on accurate numbers?
+>
+> 1. The App Store page says "12,000+ readers," and I've seen "over 12k users" mentioned. The analytics show 12,410 all-time downloads and 5,830 monthly active users in November. Which figure do you want us to use publicly? I'd suggest monthly actives or "downloads" wording so it's clearly accurate.
+> 2. Could you send the cap table, or the relevant section of your operating agreement, showing ownership and which approvals a partnership needs? If Sam's sign-off is required, it would help to know that process early.
+> 3. Could you confirm the analytics link is your live dashboard, or send a CSV export of the monthly figures?
+>
+> Once these are in hand, I'm happy to talk through next steps.
+>
+> Thanks,
+> Lin

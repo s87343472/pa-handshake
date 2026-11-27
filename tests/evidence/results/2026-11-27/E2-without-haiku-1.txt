@@ -1,0 +1,29 @@
+## Claims
+
+| # | Claim | Confidence | Why |
+|---|---|---|---|
+| 1 | Shelfie is a live, free iOS reading tracker, released March 2024, with no in-app purchases. | **High** | Verified on the public App Store page. |
+| 2 | Shelfie has had about 31 releases, roughly monthly, up to v4.6 on 2026-11-09. | **High** | Public changelog, and the cadence is consistent with the March 2024 start. |
+| 3 | Alex has posted weekly about Shelfie on X since March 2024. | **High** | Read directly from the public profile. |
+| 4 | Shelfie has about 12,410 all-time downloads. | **Medium-high** | Comes from a read-only analytics link supplied by Alex's assistant. It's first-party and internally plausible (912 ratings is about 7% of downloads, a normal ratio), but it hasn't been independently verified. |
+| 5 | Shelfie has "over 12k users." | **Low** | This conflates downloads with users. The same analytics page shows 5,830 monthly active users for November 2026. The App Store line "12,000+ readers" is marketing copy and tracks downloads, not active users. |
+| 6 | Monthly active users are 5,830 (Nov 2026). | **Medium** | Same first-party source as #4. Consistent with the other figures, but unverified. |
+| 7 | Day-30 retention is 22% (last 90 days). | **Medium-low** | Same source, but this is well above typical mobile benchmarks. Before relying on it, confirm how the cohort is defined. |
+| 8 | Shelfie has 0 paying users. | **Medium-high** | Consistent with the free app and no IAP on the App Store page. It wouldn't rule out web or other paid channels, so check if monetization matters to the deal. |
+| 9 | Alex owns 80% and former co-founder Sam owns 20%. | **Low** | Stated only by Alex's assistant, with no document. Sam's name disappears from Alex's X posts after February 2025, which fits a split but doesn't prove one. |
+| 10 | Any deal requires Sam's sign-off. | **Low** | Unverified, and it determines whether a deal can close at all. Treat as a hard requirement to confirm before any substantive talks. |
+
+**Overall:** Alex's product and activity claims check out. The main risk is the user count. The "12k users" claim is overstated; the defensible figures are about 12.4k downloads and about 5.8k monthly actives. Ownership and Sam's role are the biggest open risks and should be documented before any commitment.
+
+## Draft reply to Alex
+
+> Hi Alex,
+>
+> Thanks for sending the analytics link. Before we go further, I want to make sure we're working from the same numbers. The link shows about 12,400 all-time downloads and about 5,800 monthly active users, so I'd like to use those figures rather than "12k users" in any materials.
+>
+> Could you also confirm the ownership split and how Sam's role factors into any deal? Documentation for that would help us move quickly.
+>
+> Looking forward to your reply.
+>
+> Best,
+> Lin

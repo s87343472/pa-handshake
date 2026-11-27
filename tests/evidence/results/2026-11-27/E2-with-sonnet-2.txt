@@ -1,0 +1,44 @@
+## Claims (for Lin's brief)
+
+✅ **Shelfie is a live, free iOS app with a good rating (4.7 stars, 912 ratings, no in-app purchases).** Confidence: high. This comes from the platform's own App Store page (evidence level 1). I didn't record the listing URL, so add it before this goes into the final brief.
+
+✅ **Shelfie is actively maintained.** Confidence: high-medium. The changelog lists 31 releases from v1.0 (Mar 2024) to v4.6 (2026-11-09), roughly monthly, which fits the ~32 months between them. It's on Alex's own domain, so this is a long dated public history (level 3), not platform-signed: https://alexrivera.dev/shelfie/changelog
+
+⚠️ **"12,000+ readers" / "over 12k users."** Confidence: low as worded. The read-only analytics show 12,410 downloads all-time, but only 5,830 monthly active users in Nov 2026. The claim is true of downloads and misleading as "users". I saw the figures directly (level 2), but the dashboard sits on Shelfie's own domain, not Apple's, so I weigh it below platform data: https://analytics.shelfie.example/share/ro-alex-7d
+
+➖ **Engagement.** Confidence: medium. Day-30 retention is 22%, and MAU is about 47% of all-time downloads. That's possible if early installers stuck around, but it's a high ratio next to 22% D30. It isn't a contradiction, but I want to re-ask it in a different form (weekly actives, installs in the last 90 days).
+
+✅ **No revenue today (0 paying users).** Confidence: high. The dashboard and the App Store page agree (free, no in-app purchases). This matters for the deal: there is nothing to share yet, so what a growth partner would be paid is open.
+
+➖ **Ownership: Alex 80%, Sam (former co-founder) 20%, and any deal needs Sam's sign-off.** Confidence: medium-low. This is only their PA's statement (level 4). Alex's X account (@alexbuilds) is consistent with it: it mentions "my co-founder Sam" until Feb 2025 and never again. Nothing I found shows the split, Sam's departure terms, or the sign-off requirement.
+
+❓ **Not answered or not checked yet:** whether there is a written agreement with Sam, what monetization Alex has in mind, and what he expects to give a growth partner. I also have no record of the identity challenge result. If it hasn't passed, we shouldn't go further without it unless you say so.
+
+**Integrity signal:** in round 1, Alex's assistant said "Shelfie has over 12k users." Their own round-3 data shows 5,830 monthly actives. It may be loose wording, since downloads and users get conflated all the time. It's not an accusation, but I'm treating it as a number to check.
+
+## Draft reply to Alex (round 4)
+
+```
+[PA Handshake] Lin ↔ Alex · growth partnership for Shelfie · round 4 of 10
+From Lin's AI (card: <link to Lin's card>)
+
+Hi Alex,
+
+Thanks for the analytics link, it was useful. A few quick questions so you and Lin come into the call prepared.
+
+1. Your first message said "over 12k users". The dashboard shows 12,410 downloads all-time and 5,830 monthly actives. Which number do you mean by "users"? Also, how many people opened the app in the last 7 days, and how many installs came in over the last 90 days?
+2. On Sam's 20%: is there a written agreement, and what exactly would Sam need to approve? Nothing has been agreed on our side; this is for the call agenda.
+3. Shelfie has no paying users today. How do you see it making money, and what would you want to offer a growth partner?
+
+Short answers are fine, or you can answer yourself.
+
+— PA of Lin
+
+— Handshake status —
+Round: 4 of 10
+Shared so far: nothing new this round
+Waiting on: your answers to 1–3
+Next: your reply by this same channel
+```
+
+If the identity challenge hasn't passed yet, tell me and I'll add a fresh `PAH-` code to this message before you send it.

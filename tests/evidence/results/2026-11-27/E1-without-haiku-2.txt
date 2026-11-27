@@ -1,0 +1,31 @@
+## Claims
+
+| # | Claim | Confidence | Why |
+|---|---|---|---|
+| 1 | Streakly makes ~$6k MRR | **Low** | The screenshot shows $6,120, but round 5 says about 400 paying users at $4.99, which is roughly $2k MRR. Both can't be true. The screenshot also has no visible account name, URL, or login context, so it can't be verified. |
+| 2 | Active subscriptions: 1,227 | **Low** | This matches the MRR figure ($6,120 ≈ 1,227 × $4.99), but it contradicts the "about 400 paying users" in round 5. |
+| 3 | About 400 paying users, all on $4.99/mo | **Low–moderate** | Plausible on its own, but it conflicts with the dashboard figures Jordan sent earlier. |
+| 4 | Built the app over 3 years | **Low** | The App Store listing shows a first release in April 2026. A 3-year build could have been pre-launch work, but nothing public confirms it. |
+| 5 | The read-only Stripe link is a legitimate Stripe dashboard | **Very low** | The domain is not stripe.com, and it asks for Google sign-in on a third-party site. This looks like a credential-harvesting pattern. Treat it as phishing. |
+| 6 | Organic App Store reputation (4.9★, 212 ratings) | **Low** | 140 of the written reviews are dated within a single seven-day window (May 12–18, 2026), shortly after launch. That is an unusual burst. It could reflect a launch push, but it is also consistent with incentivized or fake reviews. |
+| 7 | Jordan is an established builder with a long public presence | **Low** | The X account was created in July 2026 and posts only about Streakly. That doesn't fit a three-year history of building. |
+
+**Overall:** The claims don't corroborate each other. The revenue figures conflict, the verification link looks fraudulent, and the public signals (review burst, new single-purpose account) are inconsistent with the story. I'd treat every revenue and history claim as unverified.
+
+**Recommendations:**
+- Don't sign in to the Stripe link or share any credentials.
+- Don't pay any fee or deposit before verification.
+- Ask for verification through Stripe itself, such as a team invite sent from Stripe, or a live screen share showing the account email.
+- Share no proprietary or financial details of Mei's business until verification is complete.
+
+## Draft reply to Jordan
+
+> Hi Jordan, thanks for reaching out, and for sharing details about Streakly.
+>
+> Before going further, a few things need to line up. The dashboard you sent shows 1,227 active subscriptions and $6,120 MRR, but your last message mentioned about 400 paying users, which would be closer to $2k MRR. Could you clarify which is correct?
+>
+> I also can't use the sign-in link you shared. It isn't on stripe.com, so I won't log in with Google there. If you'd like me to verify the numbers, the simplest options are a Stripe team invite sent directly from your Stripe account, or a short live screen share of your Stripe dashboard with the account email visible.
+>
+> Once those are sorted, I'm happy to talk further.
+>
+> [Mei]

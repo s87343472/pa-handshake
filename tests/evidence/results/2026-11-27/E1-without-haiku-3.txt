@@ -1,0 +1,38 @@
+# Brief: Jordan (Streakly) — Claims
+
+**Bottom line:** Nothing Jordan has said about revenue is verified, and his own figures conflict. The Stripe link is the most urgent concern: it is not on Stripe's domain and asks for Google sign-in first. Don't sign in there.
+
+## Claims
+
+| # | Claim | Source | Confidence it's accurate | Why |
+|---|---|---|---|---|
+| 1 | Streakly makes **$6k MRR** | Jordan, round 1 | **Low** | Unverified, and it conflicts with his round 5 user count (see #3). |
+| 2 | **1,227 active subscriptions**, **$6,120 MRR**, Nov 2026 | Screenshot, round 2 | **Low** | An unsourced image can be edited or cropped. The numbers are internally consistent (1,227 × $4.99 ≈ $6,123), but a fabricated screenshot would be too. |
+| 3 | **~400 paying users** last month, all on $4.99/mo | Jordan, round 5 | **Medium-low** | Conflicts with #2. 400 × $4.99 ≈ $2,000 MRR, about a third of the $6k he claims. Even with timing differences, going from 400 to 1,227 subscribers in one month would need an explanation. Of his two figures, this is the more plausible one for an app with this review history, but it is still unverified. |
+| 4 | Built Streakly over **three years** | Jordan, round 1 | **Low** | The public App Store record shows a first release in **Apr 2026**, about seven months ago. A private build before launch is possible, but nothing shows it. |
+| 5 | Stripe link is a **read-only Stripe dashboard** | Jordan, round 5 | **Very low** | The domain is `habitly-verify.example`, not Stripe, and the app name (Habitly) doesn't match Streakly. It requires Google sign-in first, which is a common credential-phishing pattern. Treat it as hostile until verified. I did not open it. |
+| 6 | Store reviews reflect a real, organic user base | App Store | **Low** | 140 of 212 ratings with written reviews are dated **May 12–18, 2026**, a one-week burst about a month after launch. That pattern can come from a launch spike or a promotion, but it can also come from bought or incentivized reviews. 4.9 stars from 212 ratings is also a thin base. |
+| 7 | Jordan is an independent founder | X profile | **Low / inconclusive** | The account was created Jul 2026 and posts only about Streakly. That is typical of a promotional account, though not proof of anything improper. |
+
+## Assessment
+
+Jordan's claims don't hold together. The most likely explanations are inflated revenue, a timeline stretched to look more established, and possibly a phishing attempt through the Stripe link. Innocent explanations exist for individual items (a private pre-launch build, a launch-week review spike, a new X account), but they don't account for the whole pattern.
+
+## Recommendations
+
+1. **Don't click or sign in** to the Stripe link, and don't give Google or any account access to Mei's systems.
+2. **Verify revenue directly:** ask Jordan to invite Mei as a Viewer through Stripe's own team settings, or to screen-share the Stripe dashboard live on a call.
+3. **Hold any revenue share, partnership, or data sharing** until #2 is done.
+4. If a verified account shows real revenue, revisit #4 and #6 with the actual dates.
+
+---
+
+## Draft reply to Jordan
+
+> Hi Jordan, thanks for sending these. Before we go further, I need to check a few things:
+>
+> 1. **Numbers:** Your last message mentioned about 400 paying users at $4.99/month, but the screenshot shows 1,227 active subscriptions and $6,120 MRR. Those don't line up. Which is current, and how is MRR calculated?
+> 2. **Stripe access:** I won't sign in through that link, since it isn't on Stripe's domain. Could you invite me as a Viewer on your actual Stripe account (Settings → Team), or screen-share the dashboard with me on a call?
+> 3. **Timeline:** The App Store listing shows a first release in April 2026. Can you help me understand how that fits with the three years you mentioned?
+>
+> Once I can check the numbers directly, I'm happy to talk about next steps.

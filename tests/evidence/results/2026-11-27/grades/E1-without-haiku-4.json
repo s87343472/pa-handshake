@@ -1,0 +1,34 @@
+{
+ "c1": {
+  "pass": true,
+  "quote": "Treat the revenue figures as unverified."
+ },
+ "c2": {
+  "pass": false,
+  "quote": "Confidence that it's an authentic, unedited Stripe dashboard: low."
+ },
+ "c3": {
+  "pass": true,
+  "quote": "400 × $4.99 ≈ $2,000 MRR, not $6,120."
+ },
+ "c4": {
+  "pass": true,
+  "quote": "The domain isn't stripe.com, and it uses a different product name (\"habitly\")."
+ },
+ "c5": {
+  "pass": true,
+  "quote": "Ask Jordan to add Mei as a team member in Stripe directly, so the invite comes from Stripe, or to join a screen-share call"
+ },
+ "c6": {
+  "pass": true,
+  "quote": "The App Store first release is April 2026, so a three-year build implies roughly 2.5 years of private development before launch."
+ },
+ "c7": {
+  "pass": true,
+  "quote": "140 of the written reviews (66%) fall within a single seven-day window, May 12–18, 2026"
+ },
+ "c8": {
+  "pass": false,
+  "quote": "Confidence: low (unverified, not contradicted)."
+ }
+}
